@@ -1,0 +1,2 @@
+# semanscope
+Embedding Space Explorer

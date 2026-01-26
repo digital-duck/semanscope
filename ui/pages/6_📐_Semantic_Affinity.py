@@ -24,6 +24,7 @@ from typing import List, Dict, Tuple
 import hashlib
 from multiprocessing import cpu_count
 import time
+import traceback
 from joblib import Parallel, delayed
 from sklearn.preprocessing import StandardScaler
 

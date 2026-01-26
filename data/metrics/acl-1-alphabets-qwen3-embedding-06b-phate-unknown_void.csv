@@ -1,0 +1,4 @@
+chi_statistic,expected_voids,input_name,is_significant,max_void_distance,mean_void_distance,method_name,metric_type,model_name,num_voids,observed_voids,p_value,significance_level,timestamp,total_void_area_estimate,void_distance_std
+,,ACL-1-Alphabets,,,0.09850207975213876,PHATE,void_regions,Qwen3-Embedding-0.6B,4,,,,20260126_101326,,
+0.0,20.0,ACL-1-Alphabets,False,,,PHATE,void_significance,Qwen3-Embedding-0.6B,,20,1.0,0.050000000000000044,20260126_101326,,
+,,ACL-1-Alphabets,,0.1054,,PHATE,void_geometry,Qwen3-Embedding-0.6B,,,,,20260126_101326,0.04000000000000001,0.0045

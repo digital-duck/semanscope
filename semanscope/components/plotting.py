@@ -147,7 +147,7 @@ class PlotManager:
                 # Note: Regular plotting doesn't need selenium, so always available=True
 
                 if auto_save_enabled:
-                    from utils.title_filename_helper import create_title_and_filename
+                    from semanscope.utils.title_filename_helper import create_title_and_filename
                     import os
                     from pathlib import Path
 

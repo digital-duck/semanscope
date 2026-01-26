@@ -721,9 +721,9 @@ OLLAMA_MODELS = {
 # Collapse in State-of-the-Art Multilingual Embeddings" comparing MTEB top performers
 # with focus on EmbeddingGemma-300M vs Qwen3/Nemotron models for semantic structure preservation
 DEFAULT_TOP3_MODELS = [
-    "Qwen3-Embedding-0.6B",
+    "LaBSE",
     "Sentence-BERT Multilingual",
-    "Gemini-Embedding-001 (OpenRouter)"
+    "Multilingual-E5-Large-Instruct-v2"
 ]
 MODEL_INFO = {
     # === 2025 MTEB LEADERBOARD TOP 5 (99% ZERO-SHOT PERFORMANCE) ===

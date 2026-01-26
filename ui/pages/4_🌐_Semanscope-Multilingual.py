@@ -277,7 +277,7 @@ def main():
         highlight_config = visualizer.echarts_plot_manager.get_highlight_settings()
 
         # Display link to global settings
-        from utils.global_settings import GlobalSettingsManager
+        from semanscope.utils.global_settings import GlobalSettingsManager
         GlobalSettingsManager.render_current_settings_summary()
 
         # Move informational content to bottom of sidebar

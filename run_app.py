@@ -17,16 +17,27 @@ from pathlib import Path
 
 def launch_ui():
     """Launch the Semanscope Streamlit UI."""
+    # Add the package directory to PYTHONPATH so imports work
+    package_dir = str(Path(__file__).parent.absolute())
+
+    import os
+    env = os.environ.copy()
+    if 'PYTHONPATH' in env:
+        env['PYTHONPATH'] = f"{package_dir}:{env['PYTHONPATH']}"
+    else:
+        env['PYTHONPATH'] = package_dir
+
     ui_path = Path(__file__).parent / "ui" / "Welcome.py"
 
     if not ui_path.exists():
         print(f"Error: UI file not found at {ui_path}")
         sys.exit(1)
 
-    # Launch Streamlit
+    # Launch Streamlit with updated PYTHONPATH
     try:
         subprocess.run(
             [sys.executable, "-m", "streamlit", "run", str(ui_path)],
+            env=env,
             check=True
         )
     except subprocess.CalledProcessError as e:

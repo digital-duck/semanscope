@@ -277,7 +277,7 @@ class EmbeddingVisualizer:
         1. Single column of words (one word per line)
         2. Free text that needs to be split into words and deduplicated (if split_lines is enabled)
         """
-        from utils.global_settings import get_global_default_split_lines
+        from semanscope.utils.global_settings import get_global_default_split_lines
         words = []
         lines = content.split('\n')
 

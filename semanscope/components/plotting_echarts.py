@@ -61,7 +61,7 @@ class EChartsPlotManager:
 
     def get_visualization_settings(self):
         """Get visualization settings from global settings"""
-        from utils.global_settings import get_global_publication_settings
+        from semanscope.utils.global_settings import get_global_publication_settings
 
         default_settings = {
             'plot_width': PLOT_WIDTH,
@@ -261,7 +261,7 @@ class EChartsPlotManager:
         if display_chart and method_name and model_name and dataset_name:
             try:
                 import streamlit as st
-                from utils.title_filename_helper import create_title_and_filename
+                from semanscope.utils.title_filename_helper import create_title_and_filename
 
                 # Use the same working auto-save approach as ECharts page
                 auto_save_status = self.get_auto_save_status()

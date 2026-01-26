@@ -67,7 +67,11 @@ dev = [
     "ruff>=0.1.0",
     "mypy>=1.0.0",
 ]
-all = ["semanscope[ui,api,dev]"]
+translation = [
+    "deep-translator>=1.11.0",
+    "deepl>=1.15.0",
+]
+all = ["semanscope[ui,api,dev,translation]"]
 
 [project.urls]
 Homepage = "https://github.com/semanscope/semanscope"

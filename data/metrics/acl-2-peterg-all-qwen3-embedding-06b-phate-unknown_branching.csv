@@ -1,0 +1,4 @@
+clustering_coefficient,digit_indices,digit_sequence_linearity,graph_density,hub_nodes,input_name,largest_component_size,max_degree,mean_degree,method_name,metric_type,model_name,num_components,num_edges,num_hubs,overall_linearity,timestamp,transitivity
+1.0,,,,,ACL-2-PeterG-ALL,370,,,PHATE,connectivity_graph,Qwen3-Embedding-0.6B,1,68265,,,20260126_031145,
+,,0,,,ACL-2-PeterG-ALL,,,,PHATE,linearity_analysis,Qwen3-Embedding-0.6B,,,,0.7942,20260126_031145,
+,,,1.0,,ACL-2-PeterG-ALL,,369,369.0,PHATE,topology_analysis,Qwen3-Embedding-0.6B,,,0,,20260126_031145,1.0

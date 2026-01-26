@@ -4,10 +4,10 @@ from abc import ABC, abstractmethod
 import numpy as np
 import requests
 from typing import List, Optional
-from utils.error_handling import (
+from semanscope.utils.error_handling import (
     handle_errors, ModelNotFoundError, EmbeddingError,
 )
-from config import (
+from semanscope.config import (
     OLLAMA_MODELS, MODEL_INFO,
 )
 
@@ -18,14 +18,14 @@ def _load_v2o_models():
     global _V2O_MODELS_LOADED
     if not _V2O_MODELS_LOADED:
         try:
-            from models.model_manager_v2o import get_model_v2o
+            from semanscope.models.model_manager_v2o import get_model_v2o
             _V2O_MODELS_LOADED = True
             return get_model_v2o
         except ImportError as e:
             st.warning(f"⚠️ V2O models not available: {e}")
             return None
     else:
-        from models.model_manager_v2o import get_model_v2o
+        from semanscope.models.model_manager_v2o import get_model_v2o
         return get_model_v2o
 try:
     from transformers import AutoTokenizer, AutoModel

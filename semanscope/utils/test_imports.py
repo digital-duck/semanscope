@@ -43,7 +43,7 @@ except ImportError as e:
 
 print("\nTesting DimensionReducer initialization...")
 try:
-    from components.dimension_reduction import DimensionReducer
+    from semanscope.components.dimension_reduction import DimensionReducer
     reducer = DimensionReducer()
     methods = list(reducer.reducers.keys())
     print("Available methods:", methods)

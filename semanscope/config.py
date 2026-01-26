@@ -972,7 +972,7 @@ MODEL_INFO.update(OLLAMA_MODELS)
 
 # Add OpenRouter models
 try:
-    from models.openrouter_model import OPENROUTER_MODELS
+    from semanscope.models.openrouter_model import OPENROUTER_MODELS
     MODEL_INFO.update(OPENROUTER_MODELS)
     OPENROUTER_AVAILABLE = True
 except ImportError:
@@ -981,7 +981,7 @@ except ImportError:
 
 # Add Google Cloud Gemini models
 try:
-    from models.gemini_model import GEMINI_MODELS
+    from semanscope.models.gemini_model import GEMINI_MODELS
     MODEL_INFO.update(GEMINI_MODELS)
     GEMINI_AVAILABLE = True
 except ImportError:
@@ -990,7 +990,7 @@ except ImportError:
 
 # Add Voyage AI models
 try:
-    from models.voyage_model import VOYAGE_MODELS
+    from semanscope.models.voyage_model import VOYAGE_MODELS
     MODEL_INFO.update(VOYAGE_MODELS)
     VOYAGE_AVAILABLE = True
 except ImportError:

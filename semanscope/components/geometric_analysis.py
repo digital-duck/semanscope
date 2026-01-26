@@ -18,7 +18,7 @@ import json
 import csv
 from datetime import datetime
 from pathlib import Path
-from config import SRC_DIR, DATA_PATH, DEFAULT_GEOMETRIC_ANALYSIS
+from semanscope.config import SRC_DIR, DATA_PATH, DEFAULT_GEOMETRIC_ANALYSIS
 
 import re
 warnings.filterwarnings('ignore')
@@ -580,7 +580,7 @@ class GeometricAnalyzer:
 
         try:
             # Get domain information by reconstructing from word_color_map in session state
-            from config import get_all_domain_colors
+            from semanscope.config import get_all_domain_colors
 
             domains = []
             words = []

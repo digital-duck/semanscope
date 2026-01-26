@@ -8,7 +8,7 @@ for all pages (main, Dual View, ECharts-3D) to share.
 import streamlit as st
 from pathlib import Path
 from typing import Dict, List, Tuple, Optional
-from config import (
+from semanscope.config import (
     LANGUAGE_CODE_MAP,
     DEFAULT_LANG_SET, DEFAULT_DATASET,
     sample_chn_input_data,
@@ -19,7 +19,7 @@ from config import (
     get_language_code_from_name,
     get_language_name_from_code
 )
-from utils.global_settings import get_global_default_dataset
+from semanscope.utils.global_settings import get_global_default_dataset
 
 
 class EnterTextDataWidget:

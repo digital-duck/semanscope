@@ -8,7 +8,7 @@ import streamlit as st
 from typing import Optional, Dict, List, Any, Union
 from pathlib import Path
 
-from utils.title_filename_helper import create_title_and_filename
+from semanscope.utils.title_filename_helper import create_title_and_filename
 
 
 def auto_save_visualization(

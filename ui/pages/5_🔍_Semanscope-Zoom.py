@@ -418,7 +418,7 @@ def display_dual_view_geometric_analysis(model_name=None, method_name=None):
     with st.expander("🔬 Geometric Analysis Results - Dual View", expanded=False):
         
         # Display analysis results without nested expanders
-        from components.geometric_analysis import GeometricAnalyzer
+        from semanscope.components.geometric_analysis import GeometricAnalyzer
         analyzer = GeometricAnalyzer()
         
         if 'clustering' in results:
@@ -437,7 +437,7 @@ def display_dual_view_geometric_analysis(model_name=None, method_name=None):
         if len(results) > 1 and 'enhanced_data' in st.session_state:
             st.subheader("📊 Comprehensive Analysis Visualization")
             try:
-                from components.geometric_analysis import GeometricAnalyzer
+                from semanscope.components.geometric_analysis import GeometricAnalyzer
                 analyzer = GeometricAnalyzer()
                 
                 enhanced_data = st.session_state.enhanced_data
@@ -458,8 +458,8 @@ def display_dual_view_geometric_analysis(model_name=None, method_name=None):
                 
                 # Auto-save the clustering chart using standardized helper (Plotly version)
                 try:
-                    from utils.auto_save_helper import get_auto_save_settings, display_auto_save_success
-                    from utils.title_filename_helper import create_title_and_filename
+                    from semanscope.utils.auto_save_helper import get_auto_save_settings, display_auto_save_success
+                    from semanscope.utils.title_filename_helper import create_title_and_filename
 
                     # Check if auto-save is enabled globally
                     auto_save_settings = get_auto_save_settings()
@@ -1050,7 +1050,7 @@ def main():
                     st.info(f"🎨 Color stats for {lang_code}: {color_stats}")
                 else:
                     # Fallback to language colors from COLOR_MAP
-                    from config import COLOR_MAP
+                    from semanscope.config import COLOR_MAP
                     lang_color_map = {"enu": "english", "chn": "chinese", "fra": "french", "spa": "spanish",
                                      "deu": "german", "ara": "arabic", "heb": "hebrew", "hin": "hindi",
                                      "jpn": "japanese", "kor": "korean", "rus": "russian", "tha": "thai",
@@ -1138,7 +1138,7 @@ def main():
                                 dataset_colors = [word_color_map.get(word, '#FF00FF') for word in dataset_info['words']]
                             else:
                                 # Fallback to language colors
-                                from config import COLOR_MAP
+                                from semanscope.config import COLOR_MAP
                                 lang_color_map = {"enu": "english", "chn": "chinese", "fra": "french", "spa": "spanish",
                                                  "deu": "german", "ara": "arabic", "heb": "hebrew", "hin": "hindi",
                                                  "jpn": "japanese", "kor": "korean", "rus": "russian", "tha": "thai",

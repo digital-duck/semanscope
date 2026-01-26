@@ -168,7 +168,7 @@ def main():
     <div style='text-align: center'>
         <p>🌎<strong><em> As Rene Descartes gave us coordinates to quantify physical space</em></strong> 🌲</em></strong>  <strong><em>embeddings give us coordinates to digitize mental space</em></strong> 🧠</p>
         <p><small>Built with ❤️ using Claude and Streamlit</small></p>
-        <p><small>© Digital Duck LLC</small></p>
+        <p><small>© 2026 Semanscope Contributors</small></p>
     </div>
     """, unsafe_allow_html=True)
 

@@ -368,7 +368,7 @@ def generate_visualization_echarts(visualizer, reducer, source_words, target_wor
                         dataset_colors = [word_color_map.get(word, '#FF00FF') for word in dataset_info['words']]
                     else:
                         # Fallback to language colors
-                        from config import COLOR_MAP
+                        from semanscope.config import COLOR_MAP
                         lang_color_map = {"enu": "english", "chn": "chinese", "fra": "french", "spa": "spanish",
                                          "deu": "german", "ara": "arabic", "heb": "hebrew", "hin": "hindi",
                                          "jpn": "japanese", "kor": "korean", "rus": "russian", "tha": "thai",

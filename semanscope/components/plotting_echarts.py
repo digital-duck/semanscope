@@ -4,7 +4,7 @@ import numpy as np
 from streamlit_echarts import st_echarts
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score, calinski_harabasz_score
-from config import (
+from semanscope.config import (
     PLOT_WIDTH, PLOT_HEIGHT,
     DEFAULT_N_CLUSTERS, DEFAULT_MIN_CLUSTERS, DEFAULT_MAX_CLUSTERS,
     DEFAULT_MAX_WORDS,
@@ -18,7 +18,7 @@ from datetime import datetime
 import time
 import tempfile
 import html
-from utils.title_filename_helper import create_title_and_filename, create_chart_title
+from semanscope.utils.title_filename_helper import create_title_and_filename, create_chart_title
 from pathlib import PosixPath, Path
 
 # Optional imports for automatic PNG export

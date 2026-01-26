@@ -9,7 +9,7 @@ from pathlib import Path
 # Add the src directory to the path so we can import our modules
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from components.embedding_viz import EmbeddingVisualizer
+from semanscope.components.embedding_viz import EmbeddingVisualizer
 
 def test_word_color_mapping():
     """Test the word-color mapping functionality directly"""

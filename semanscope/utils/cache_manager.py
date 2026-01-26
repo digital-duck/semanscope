@@ -16,7 +16,7 @@ import time
 import os
 from typing import Optional, Any, Dict, List
 from datetime import datetime, timedelta
-from config import CACHE_PATH
+from semanscope.config import CACHE_PATH
 
 
 class SemanscapeCacheManager:

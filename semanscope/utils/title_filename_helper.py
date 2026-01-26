@@ -6,7 +6,7 @@ Centralized utility for creating consistent chart titles and image filenames acr
 import re
 from pathlib import Path
 from typing import List, Tuple, Union
-from config import MODEL_INFO, METHOD_INFO, DATASET_INFO
+from semanscope.config import MODEL_INFO, METHOD_INFO, DATASET_INFO
 
 
 def create_title_and_filename(

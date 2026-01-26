@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 import unicodedata
 
-from config import (
+from semanscope.config import (
     MODEL_INFO, METHOD_INFO, DEFAULT_MODEL, DEFAULT_METHOD, DEFAULT_DATASET,
     COLOR_MAP, LANGUAGE_CODE_MAP, DEFAULT_LANG_SET,
     sample_chn_input_data, sample_enu_input_data,
@@ -16,18 +16,18 @@ from config import (
     get_language_code_from_name, get_language_name_from_code,
     ENABLE_CHINESE_TEXT_PREPROCESSING, SHOW_PREPROCESSING_WARNINGS
 )
-from utils.global_settings import get_global_default_dataset
-from utils.text_preprocessing import preprocess_texts_for_embedding
-from models.model_manager import get_model, get_active_models, get_model_with_strategy
-from utils.error_handling import handle_errors
-from components.shared.publication_settings import PublicationSettingsWidget
-from utils.cache_manager import (
+from semanscope.utils.global_settings import get_global_default_dataset
+from semanscope.utils.text_preprocessing import preprocess_texts_for_embedding
+from semanscope.models.model_manager import get_model, get_active_models, get_model_with_strategy
+from semanscope.utils.error_handling import handle_errors
+from semanscope.components.shared.publication_settings import PublicationSettingsWidget
+from semanscope.utils.cache_manager import (
     get_cached_embeddings, save_embeddings_to_cache,
     get_cached_dimension_reduction, save_dimension_reduction_to_cache
 )
-from utils.title_filename_helper import create_title_and_filename
+from semanscope.utils.title_filename_helper import create_title_and_filename
 
-from components.plotting import PlotManager
+from semanscope.components.plotting import PlotManager
 
 def get_active_methods():
     """Get only active methods for UI display"""
@@ -426,7 +426,7 @@ class EmbeddingVisualizer:
                 # No color file - check if we have domain column to use CUSTOM_SEMANTIC_DOMAINS
                 if 'domain' in df.columns:
                     # Use CUSTOM_SEMANTIC_DOMAINS mapping as fallback
-                    from config import get_domain_color
+                    from semanscope.config import get_domain_color
 
                     domain_stats = {}
                     for _, data_row in df.iterrows():

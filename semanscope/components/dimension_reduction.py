@@ -4,7 +4,7 @@ from sklearn.manifold import LocallyLinearEmbedding, MDS, SpectralEmbedding, TSN
 from sklearn.decomposition import PCA, KernelPCA
 from umap import UMAP
 from phate import PHATE
-from utils.cache_manager import (
+from semanscope.utils.cache_manager import (
     get_cached_dimension_reduction, save_dimension_reduction_to_cache
 )
 try:
@@ -25,7 +25,7 @@ try:
     FORCEATLAS2_AVAILABLE = True
 except ImportError:
     FORCEATLAS2_AVAILABLE = False
-from utils.error_handling import handle_errors
+from semanscope.utils.error_handling import handle_errors
 
 class DimensionReducer:
     def __init__(self):

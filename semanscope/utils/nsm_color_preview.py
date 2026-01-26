@@ -6,7 +6,7 @@ Displays the color scheme for Natural Semantic Metalanguage categories
 
 import sys
 sys.path.append('../src')
-from config import CUSTOM_SEMANTIC_DOMAINS
+from semanscope.config import CUSTOM_SEMANTIC_DOMAINS
 import pandas as pd
 
 def generate_color_preview():

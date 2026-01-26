@@ -73,15 +73,15 @@ import time
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
 
-from config import DATA_PATH, COLOR_MAP
-from models.model_manager import get_model
-from components.semantic_affinity import (
+from semanscope.config import DATA_PATH, COLOR_MAP
+from semanscope.models.model_manager import get_model
+from semanscope.components.semantic_affinity import (
     SemanticAffinityAnalyzer,
     load_translation_dataset,
     expand_multi_meaning_translations
 )
-from utils.embedding_cache import get_embedding_cache
-from components.dimension_reduction import DimensionReducer
+from semanscope.utils.embedding_cache import get_embedding_cache
+from semanscope.components.dimension_reduction import DimensionReducer
 from sklearn.preprocessing import StandardScaler
 
 
@@ -665,7 +665,7 @@ def list_models():
     """List active models (matching Streamlit app dropdown)"""
 
     # Import MODEL_INFO from config
-    from config import MODEL_INFO
+    from semanscope.config import MODEL_INFO
 
     # Filter only active models (same as Streamlit app)
     active_models = {name: info for name, info in MODEL_INFO.items()
@@ -703,7 +703,7 @@ def list_available_models():
     """List all models in config (including inactive models)"""
 
     # Import MODEL_INFO from config
-    from config import MODEL_INFO
+    from semanscope.config import MODEL_INFO
 
     click.echo(f"\nAll models in config ({len(MODEL_INFO)} total):")
     click.echo("Format: model-name (path/identifier) [STATUS]\n")

@@ -6,7 +6,7 @@ that are shared across all Semanscope pages.
 """
 
 import streamlit as st
-from config import DEFAULT_MODEL, DEFAULT_METHOD, DEFAULT_N_CLUSTERS, DEFAULT_DATASET, DEFAULT_DIMENSION, DEFAULT_CLUSTERING, DEFAULT_SPLIT_LINES, get_all_domain_colors, get_domain_color
+from semanscope.config import DEFAULT_MODEL, DEFAULT_METHOD, DEFAULT_N_CLUSTERS, DEFAULT_DATASET, DEFAULT_DIMENSION, DEFAULT_CLUSTERING, DEFAULT_SPLIT_LINES, get_all_domain_colors, get_domain_color
 
 
 class GlobalSettingsManager:

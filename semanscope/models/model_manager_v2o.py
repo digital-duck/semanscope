@@ -13,7 +13,7 @@ Priority order (per user request):
 3. Ollama models (backup)
 
 Usage:
-    from models.model_manager_v2o import get_model_v2o
+    from semanscope.models.model_manager_v2o import get_model_v2o
 
     # Get optimized model based on global optimization setting
     model = get_model_v2o(model_name, optimization_strategy)
@@ -27,7 +27,7 @@ from pathlib import Path
 from abc import ABC, abstractmethod
 
 # Import baseline models for fallback
-from models.model_manager import EmbeddingModel, ModelNotFoundError, EmbeddingError
+from semanscope.models.model_manager import EmbeddingModel, ModelNotFoundError, EmbeddingError
 
 try:
     from transformers import AutoTokenizer, AutoModel

@@ -42,7 +42,7 @@ class EmbeddingCache:
         """
         if cache_file_path is None:
             # Import here to avoid circular dependency
-            from config import SEMANTIC_CACHE_PATH
+            from semanscope.config import SEMANTIC_CACHE_PATH
             cache_file_path = SEMANTIC_CACHE_PATH
 
         # Expand ~ to home directory

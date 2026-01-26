@@ -17,7 +17,7 @@ Usage:
 """
 
 import streamlit as st
-from config import DEFAULT_OPTIMIZATION_STRATEGY, OPTIMIZATION_STRATEGIES
+from semanscope.config import DEFAULT_OPTIMIZATION_STRATEGY, OPTIMIZATION_STRATEGIES
 
 
 def render_optimization_strategy_selector(

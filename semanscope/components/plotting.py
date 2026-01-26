@@ -5,14 +5,14 @@ import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score, calinski_harabasz_score
-from config import (
+from semanscope.config import (
        PLOT_WIDTH, PLOT_HEIGHT,
        DEFAULT_N_CLUSTERS, DEFAULT_MIN_CLUSTERS, DEFAULT_MAX_CLUSTERS,
        DEFAULT_MAX_WORDS
 )
 import io
 import base64
-from utils.title_filename_helper import create_chart_title
+from semanscope.utils.title_filename_helper import create_chart_title
 
 class PlotManager:
     def __init__(self):

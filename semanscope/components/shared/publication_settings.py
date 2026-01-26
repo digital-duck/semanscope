@@ -3,7 +3,7 @@ Shared publication settings widget for eliminating code duplication
 """
 import streamlit as st
 from typing import Dict, Any
-from config import (
+from semanscope.config import (
     get_publication_settings,
     get_publication_constraints,
     get_export_formats,

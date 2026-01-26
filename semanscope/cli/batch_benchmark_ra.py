@@ -124,9 +124,9 @@ import time
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
 
-from config import DATA_PATH
-from models.model_manager import get_model
-from utils.embedding_cache import get_embedding_cache
+from semanscope.config import DATA_PATH
+from semanscope.models.model_manager import get_model
+from semanscope.utils.embedding_cache import get_embedding_cache
 
 
 # Language name to code mapping
@@ -777,7 +777,7 @@ def list_datasets():
 def list_models():
     """List active models (matching Streamlit app dropdown)"""
 
-    from config import MODEL_INFO
+    from semanscope.config import MODEL_INFO
 
     # Filter only active models
     active_models = {name: info for name, info in MODEL_INFO.items()
@@ -813,7 +813,7 @@ def list_models():
 def list_available_models():
     """List all models in config (including inactive models)"""
 
-    from config import MODEL_INFO
+    from semanscope.config import MODEL_INFO
 
     click.echo(f"\nAll models in config ({len(MODEL_INFO)} total):")
     click.echo("Format: model-name (path/identifier) [STATUS]\n")

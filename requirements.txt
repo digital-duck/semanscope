@@ -1,0 +1,32 @@
+# Core dependencies
+numpy>=1.21.0,<2.0.0
+pandas>=2.1.4,<3.0.0
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+umap-learn>=0.5.3
+phate>=1.0.7
+trimap>=1.1.4
+pacmap>=0.8.0
+python-igraph>=0.11.9
+networkx>=2.6.0
+joblib>=1.0.0
+requests>=2.31.0
+python-dotenv>=0.19.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# UI dependencies (optional, install with pip install -e ".[ui]")
+# streamlit>=1.25.0
+# plotly>=6.1.1
+# streamlit-echarts>=0.4.0
+# kaleido>=0.2.1
+# selenium>=4.15.0
+# pillow>=7.1.0
+
+# API dependencies (optional, install with pip install -e ".[api]")
+# voyageai>=0.2.0
+# openai>=1.0.0
+# google-generativeai>=0.3.0

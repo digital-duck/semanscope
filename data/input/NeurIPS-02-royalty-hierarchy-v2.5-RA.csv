@@ -1,0 +1,51 @@
+relation_id,category,word1_en,word2_en,word1_zh,word2_zh,word1_es,word2_es,word1_de,word2_de,word1_tr,word2_tr,relation_type,verified,notes
+NeurIPS-RA-021,royalty,king,queen,国王,王后,rey,reina,König,Königin,kral,kraliçe,gendered_pair,pending,
+NeurIPS-RA-022,royalty,prince,princess,王子,公主,príncipe,princesa,Prinz,Prinzessin,prens,prenses,gendered_pair,pending,
+NeurIPS-RA-023,royalty,lord,lady,领主,夫人,señor,señora,Herr,Dame,lord,leydi,gendered_pair,pending,
+NeurIPS-RA-024,royalty,duke,duchess,公爵,公爵夫人,duque,duquesa,Herzog,Herzogin,dük,düşes,gendered_pair,pending,
+NeurIPS-RA-025,royalty,emperor,empress,皇帝,皇后,emperador,emperatriz,Kaiser,Kaiserin,imparator,imparatoriçe,gendered_pair,pending,
+NeurIPS-RA-026,royalty,master,mistress,主人,女主人,amo,ama,Meister,Meisterin,efendi,hanım,gendered_pair,pending,
+NeurIPS-RA-027,royalty,baron,baroness,男爵,男爵夫人,barón,baronesa,Baron,Baronin,baron,barones,gendered_pair,pending,
+NeurIPS-RA-028,royalty,count,countess,伯爵,伯爵夫人,conde,condesa,Graf,Gräfin,kont,kontes,gendered_pair,pending,
+NeurIPS-RA-029,royalty,marquis,marchioness,侯爵,侯爵夫人,marqués,marquesa,Marquis,Marquise,markiz,markiz,gendered_pair,pending,
+NeurIPS-RA-030,royalty,tsar,tsarina,沙皇,沙皇皇后,zar,zarina,Zar,Zarin,çar,çariçe,gendered_pair,pending,
+NeurIPS-RA-031,royalty,sir,madam,先生,女士,señor,señora,Herr,Frau,bay,bayan,gendered_pair,pending,
+NeurIPS-RA-032,royalty,heir,heiress,继承人,女继承人,heredero,heredera,Erbe,Erbin,varis,varis,gendered_pair,pending,
+NeurIPS-RA-033,royalty,governor,governess,总督,女总督,gobernador,gobernadora,Gouverneur,Gouverneurin,vali,vali,gendered_pair,pending,
+NeurIPS-RA-034,royalty,god,goddess,神,女神,dios,diosa,Gott,Göttin,tanrı,tanrıça,gendered_pair,pending,
+NeurIPS-RA-035,royalty,czar,czarina,沙皇,沙皇后,zar,zarina,Zar,Zarin,çar,çariçe,gendered_pair,pending,duplicate of tsar/tsarina
+NeurIPS-RA-036,royalty,sultan,sultana,苏丹,苏丹娜,sultán,sultana,Sultan,Sultanin,sultan,sultana,gendered_pair,pending,
+NeurIPS-RA-037,royalty,caliph,caliphah,哈里发,女哈里发,califa,califa,Kalif,Kalifin,halife,halife,gendered_pair,pending,
+NeurIPS-RA-038,royalty,archduke,archduchess,大公,大公夫人,archiduque,archiduquesa,Erzherzog,Erzherzogin,arşidük,arşidüşes,gendered_pair,pending,
+NeurIPS-RA-039,royalty,viscount,viscountess,子爵,子爵夫人,vizconde,vizcondesa,Vicomte,Vicomtesse,vikont,vikontes,gendered_pair,pending,
+NeurIPS-RA-040,royalty,earl,countess,伯爵,伯爵夫人,conde,condesa,Earl,Countess,kont,kontes,gendered_pair,pending,British variant of count
+NeurIPS-RA-041,royalty,pharaoh,queen pharaoh,法老,女法老,faraón,faraona,Pharao,Pharaonin,firavun,firavun,gendered_pair,pending,
+NeurIPS-RA-042,royalty,monarch,monarch queen,君主,女君主,monarca,monarca,Monarch,Monarchin,hükümdar,hükümdar,gendered_pair,pending,
+NeurIPS-RA-043,royalty,nobleman,noblewoman,贵族,女贵族,noble,noble,Adliger,Adlige,asil,asil,gendered_pair,pending,
+NeurIPS-RA-044,royalty,courtier,courtesan,朝臣,女朝臣,cortesano,cortesana,Höfling,Höflingsdame,saray görevlisi,saray görevlisi,gendered_pair,pending,
+NeurIPS-RA-045,royalty,sovereign,sovereign queen,君王,女君王,soberano,soberana,Herrscher,Herrscherin,hükümdar,hükümdar,gendered_pair,pending,
+NeurIPS-RA-046,royalty,regent,regent queen,摄政王,女摄政王,regente,regenta,Regent,Regentin,naip,naibe,gendered_pair,pending,
+NeurIPS-RA-047,royalty,chancellor,lady chancellor,大臣,女大臣,canciller,canciller,Kanzler,Kanzlerin,başbakan,başbakan,gendered_pair,pending,
+NeurIPS-RA-048,royalty,viceroy,vicereine,总督,女总督,virrey,virreina,Vizekönig,Vizekönigin,kral vekili,kraliçe vekili,gendered_pair,pending,
+NeurIPS-RA-049,royalty,crown prince,crown princess,太子,太子妃,príncipe heredero,princesa heredera,Kronprinz,Kronprinzessin,veliaht prens,veliaht prenses,gendered_pair,pending,
+NeurIPS-RA-050,royalty,grand duke,grand duchess,大公,大公夫人,gran duque,gran duquesa,Großherzog,Großherzogin,büyük dük,büyük düşes,gendered_pair,pending,
+NeurIPS-RA-051,royalty,knight,dame,骑士,女爵士,caballero,dama,Ritter,Dame,şövalye,leydi,gendered_pair,pending,
+NeurIPS-RA-052,royalty,esquire,lady,乡绅,女士,escudero,señora,Knappe,Dame,asilzade,hanım,gendered_pair,pending,
+NeurIPS-RA-053,royalty,shogun,onna-musha,将军,女武士,shogun,onna-musha,Shogun,Onna-musha,şogun,onna-musha,gendered_pair,pending,Japanese military ruler
+NeurIPS-RA-054,royalty,khan,khatun,可汗,可敦,kan,katún,Khan,Khatun,han,hatun,gendered_pair,pending,Mongol/Turkic ruler
+NeurIPS-RA-055,royalty,maharaja,maharani,大君,王妃,maharajá,maharaní,Maharadscha,Maharani,maharaca,maharani,gendered_pair,pending,Indian royalty
+NeurIPS-RA-056,royalty,raja,rani,拉贾,拉尼,rajá,raní,Raja,Rani,raca,rani,gendered_pair,pending,Indian prince/princess
+NeurIPS-RA-057,royalty,chief,chieftess,酋长,女酋长,jefe,jefa,Häuptling,Häuptlingin,şef,şef,gendered_pair,pending,
+NeurIPS-RA-058,royalty,laird,lady laird,领主,女领主,señor,señora,Laird,Lady,laird,leydi,gendered_pair,pending,Scottish lord
+NeurIPS-RA-059,royalty,thane,lady thane,贵族,女贵族,noble,noble,Thane,Lady Thane,thane,leydi thane,gendered_pair,pending,Anglo-Saxon noble
+NeurIPS-RA-060,royalty,emir,emira,埃米尔,女埃米尔,emir,emira,Emir,Emira,emir,emire,gendered_pair,pending,Arab commander/prince
+NeurIPS-RA-061,royalty,sheikh,sheikha,谢赫,女谢赫,jeque,jequesa,Scheich,Scheichin,şeyh,şeyha,gendered_pair,pending,
+NeurIPS-RA-062,royalty,mikado,empress,天皇,女天皇,mikado,emperatriz,Mikado,Kaiserin,mikado,imparatoriçe,gendered_pair,pending,Japanese emperor
+NeurIPS-RA-063,royalty,daimyo,onna-daimyo,大名,女大名,daimio,daimio,Daimyo,Onna-daimyo,daimyo,onna-daimyo,gendered_pair,pending,Japanese feudal lord
+NeurIPS-RA-064,royalty,samurai,onna-bugeisha,武士,女武士,samurái,onna-bugeisha,Samurai,Onna-bugeisha,samuray,onna-bugeisha,gendered_pair,pending,
+NeurIPS-RA-065,royalty,palatine,palatine lady,宫廷伯爵,女宫廷伯爵,palatino,palatina,Pfalzgraf,Pfalzgräfin,saray kontu,saray kontesi,gendered_pair,pending,
+NeurIPS-RA-066,royalty,margrave,margravine,边疆伯爵,边疆伯爵夫人,margrave,margravina,Markgraf,Markgräfin,markgraf,markgrafin,gendered_pair,pending,
+NeurIPS-RA-067,royalty,landgrave,landgravine,地方伯爵,地方伯爵夫人,landgrave,landgravina,Landgraf,Landgräfin,landgraf,landgrafin,gendered_pair,pending,
+NeurIPS-RA-068,royalty,burgrave,burgravine,城堡伯爵,城堡伯爵夫人,burgrave,burgravina,Burggraf,Burggräfin,kale kontu,kale kontesi,gendered_pair,pending,
+NeurIPS-RA-069,royalty,elector,electress,选帝侯,选帝侯夫人,elector,electora,Kurfürst,Kurfürstin,seçmen prens,seçmen prenses,gendered_pair,pending,Holy Roman Empire
+NeurIPS-RA-070,royalty,hospodar,lady hospodar,领主,女领主,hospodar,hospodar,Hospodar,Hospodar,hospodar,hospodar,gendered_pair,pending,Slavic ruler

@@ -1,0 +1,12 @@
+domain,color_hex,color_name
+motion,#0000FF,blue
+transfer,#00FF00,green
+communication,#FFA500,orange
+cognition,#FF0000,red
+perception,#FFFF00,yellow
+emotion,#FF69B4,hotpink
+social,#8A2BE2,blueviolet
+creation,#8B4513,brown
+biological,#00FFFF,cyan
+change,#808080,gray
+causation,#800080,purple

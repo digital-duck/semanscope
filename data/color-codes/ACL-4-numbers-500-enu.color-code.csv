@@ -1,0 +1,5 @@
+domain,color_hex,color_name,color_rgb
+math,#32CD32,lime_green,"(50, 205, 50)"
+negative_integer,#FF00FF,magenta,"(255, 0, 255)"
+decimal,#0000FF,blue,"(0, 0, 255)"
+integer,#FF0000,red,"(255, 0, 0)"

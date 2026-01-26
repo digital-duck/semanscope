@@ -1,0 +1,4 @@
+domain,color_hex,color_name,color_rgb
+numeric_word,#32CD32,lime_green,"(50, 205, 50)"
+mathematics,#FF0000,red,"(255, 0, 0)"
+physics,#4B0082,indigo,"(75, 0, 130)"

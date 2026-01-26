@@ -1,0 +1,9 @@
+domain,color_hex,color_name
+elemental_chars,#FF0000,red
+ascii,#00FF00,green
+japan1,#FFA500,orange
+japan1,#FFFF00,yellow
+numbers,#800080,purple
+korean,#00FFFF,cyan
+arabic,#8B4513,brown
+german,#0000FF,blue

@@ -1,0 +1,109 @@
+word,domain,type,note
+🔥,pictographic_modern,emoji,fire - modern pictograph
+🌳,pictographic_modern,emoji,tree - modern pictograph
+💧,pictographic_modern,emoji,water drop - modern pictograph
+👁️,pictographic_modern,emoji,eye - modern pictograph
+🏠,pictographic_modern,emoji,house - modern pictograph
+⚔️,pictographic_modern,emoji,sword - modern pictograph
+🐄,pictographic_modern,emoji,cow - modern pictograph
+🌙,pictographic_modern,emoji,moon - modern pictograph
+☀️,pictographic_modern,emoji,sun - modern pictograph
+👂,pictographic_modern,emoji,ear - modern pictograph
+👃,pictographic_modern,emoji,nose - modern pictograph
+👄,pictographic_modern,emoji,mouth - modern pictograph
+👤,pictographic_modern,emoji,person - modern pictograph
+✋,pictographic_modern,emoji,hand - modern pictograph
+🦵,pictographic_modern,emoji,foot/leg - modern pictograph
+❤️,pictographic_modern,emoji,heart - modern pictograph
+🏔️,pictographic_modern,emoji,mountain - modern pictograph
+🌾,pictographic_modern,emoji,grain - modern pictograph
+🐟,pictographic_modern,emoji,fish - modern pictograph
+🐦,pictographic_modern,emoji,bird - modern pictograph
+🌿,pictographic_modern,emoji,grass - modern pictograph
+🧿,pictographic_modern,emoji,eye protection - modern pictograph
+🗡️,pictographic_modern,emoji,dagger - modern pictograph
+🏹,pictographic_modern,emoji,bow and arrow - modern pictograph
+🏹,pictographic_modern,emoji,arrow - modern pictograph
+🔪,pictographic_modern,emoji,kitchen knife - modern pictograph
+⚡,pictographic_modern,emoji,lightning - modern pictograph
+🌍,pictographic_modern,emoji,earth - modern pictograph
+🔶,pictographic_modern,emoji,diamond shape - modern pictograph
+🐉,pictographic_modern,emoji,dragon - modern pictograph
+🐑,pictographic_modern,emoji,sheep - modern pictograph
+🌀,pictographic_modern,emoji,wind spiral - modern pictograph
+👶,pictographic_modern,emoji,child - modern pictograph
+👩,pictographic_modern,emoji,woman - modern pictograph
+👑,pictographic_modern,emoji,crown - modern pictograph
+🏺,pictographic_modern,emoji,amphora - modern pictograph
+🌾,pictographic_modern,emoji,wheat - modern pictograph
+🐢,pictographic_modern,emoji,turtle - modern pictograph
+🦷,pictographic_modern,emoji,tooth - modern pictograph
+👻,pictographic_modern,emoji,ghost - modern pictograph
+🩸,pictographic_modern,emoji,blood - modern pictograph
+🐛,pictographic_modern,emoji,insect - modern pictograph
+👕,pictographic_modern,emoji,clothes - modern pictograph
+🚶,pictographic_modern,emoji,walking - modern pictograph
+🛶,pictographic_modern,emoji,boat - modern pictograph
+🦴,pictographic_modern,emoji,bone - modern pictograph
+🌺,pictographic_modern,emoji,flower/color - modern pictograph
+🍚,pictographic_modern,emoji,rice - modern pictograph
+🧵,pictographic_modern,emoji,thread - modern pictograph
+🏺,pictographic_modern,emoji,jar - modern pictograph
+🕸️,pictographic_modern,emoji,web - modern pictograph
+🪶,pictographic_modern,emoji,feather - modern pictograph
+👅,pictographic_modern,emoji,tongue - modern pictograph
+🎋,pictographic_modern,emoji,bamboo - modern pictograph
+fire,pictographic_english,word,fire - English word for emoji
+tree,pictographic_english,word,tree - English word for emoji
+water,pictographic_english,word,water - English word for emoji
+eye,pictographic_english,word,eye - English word for emoji
+house,pictographic_english,word,house - English word for emoji
+sword,pictographic_english,word,sword - English word for emoji
+cow,pictographic_english,word,cow - English word for emoji
+moon,pictographic_english,word,moon - English word for emoji
+sun,pictographic_english,word,sun - English word for emoji
+ear,pictographic_english,word,ear - English word for emoji
+nose,pictographic_english,word,nose - English word for emoji
+mouth,pictographic_english,word,mouth - English word for emoji
+person,pictographic_english,word,person - English word for emoji
+hand,pictographic_english,word,hand - English word for emoji
+foot,pictographic_english,word,foot - English word for emoji
+heart,pictographic_english,word,heart - English word for emoji
+mountain,pictographic_english,word,mountain - English word for emoji
+grain,pictographic_english,word,grain - English word for emoji
+fish,pictographic_english,word,fish - English word for emoji
+bird,pictographic_english,word,bird - English word for emoji
+grass,pictographic_english,word,grass - English word for emoji
+protection,pictographic_english,word,protection - English word for emoji
+dagger,pictographic_english,word,dagger - English word for emoji
+bow,pictographic_english,word,bow - English word for emoji
+arrow,pictographic_english,word,arrow - English word for emoji
+knife,pictographic_english,word,knife - English word for emoji
+lightning,pictographic_english,word,lightning - English word for emoji
+earth,pictographic_english,word,earth - English word for emoji
+diamond,pictographic_english,word,diamond - English word for emoji
+dragon,pictographic_english,word,dragon - English word for emoji
+sheep,pictographic_english,word,sheep - English word for emoji
+wind,pictographic_english,word,wind - English word for emoji
+child,pictographic_english,word,child - English word for emoji
+woman,pictographic_english,word,woman - English word for emoji
+crown,pictographic_english,word,crown - English word for emoji
+amphora,pictographic_english,word,amphora - English word for emoji
+wheat,pictographic_english,word,wheat - English word for emoji
+turtle,pictographic_english,word,turtle - English word for emoji
+tooth,pictographic_english,word,tooth - English word for emoji
+ghost,pictographic_english,word,ghost - English word for emoji
+blood,pictographic_english,word,blood - English word for emoji
+insect,pictographic_english,word,insect - English word for emoji
+clothes,pictographic_english,word,clothes - English word for emoji
+walking,pictographic_english,word,walking - English word for emoji
+boat,pictographic_english,word,boat - English word for emoji
+bone,pictographic_english,word,bone - English word for emoji
+flower,pictographic_english,word,flower - English word for emoji
+rice,pictographic_english,word,rice - English word for emoji
+thread,pictographic_english,word,thread - English word for emoji
+jar,pictographic_english,word,jar - English word for emoji
+web,pictographic_english,word,web - English word for emoji
+feather,pictographic_english,word,feather - English word for emoji
+tongue,pictographic_english,word,tongue - English word for emoji
+bamboo,pictographic_english,word,bamboo - English word for emoji

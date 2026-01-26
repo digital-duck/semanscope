@@ -1,0 +1,100 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "semanscope"
+version = "1.0.0"
+description = "Multilingual semantic embedding visualization and analysis toolkit"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [
+    {name = "Semanscope Contributors"}
+]
+keywords = ["embeddings", "multilingual", "visualization", "NLP", "semantics", "semantic-affinity", "relational-affinity"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Visualization",
+]
+
+dependencies = [
+    "numpy>=1.21.0,<2.0.0",
+    "pandas>=2.1.4,<3.0.0",
+    "torch>=2.0.0",
+    "transformers>=4.30.0",
+    "sentence-transformers>=2.2.0",
+    "scikit-learn>=1.0.0",
+    "scipy>=1.7.0",
+    "umap-learn>=0.5.3",
+    "phate>=1.0.7",
+    "trimap>=1.1.4",
+    "pacmap>=0.8.0",
+    "python-igraph>=0.11.9",
+    "networkx>=2.6.0",
+    "joblib>=1.0.0",
+    "requests>=2.31.0",
+    "python-dotenv>=0.19.0",
+    "matplotlib>=3.5.0",
+    "seaborn>=0.11.0",
+]
+
+[project.optional-dependencies]
+ui = [
+    "streamlit>=1.25.0",
+    "plotly>=6.1.1",
+    "streamlit-echarts>=0.4.0",
+    "kaleido>=0.2.1",
+    "selenium>=4.15.0",
+    "pillow>=7.1.0",
+]
+api = [
+    "voyageai>=0.2.0",
+    "openai>=1.0.0",
+    "google-generativeai>=0.3.0",
+]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "black>=22.0.0",
+    "ruff>=0.1.0",
+    "mypy>=1.0.0",
+]
+all = ["semanscope[ui,api,dev]"]
+
+[project.urls]
+Homepage = "https://github.com/semanscope/semanscope"
+Documentation = "https://github.com/semanscope/semanscope#readme"
+Repository = "https://github.com/semanscope/semanscope"
+Issues = "https://github.com/semanscope/semanscope/issues"
+
+[project.scripts]
+semanscope-ui = "semanscope.cli:launch_ui"
+semanscope-benchmark-sa = "semanscope.cli.batch_benchmark_sa:main"
+semanscope-benchmark-ra = "semanscope.cli.batch_benchmark_ra:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["semanscope*"]
+exclude = ["tests*", "docs*", "demo*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+
+[tool.black]
+line-length = 100
+target-version = ["py39", "py310", "py311"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"

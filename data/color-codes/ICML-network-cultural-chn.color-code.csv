@@ -1,0 +1,14 @@
+domain,color_hex,color_name,description
+people,#FF1493,Deep Pink,Human roles and social hierarchy
+science,#00CED1,Dark Turquoise,Modern scientific adaptations
+body_parts,#CD853F,Peru,Body-related concepts
+spatial_directional,#6495ED,Cornflower Blue,Spatial and directional concepts
+abstract_qualities,#9932CC,Dark Orchid,Abstract concepts and qualities
+nature_elements,#228B22,Forest Green,Natural elements and phenomena
+emotions,#4169E1,Royal Blue,Emotional and mental states
+time_temporal,#8A2BE2,Blue Violet,Temporal concepts
+places,#FF6347,Tomato,Locations and institutions
+actions_verbs,#32CD32,Lime Green,Actions and activities
+medicine,#BA55D3,Medium Orchid,Medical and health concepts
+food,#FF4500,Orange Red,Food and nutrition concepts
+philosophy,#9400D3,Dark Violet,Philosophical and wisdom concepts

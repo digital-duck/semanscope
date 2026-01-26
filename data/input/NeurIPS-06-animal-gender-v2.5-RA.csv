@@ -1,0 +1,51 @@
+relation_id,category,word1_en,word2_en,word1_zh,word2_zh,word1_es,word2_es,word1_de,word2_de,word1_tr,word2_tr,relation_type,verified,notes
+NeurIPS-RA-056,animal,bull,cow,公牛,母牛,toro,vaca,Bulle,Kuh,boğa,inek,gendered_pair,pending,
+NeurIPS-RA-057,animal,rooster,hen,公鸡,母鸡,gallo,gallina,Hahn,Henne,horoz,tavuk,gendered_pair,pending,
+NeurIPS-RA-058,animal,stallion,mare,公马,母马,semental,yegua,Hengst,Stute,aygır,kısrak,gendered_pair,pending,
+NeurIPS-RA-059,animal,ram,ewe,公羊,母羊,carnero,oveja,Widder,Schaf,koç,koyun,gendered_pair,pending,
+NeurIPS-RA-060,animal,drake,duck,公鸭,母鸭,pato,pata,Enterich,Ente,erkek ördek,ördek,gendered_pair,pending,
+NeurIPS-RA-061,animal,gander,goose,公鹅,母鹅,ganso,gansa,Gänserich,Gans,erkek kaz,kaz,gendered_pair,pending,
+NeurIPS-RA-062,animal,lion,lioness,公狮,母狮,león,leona,Löwe,Löwin,aslan,dişi aslan,gendered_pair,pending,
+NeurIPS-RA-063,animal,tiger,tigress,公虎,母虎,tigre,tigresa,Tiger,Tigerin,kaplan,dişi kaplan,gendered_pair,pending,
+NeurIPS-RA-064,animal,buck,doe,公鹿,母鹿,ciervo,cierva,Bock,Ricke,geyik,dişi geyik,gendered_pair,pending,
+NeurIPS-RA-065,animal,boar,sow,公猪,母猪,jabalí,jabalina,Eber,Sau,erkek domuz,dişi domuz,gendered_pair,pending,
+NeurIPS-RA-066,animal,dog,bitch,公狗,母狗,perro,perra,Rüde,Hündin,erkek köpek,dişi köpek,gendered_pair,pending,
+NeurIPS-RA-067,animal,tom,cat,公猫,母猫,gato,gata,Kater,Katze,erkek kedi,dişi kedi,gendered_pair,pending,
+NeurIPS-RA-068,animal,billy,nanny,公山羊,母山羊,macho cabrío,cabra,Ziegenbock,Ziege,teke,keçi,gendered_pair,pending,goat
+NeurIPS-RA-069,animal,colt,filly,小公马,小母马,potro,potra,Hengstfohlen,Stutfohlen,tay,dişi tay,gendered_pair,pending,
+NeurIPS-RA-070,animal,peacock,peahen,雄孔雀,雌孔雀,pavo real,pava real,Pfau,Pfauhenne,tavus kuşu,dişi tavus kuşu,gendered_pair,pending,
+NeurIPS-RA-071,animal,fox,vixen,公狐,母狐,zorro,zorra,Fuchs,Füchsin,tilki,dişi tilki,gendered_pair,pending,
+NeurIPS-RA-072,animal,wolf,she-wolf,公狼,母狼,lobo,loba,Wolf,Wölfin,kurt,dişi kurt,gendered_pair,pending,
+NeurIPS-RA-073,animal,bear,sow bear,公熊,母熊,oso,osa,Bär,Bärin,ayı,dişi ayı,gendered_pair,pending,"used 'sow bear' for consistency; note: English often uses 'female bear'"
+NeurIPS-RA-074,animal,elephant bull,cow elephant,公象,母象,elefante macho,elefanta,Elefantenbulle,Elefantenkuh,fil,dişi fil,gendered_pair,pending,
+NeurIPS-RA-075,animal,giraffe bull,cow giraffe,公长颈鹿,母长颈鹿,jirafa macho,jirafa hembra,Giraffenbulle,Giraffenkuh,zürafa,dişi zürafa,gendered_pair,pending,
+NeurIPS-RA-076,animal,zebra stallion,zebra mare,公斑马,母斑马,cebra macho,cebra hembra,Zebrahengst,Zebrastute,zebra,dişi zebra,gendered_pair,pending,
+NeurIPS-RA-077,animal,leopard,leopardess,公豹,母豹,leopardo,leopardo hembra,Leopard,Leopardin,leopar,dişi leopar,gendered_pair,pending,"'leopardess' rare; Spanish uses 'hembra'"
+NeurIPS-RA-078,animal,jaguar,jaguaress,公美洲豹,母美洲豹,jaguar,jaguara,Jaguar,Jaguarin,jaguar,dişi jaguar,gendered_pair,pending,"'jaguaress' rare; Spanish: 'jaguares hembra' or 'jaguara'"
+NeurIPS-RA-079,animal,lynx,lynx female,公猞猁,母猞猁,lince,lince hembra,Luchs,Luchsin,vaşak,dişi vaşak,gendered_pair,pending,
+NeurIPS-RA-080,animal,coyote,female coyote,公郊狼,母郊狼,coyote,coyota,Kojote,Kojotin,çakal,dişi çakal,gendered_pair,pending,
+NeurIPS-RA-081,animal,otter dog,otter bitch,公水獭,母水獭,nutria macho,nutria hembra,Fischotterrüde,Fischotterfähe,su samuru,dişi su samuru,gendered_pair,pending,"English rarely gendered; Spanish/Chinese have forms"
+NeurIPS-RA-082,animal,rhinoceros bull,cow rhinoceros,公犀牛,母犀牛,rinoceronte macho,rinoceronte hembra,Nashornbulle,Nashornkuh,gergedan,dişi gergedan,gendered_pair,pending,
+NeurIPS-RA-083,animal,hippopotamus bull,cow hippo,公河马,母河马,hipopótamo macho,hipopótamo hembra,Nilpferdbulle,Nilpferdkuh,su aygırı,dişi su aygırı,gendered_pair,pending,
+NeurIPS-RA-084,animal,kangaroo buck,kangaroo doe,公袋鼠,母袋鼠,canguro macho,canguro hembra,Kängurubock,Känguruweibchen,kanguru,dişi kanguru,gendered_pair,pending,
+NeurIPS-RA-085,animal,wallaby buck,wallaby doe,公沙袋鼠,母沙袋鼠,wallaby macho,wallaby hembra,Wallabybock,Wallabyweibchen,kaya kangurusu,dişi kaya kangurusu,gendered_pair,pending,
+NeurIPS-RA-086,animal,moose bull,cow moose,公驼鹿,母驼鹿,alce macho,alce hembra,Elchbulle,Elchkuh,mus,dişi mus,gendered_pair,pending,
+NeurIPS-RA-087,animal,elk bull,cow elk,公麋鹿,母麋鹿,wapití macho,wapití hembra,Wapiti,Wapitiweibchen,geyik,dişi geyik,gendered_pair,pending,
+NeurIPS-RA-088,animal,bison bull,cow bison,公野牛,母野牛,bisonte macho,bisonte hembra,Bisonbulle,Bisonkuh,bizon,dişi bizon,gendered_pair,pending,
+NeurIPS-RA-089,animal,antelope buck,antelope doe,公羚羊,母羚羊,antílope macho,antílope hembra,Antilopenbock,Antilopenweibchen,antilop,dişi antilop,gendered_pair,pending,
+NeurIPS-RA-090,animal,gazelle buck,gazelle doe,公瞪羚,母瞪羚,gacela macho,gacela hembra,Gazellenbock,Gazellenweibchen,ceylan,dişi ceylan,gendered_pair,pending,
+NeurIPS-RA-091,animal,hyena male,hyena female,公鬣狗,母鬣狗,hiena macho,hiena hembra,Hyänenmännchen,Hyänenweibchen,sırtlan,dişi sırtlan,gendered_pair,pending,
+NeurIPS-RA-092,animal,polar bear,female polar bear,公北极熊,母北极熊,oso polar macho,osa polar,Eisbär,Eisbärin,kutup ayısı,dişi kutup ayısı,gendered_pair,pending,
+NeurIPS-RA-093,animal,grizzly bear,female grizzly,公灰熊,母灰熊,oso pardo macho,osa parda,Grizzlybär,Grizzlybärin,boz ayı,dişi boz ayı,gendered_pair,pending,
+NeurIPS-RA-094,animal,cheetah,cheetah female,公猎豹,母猎豹,guepardo,guepardo hembra,Gepard,Gepardin,çita,dişi çita,gendered_pair,pending,
+NeurIPS-RA-095,animal,falcon,falconess,雄隼,雌隼,halcón,halcona,Falke,Falkin,şahin,dişi şahin,gendered_pair,pending,
+NeurIPS-RA-096,animal,eagle,eagless,雄鹰,雌鹰,águila macho,águila hembra,Adler,Adlerin,kartal,dişi kartal,gendered_pair,pending,"Spanish: 'águila' is feminine noun but gender marked via 'macho/hembra'"
+NeurIPS-RA-097,animal,hawk,hen hawk,雄鹰,雌鹰,halcón,halcona,Habicht,Habichtin,atmaca,dişi atmaca,gendered_pair,pending,"'hen hawk' is colloquial; Spanish uses 'halcón/halcona'"
+NeurIPS-RA-098,animal,owl,female owl,雄猫头鹰,雌猫头鹰,búho,lechuza,Eule,Eule,baykuş,dişi baykuş,gendered_pair,pending,"Note: Spanish 'búho' (masc) vs 'lechuza' (fem) sometimes used as gendered pair, though not biologically precise"
+NeurIPS-RA-099,animal,swan cob,swan pen,公天鹅,母天鹅,cisne macho,cisne hembra,Schwan,Schwanweibchen,kuğu,dişi kuğu,gendered_pair,pending,
+NeurIPS-RA-100,animal,penguin male,penguin female,公企鹅,母企鹅,pingüino macho,pingüina,Pinguin,Pinguinweibchen,penguen,dişi penguen,gendered_pair,pending,
+NeurIPS-RA-101,animal,dolphin bull,cow dolphin,公海豚,母海豚,delfín macho,delfín hembra,Delfinbulle,Delfinkuh,yunus,dişi yunus,gendered_pair,pending,
+NeurIPS-RA-102,animal,whale bull,cow whale,公鲸鱼,母鲸鱼,ballena macho,ballena hembra,Walbulle,Walkuh,balina,dişi balina,gendered_pair,pending,"Note: 'ballena' is feminine in Spanish but can be marked with 'macho/hembra'"
+NeurIPS-RA-103,animal,shark male,shark female,公鲨鱼,母鲨鱼,tiburón macho,tiburona,Hai,Haiweibchen,köpekbalığı,dişi köpekbalığı,gendered_pair,pending,
+NeurIPS-RA-104,animal,octopus male,octopus female,公章鱼,母章鱼,pulpo macho,pulpo hembra,Krake,Krakenweibchen,ahtapot,dişi ahtapot,gendered_pair,pending,
+NeurIPS-RA-105,animal,crane,hen crane,雄鹤,雌鹤,grulla macho,grulla hembra,Kranich,Kranichweibchen,turna,dişi turna,gendered_pair,pending,

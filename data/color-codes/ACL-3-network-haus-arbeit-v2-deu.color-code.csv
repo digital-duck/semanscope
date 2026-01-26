@@ -1,0 +1,10 @@
+domain,color_hex,color_name,color_rgb
+morphology,#000000,black,"(0, 0, 0)"
+grammar,#808080,gray,"(128, 128, 128)"
+people,#FF0000,red,"(255, 0, 0)"
+abstract,#FF00FF,magenta,"(255, 0, 255)"
+objects,#800080,purple,"(128, 0, 128)"
+places,#FFA500,orange,"(255, 165, 0)"
+activity,#00FF00,green,"(0, 255, 0)"
+nature,#00CED1,dark_turquoise,"(0, 206, 209)"
+time,#8B4513,saddle_brown,"(139, 69, 19)"

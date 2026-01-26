@@ -1,0 +1,69 @@
+word,domain,type,note
+A,spanish_uppercase,letter,primera letra mayúscula
+B,spanish_uppercase,letter,segunda letra mayúscula
+C,spanish_uppercase,letter,tercera letra mayúscula
+D,spanish_uppercase,letter,cuarta letra mayúscula
+E,spanish_uppercase,letter,quinta letra mayúscula
+F,spanish_uppercase,letter,sexta letra mayúscula
+G,spanish_uppercase,letter,séptima letra mayúscula
+H,spanish_uppercase,letter,octava letra mayúscula
+I,spanish_uppercase,letter,novena letra mayúscula
+J,spanish_uppercase,letter,décima letra mayúscula
+K,spanish_uppercase,letter,undécima letra mayúscula
+L,spanish_uppercase,letter,duodécima letra mayúscula
+M,spanish_uppercase,letter,decimotercera letra mayúscula
+N,spanish_uppercase,letter,decimocuarta letra mayúscula
+Ñ,spanish_special_uppercase,letter,eñe mayúscula (letra especial española)
+O,spanish_uppercase,letter,decimoquinta letra mayúscula
+P,spanish_uppercase,letter,decimosexta letra mayúscula
+Q,spanish_uppercase,letter,decimoséptima letra mayúscula
+R,spanish_uppercase,letter,decimoctava letra mayúscula
+S,spanish_uppercase,letter,decimonovena letra mayúscula
+T,spanish_uppercase,letter,vigésima letra mayúscula
+U,spanish_uppercase,letter,vigesimoprimera letra mayúscula
+V,spanish_uppercase,letter,vigesimosegunda letra mayúscula
+W,spanish_uppercase,letter,vigesimotercera letra mayúscula
+X,spanish_uppercase,letter,vigesimocuarta letra mayúscula
+Y,spanish_uppercase,letter,vigesimoquinta letra mayúscula
+Z,spanish_uppercase,letter,vigesimosexta letra mayúscula
+a,spanish_lowercase,letter,primera letra minúscula
+b,spanish_lowercase,letter,segunda letra minúscula
+c,spanish_lowercase,letter,tercera letra minúscula
+d,spanish_lowercase,letter,cuarta letra minúscula
+e,spanish_lowercase,letter,quinta letra minúscula
+f,spanish_lowercase,letter,sexta letra minúscula
+g,spanish_lowercase,letter,séptima letra minúscula
+h,spanish_lowercase,letter,octava letra minúscula
+i,spanish_lowercase,letter,novena letra minúscula
+j,spanish_lowercase,letter,décima letra minúscula
+k,spanish_lowercase,letter,undécima letra minúscula
+l,spanish_lowercase,letter,duodécima letra minúscula
+m,spanish_lowercase,letter,decimotercera letra minúscula
+n,spanish_lowercase,letter,decimocuarta letra minúscula
+ñ,spanish_special_lowercase,letter,eñe minúscula (letra especial española)
+o,spanish_lowercase,letter,decimoquinta letra minúscula
+p,spanish_lowercase,letter,decimosexta letra minúscula
+q,spanish_lowercase,letter,decimoséptima letra minúscula
+r,spanish_lowercase,letter,decimoctava letra minúscula
+s,spanish_lowercase,letter,decimonovena letra minúscula
+t,spanish_lowercase,letter,vigésima letra minúscula
+u,spanish_lowercase,letter,vigesimoprimera letra minúscula
+v,spanish_lowercase,letter,vigesimosegunda letra minúscula
+w,spanish_lowercase,letter,vigesimotercera letra minúscula
+x,spanish_lowercase,letter,vigesimocuarta letra minúscula
+y,spanish_lowercase,letter,vigesimoquinta letra minúscula
+z,spanish_lowercase,letter,vigesimosexta letra minúscula
+Á,spanish_accented_uppercase,letter,A con acento agudo mayúscula
+É,spanish_accented_uppercase,letter,E con acento agudo mayúscula
+Í,spanish_accented_uppercase,letter,I con acento agudo mayúscula
+Ó,spanish_accented_uppercase,letter,O con acento agudo mayúscula
+Ú,spanish_accented_uppercase,letter,U con acento agudo mayúscula
+Ü,spanish_accented_uppercase,letter,U con diéresis mayúscula
+á,spanish_accented_lowercase,letter,a con acento agudo minúscula
+é,spanish_accented_lowercase,letter,e con acento agudo minúscula
+í,spanish_accented_lowercase,letter,i con acento agudo minúscula
+ó,spanish_accented_lowercase,letter,o con acento agudo minúscula
+ú,spanish_accented_lowercase,letter,u con acento agudo minúscula
+ü,spanish_accented_lowercase,letter,u con diéresis minúscula
+¿,spanish_punctuation,punctuation,signo de interrogación de apertura
+¡,spanish_punctuation,punctuation,signo de exclamación de apertura

@@ -1,0 +1,9 @@
+domain,color_hex,color_name,color_rgb
+character,#000000,black,"(0, 0, 0)"
+people,#FF0000,red,"(255, 0, 0)"
+science,#0000FF,blue,"(0, 0, 255)"
+nature,#00FF00,green,"(0, 255, 0)"
+body,#FFA500,orange,"(255, 165, 0)"
+objects,#800080,purple,"(128, 0, 128)"
+abstract,#FF00FF,magenta,"(255, 0, 255)"
+food,#FFD700,gold,"(255, 215, 0)"

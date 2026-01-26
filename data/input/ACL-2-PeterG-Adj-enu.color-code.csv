@@ -1,0 +1,13 @@
+domain,color_hex,color_name
+colors,#FF0000,red
+size,#00FF00,green
+temperature,#FFA500,orange
+taste,#FFFF00,yellow
+texture,#800080,purple
+shape,#00FFFF,cyan
+emotions,#FF69B4,hotpink
+moral,#8B4513,brown
+aesthetic,#FFB6C1,lightpink
+physical,#0000FF,blue
+temporal,#808080,gray
+cognitive,#FF1493,deeppink

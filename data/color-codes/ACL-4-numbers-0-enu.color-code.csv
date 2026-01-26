@@ -1,0 +1,9 @@
+domain,color_hex,color_name,color_rgb
+numeric_word,#32CD32,lime_green,"(50, 205, 50)"
+symbols,#FF00FF,magenta,"(255, 0, 255)"
+numbers,#0000FF,blue,"(0, 0, 255)"
+arithmetic,#FF8C00,dark_orange,"(255, 140, 0)"
+applied_math,#8B008B,dark_magenta,"(139, 0, 139)"
+measurement,#00CED1,dark_turquoise,"(0, 206, 209)"
+mathematics,#FF0000,red,"(255, 0, 0)"
+physics,#4B0082,indigo,"(75, 0, 130)"

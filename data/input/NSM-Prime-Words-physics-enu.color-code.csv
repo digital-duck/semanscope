@@ -1,0 +1,11 @@
+domain,color_hex,color_name,description
+entity,#1E3A8A,Deep Blue,Fundamental entities and subjects/objects
+identify,#4338CA,Indigo,Identifiers and classification concepts
+quantifier,#EA580C,Orange,Numbers and measurable quantities
+qualifier,#F59E0B,Amber,Properties and descriptive attributes
+action,#DC2626,Red,State transitions and dynamic processes
+relation,#7C3AED,Purple,Interactions and connections between entities
+space,#16A34A,Green,Spatial location and directional concepts
+time,#0D9488,Teal,Temporal concepts and time-related expressions
+causality-logic,#6B7280,Gray,Logical operators and causal relationships
+misc,#EC4899,Pink,Other control words and uncategorized concepts

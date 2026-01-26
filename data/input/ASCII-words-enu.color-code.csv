@@ -1,0 +1,15 @@
+domain,color_hex,color_name,description
+punctuation,#FF6B6B,Coral Red,Punctuation marks and sentence structure symbols
+symbols,#4ECDC4,Turquoise,Mathematical and special symbols
+numbers,#45B7D1,Sky Blue,Numeric digits 0-9
+latin_uppercase,#96CEB4,Mint Green,Uppercase Latin letters A-Z
+latin_lowercase,#FECA57,Golden Yellow,Lowercase Latin letters a-z
+nature_elements,#6C5CE7,Purple,Natural elements and celestial bodies
+animals,#FD79A8,Pink,Animals and living creatures
+emotions,#E17055,Coral Orange,Emotional states and feelings
+family_kinship,#00B894,Emerald Green,Family relationships and kinship
+objects,#795548,Brown,Physical objects and structures
+places,#2E86AB,Ocean Blue,Geographic locations and places
+conjunctions,#A0522D,Sienna,Coordinating and contrasting conjunctions
+articles_determiners,#FF5722,Deep Orange,Articles and determiners
+prepositions,#9C27B0,Deep Purple,Prepositions and relational words

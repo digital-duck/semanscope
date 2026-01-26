@@ -1,0 +1,25 @@
+word,domain,type,note
+ㄱ,korean_letters,letter,giyeok - consonant
+ㄴ,korean_letters,letter,nieun - consonant
+ㄷ,korean_letters,letter,digeut - consonant
+ㄹ,korean_letters,letter,rieul - consonant
+ㅁ,korean_letters,letter,mieum - consonant
+ㅂ,korean_letters,letter,bieup - consonant
+ㅅ,korean_letters,letter,siot - consonant
+ㅇ,korean_letters,letter,ieung - consonant
+ㅈ,korean_letters,letter,jieut - consonant
+ㅊ,korean_letters,letter,chieut - consonant
+ㅋ,korean_letters,letter,kieuk - consonant
+ㅌ,korean_letters,letter,tieut - consonant
+ㅍ,korean_letters,letter,pieup - consonant
+ㅎ,korean_letters,letter,hieut - consonant
+ㅏ,korean_letters,letter,a - vowel
+ㅑ,korean_letters,letter,ya - vowel
+ㅓ,korean_letters,letter,eo - vowel
+ㅕ,korean_letters,letter,yeo - vowel
+ㅗ,korean_letters,letter,o - vowel
+ㅛ,korean_letters,letter,yo - vowel
+ㅜ,korean_letters,letter,u - vowel
+ㅠ,korean_letters,letter,yu - vowel
+ㅡ,korean_letters,letter,eu - vowel
+ㅣ,korean_letters,letter,i - vowel

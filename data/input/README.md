@@ -1,221 +1,174 @@
-# Semanscope Datasets
+# Semanscope - Input Data Format
 
-This directory contains representative datasets for semantic embedding visualization and benchmarking.
+This folder contains input datasets for semantic geometry analysis using the Semanscope tool.
 
-## Dataset Categories
+## File Format Specification
 
-### ACL-0: Chinese Morphology
-- **Zinets**: Chinese character components (子-network)
-- **Radicals**: Kangxi radicals for morphological analysis
+### CSV Format (Required)
+All input data files must be in **CSV format** with exactly **4 columns**:
 
-### ACL-1: Alphabets
-Letter names across multiple writing systems:
-- English (enu), Chinese (chn), Spanish (spa), Arabic (ara)
-- Korean (kor), Japanese (jpn), Russian (rus), Turkish (tur)
-- French (fra), German (deu), Persian (fas), Greek (grk)
-- Hebrew (heb), Hindi (hin), Armenian (hye), Georgian (kat)
-- Thai (tha), Vietnamese (vie)
-
-### ACL-2: PeterG Vocabulary
-Core vocabulary sets from Natural Semantic Metalanguage research:
-- **ALL**: Complete semantic primes (~65 words)
-- **Adj**: Adjectives subset
-- **Verb**: Verbs subset
-Available in English (enu), Chinese (chn), German (deu)
-
-### ACL-3: Morphological Networks
-Word formation networks:
-- Chinese 子-network (child/son morphology)
-- German haus-arbeit network (house-work compounds)
-
-### ACL-4: Semantic Categories
-Thematic word lists:
-- **Numbers**: Number words (1-100) in English and Chinese
-- **Emotions**: Emotion vocabulary
-- **Animals**: Animal names
-- **Physics-Math**: Scientific terminology
-
-### ACL-5: Poetry Corpora
-Poetic texts for semantic analysis:
-- **Chinese**: Li Bai (李白), Du Fu (杜甫)
-- **English**: Robert Frost, William Wordsworth, Percy Shelley
-- **German**: Goethe, Schiller
-
-### ACL-6: Visual Semantics
-- **Emoji**: Emoji characters and descriptions
-- **Pictographs**: Pictographic symbols
-
-### NeurIPS Benchmark Datasets (v2.5)
-
-Research-grade benchmarks for Semantic Affinity (SA) and Relational Affinity (RA) metrics:
-
-1. **NeurIPS-01**: family-relations (kinship terms)
-2. **NeurIPS-02**: royalty-hierarchy (social ranks)
-3. **NeurIPS-03**: gendered-occupations (profession terms)
-4. **NeurIPS-04**: comparative-superlative (degree adjectives)
-5. **NeurIPS-05**: antonym-pairs (opposites)
-6. **NeurIPS-06**: verb-tenses (temporal forms)
-7. **NeurIPS-07**: plural-singular (number forms)
-8. **NeurIPS-08**: capitals-countries (geographic relations)
-9. **NeurIPS-09**: currency-countries (economic relations)
-10. **NeurIPS-10**: sports-equipment (thematic associations)
-11. **NeurIPS-11**: food-categories (semantic taxonomies)
-
-Each benchmark includes:
-- **-SA.csv**: Semantic Affinity test format
-- **-RA.csv**: Relational Affinity test format
-
-## File Formats
-
-### Text Files (.txt)
-Simple newline-delimited word lists:
-```
-word1
-word2
-word3
+```csv
+word,domain,type,note
 ```
 
-### CSV Files
-Structured data for benchmarking:
-- **SA format**: word1, word2 pairs for semantic similarity
-- **RA format**: word1, word2, word3, word4 quadruples for relational analogy
+### Column Definitions
 
-### Color Code Files (.color-code.csv)
-Optional visualization color mappings:
+| Column | Description | Purpose | Examples |
+|--------|-------------|---------|----------|
+| **word** | The term to analyze | Primary data for embedding analysis | `force`, `+`, `孔子`, `work` |
+| **domain** | Semantic domain category | Color coding and grouping | `mechanics`, `operations`, `morphological_子` |
+| **type** | Classification type | Additional categorization | `concept`, `symbol`, `particle`, `character` |
+| **note** | Brief description | Context and documentation | `push or pull`, `addition operator` |
+
+### Color Coding System
+
+The **domain** column maps to colors defined in `src/config.py`:
+
+#### Mathematical & Physics Domains
+- `numbers` → 🔴 Bright red (numerical spiral pattern)
+- `operations` → 🟠 Orange red (mathematical operators)
+- `algebra` → 🔵 Royal blue (variables, equations)
+- `geometry` → 🔵 Blue (shapes, spatial concepts)
+- `mechanics` → 🟢 Forest green (force, energy)
+- `quantum` → 🟣 Dark violet (quantum mechanics)
+- `constants` → 🟠 Dark orange (π, e, c, h)
+
+#### Linguistic Domains
+- `people` → 🔴 Royal blue (persons, agents)
+- `nature` → 🟢 Forest green (animals, plants)
+- `objects` → 🟠 Dark orange (tools, furniture)
+- `morphological_子` → 🟣 Purple (Chinese character families)
+- `morphological_work` → 🟣 Purple (English derivational families)
+
+#### Custom Domains
+Add new domains to `SEMANTIC_DOMAIN_COLORS` in `src/config.py` for custom color mapping.
+
+## File Naming Convention
+
 ```
-word,color
-example,#FF5733
-```
-
-## Language Codes
-
-Semanscope uses 3-letter ISO 639-3 inspired codes:
-- `enu` = English
-- `chn` = Chinese (Mandarin)
-- `spa` = Spanish
-- `ara` = Arabic
-- `deu` = German
-- `fra` = French
-- `jpn` = Japanese
-- `kor` = Korean
-- `rus` = Russian
-- `tur` = Turkish
-
-(See `semanscope.config.LANGUAGE_CODE_MAP` for complete mapping)
-
-## Dataset Statistics
-
-- **Total files**: ~60+ representative datasets
-- **Languages**: 15+ major languages
-- **Categories**: 7 main categories (ACL-0 through ACL-6)
-- **Benchmarks**: 11 NeurIPS datasets × 2 metrics = 22 benchmark files
-- **Color codes**: 26 visualization mappings
-
-## Full Dataset Collection
-
-This directory contains a curated selection of representative datasets. To download the complete collection (2000+ files):
-
-```bash
-# Option 1: Using download script
-python scripts/download_datasets.py --full
-
-# Option 2: From GitHub releases
-# (Coming soon - check repository releases page)
-
-# Option 3: From original source
-# Contact repository maintainers for access to full archive
+{PROJECT}-{DATASET}-{VERSION}-{LANGUAGE}.txt
 ```
 
-## Usage Examples
+**Examples:**
+- `ACL-word-v2-enu.txt` - ACL paper core vocabulary (English)
+- `ACL-word-v2-chn.txt` - ACL paper core vocabulary (Chinese)
+- `ACL-Physics-v2-enu.txt` - Mathematical and physics concepts
+- `ACL-network-子-v2-chn.txt` - Chinese morphological network
+- `ACL-numbers-enu.txt` - Numerical concepts dataset
 
-### Loading a dataset in Python
-```python
-from pathlib import Path
-from semanscope.config import DATA_PATH
+## Sample Datasets
 
-# Read a simple word list
-dataset_path = DATA_PATH / "input" / "ACL-1-Alphabets-enu.txt"
-with open(dataset_path) as f:
-    words = [line.strip() for line in f]
+### 1. ACL Core Vocabulary (Multilingual)
+Cross-linguistic semantic analysis datasets:
+- **English**: `ACL-word-v2-enu.txt` (278 words)
+- **Chinese**: `ACL-word-v2-chn.txt` (265 words)
+- **German**: `ACL-word-v2-deu.txt` (265 words)
 
-# Read a benchmark CSV
-import pandas as pd
-benchmark_path = DATA_PATH / "input" / "NeurIPS-01-family-relations-v2.5-SA.csv"
-df = pd.read_csv(benchmark_path)
+**Domains**: people, nature, objects, abstract, activity, places, time, body, food
+
+### 2. Mathematical & Physics Concepts
+Comprehensive scientific vocabulary:
+- **Physics v2**: `ACL-Physics-v2-enu.txt` (263 terms)
+
+**Domains**: numbers, operations, algebra, geometry, calculus, mechanics, quantum, etc.
+
+### 3. Morphological Networks
+Language-specific word formation patterns:
+- **Chinese**: `ACL-network-子-v2-chn.txt` (123 characters)
+- **English**: `ACL-network-work-light-v2-enu.txt` (62 words)
+- **German**: `ACL-network-haus-arbeit-v2-deu.txt` (90 compounds)
+
+**Domains**: morphological_子, morphological_work, morphological_light, etc.
+
+### 4. Numerical Progression
+Mathematical spiral geometry analysis:
+- **English**: `ACL-numbers-enu.txt` (92 terms)
+
+**Domains**: numbers, operations, symbols, constants
+
+## Data Quality Guidelines
+
+### Word Selection
+- ✅ **Single words or established terms**: `force`, `E=mc²`, `子`
+- ✅ **Domain-specific vocabulary**: technical terms, scientific concepts
+- ✅ **Cross-linguistic equivalents**: parallel terms across languages
+- ❌ **Full sentences**: avoid complete sentences
+- ❌ **Very rare terms**: focus on established vocabulary
+- ❌ **Highly ambiguous words**: prefer clear, unambiguous terms
+
+### Domain Assignment
+- **Consistent categorization**: Use established domain categories
+- **Semantic coherence**: Group semantically related terms
+- **Avoid overlap**: Each word should have one primary domain
+- **Document rationale**: Use descriptive domain names
+
+### Type Classification
+Common type categories:
+- `concept` - Abstract ideas, principles
+- `symbol` - Mathematical/logical symbols
+- `particle` - Physical particles, atoms
+- `property` - Physical/chemical properties
+- `process` - Actions, procedures
+- `unit` - Measurement units
+- `character` - Chinese characters
+- `word` - Natural language words
+
+## Usage in Semanscope
+
+1. **Load Dataset**: Select file from data input folder
+2. **Embedding Generation**: Words are converted to embeddings using selected model
+3. **Geometric Analysis**: PHATE/other methods create 2D/3D visualization
+4. **Color Mapping**: Domain column determines point colors
+5. **Interactive Exploration**: 3D visualization with domain-based coloring
+
+## Research Applications
+
+### Cross-Linguistic Analysis
+Compare geometric organization across languages using parallel datasets.
+
+### Domain-Specific Studies
+Analyze how specialized vocabularies (mathematics, physics, linguistics) organize in embedding space.
+
+### Morphological Research
+Study language-specific word formation patterns through geometric analysis.
+
+### Educational Applications
+Visualize conceptual relationships for learning optimization.
+
+## File Creation Tips
+
+### CSV Formatting
+- **Header required**: First line must be `word,domain,type,note`
+- **No spaces in domain names**: Use underscores (`morphological_work`)
+- **Consistent encoding**: UTF-8 for multilingual support
+- **Quote complex terms**: Use quotes for terms with commas: `"mass-energy"`
+
+### Domain Strategy
+- **Start broad**: Use major categories (numbers, mechanics, people)
+- **Refine gradually**: Add subcategories as needed (quantum, thermodynamics)
+- **Color coordination**: Consider visual clarity in final visualization
+- **Documentation**: Keep notes about domain rationale
+
+### Example Entry
+```csv
+word,domain,type,note
+E=mc²,relativity,equation,Einstein's mass-energy equivalence
+孔子,morphological_子,character,Confucius - philosophical compound
+derivative,calculus,concept,rate of change in calculus
 ```
 
-### Using in Streamlit UI
-1. Launch UI: `python run_app.py` or `semanscope-ui`
-2. Navigate to any Semanscope page
-3. Select dataset from dropdown (automatically populated from this directory)
+---
 
-### Batch Benchmarking
-```bash
-# Semantic Affinity benchmark
-semanscope-benchmark-sa --dataset NeurIPS-01-family-relations-v2.5-SA.csv --model LaBSE
+## Technical Integration
 
-# Relational Affinity benchmark
-semanscope-benchmark-ra --dataset NeurIPS-01-family-relations-v2.5-RA.csv --model LaBSE
-```
+This data format integrates with:
+- **Embedding Models**: Sentence-BERT Multilingual, BGE-M3, etc.
+- **Dimensionality Reduction**: PHATE, UMAP, t-SNE, TriMap, PaCMAP
+- **Visualization**: 2D/3D interactive plots with domain-based coloring
+- **Export**: Results can be saved for academic papers and analysis
 
-## Adding Custom Datasets
+**For technical details see**: `src/config.py` (color mappings) and `src/components/` (processing logic)
 
-To add your own datasets:
+---
 
-1. **Create word list** (.txt format):
-   ```
-   word1
-   word2
-   word3
-   ```
-
-2. **Follow naming convention**:
-   - `CategoryName-SubCategory-language.txt`
-   - Example: `MyData-Animals-enu.txt`
-
-3. **Place in this directory**: `data/input/`
-
-4. **Optional color coding**: Create matching `.color-code.csv`:
-   ```csv
-   word,color
-   cat,#FF5733
-   dog,#33C3FF
-   ```
-
-5. **Restart UI**: Dataset will appear in dropdown automatically
-
-## Dataset Attribution
-
-- **ACL datasets**: Research collections from computational linguistics studies
-- **NeurIPS benchmarks**: Purpose-built evaluation datasets for SA/RA metrics
-- **PeterG vocabulary**: Based on Natural Semantic Metalanguage (NSM) theory
-- **Poetry corpora**: Public domain literary works
-
-## License
-
-Datasets included are either:
-- Public domain (poetry, alphabets)
-- Research use (benchmarks)
-- Creative Commons (where applicable)
-
-See individual dataset documentation for specific licensing.
-
-## Citation
-
-If you use these datasets in research, please cite:
-
-```bibtex
-@software{semanscope2026,
-  title={Semanscope: Multilingual Semantic Embedding Visualization Toolkit},
-  author={Semanscope Contributors},
-  year={2026},
-  url={https://github.com/semanscope/semanscope}
-}
-```
-
-## Questions?
-
-- **Missing dataset**: Use download script or contact maintainers
-- **Custom datasets**: See "Adding Custom Datasets" above
-- **Format questions**: Check examples in this directory
-- **Bug reports**: https://github.com/semanscope/semanscope/issues
+*This format enables systematic geometric analysis of semantic organization across languages, domains, and conceptual categories - supporting research in computational semantics, multilingual NLP, and cognitive science.*

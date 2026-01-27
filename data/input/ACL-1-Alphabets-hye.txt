@@ -1,0 +1,77 @@
+word,domain,type,note
+Ա,armenian_uppercase,letter,Ayb - first letter
+Բ,armenian_uppercase,letter,Ben - second letter
+Գ,armenian_uppercase,letter,Gim - third letter
+Դ,armenian_uppercase,letter,Da - fourth letter
+Ե,armenian_uppercase,letter,Ech - fifth letter
+Զ,armenian_uppercase,letter,Za - sixth letter
+Է,armenian_uppercase,letter,Eh - seventh letter
+Ը,armenian_uppercase,letter,Et - eighth letter
+Թ,armenian_uppercase,letter,To - ninth letter
+Ժ,armenian_uppercase,letter,Zhe - tenth letter
+Ի,armenian_uppercase,letter,Ini - eleventh letter
+Լ,armenian_uppercase,letter,Liwn - twelfth letter
+Խ,armenian_uppercase,letter,Xeh - thirteenth letter
+Ծ,armenian_uppercase,letter,Ca - fourteenth letter
+Կ,armenian_uppercase,letter,Ken - fifteenth letter
+Հ,armenian_uppercase,letter,Ho - sixteenth letter
+Ձ,armenian_uppercase,letter,Ja - seventeenth letter
+Ղ,armenian_uppercase,letter,Ghad - eighteenth letter
+Ճ,armenian_uppercase,letter,Cheh - nineteenth letter
+Մ,armenian_uppercase,letter,Men - twentieth letter
+Յ,armenian_uppercase,letter,Yi - twenty-first letter
+Ն,armenian_uppercase,letter,Nu - twenty-second letter
+Շ,armenian_uppercase,letter,Sha - twenty-third letter
+Ո,armenian_uppercase,letter,Vo - twenty-fourth letter
+Չ,armenian_uppercase,letter,Cha - twenty-fifth letter
+Պ,armenian_uppercase,letter,Peh - twenty-sixth letter
+Ջ,armenian_uppercase,letter,Jheh - twenty-seventh letter
+Ռ,armenian_uppercase,letter,Ra - twenty-eighth letter
+Ս,armenian_uppercase,letter,Seh - twenty-ninth letter
+Վ,armenian_uppercase,letter,Vew - thirtieth letter
+Տ,armenian_uppercase,letter,Tiwn - thirty-first letter
+Ր,armenian_uppercase,letter,Reh - thirty-second letter
+Ց,armenian_uppercase,letter,Co - thirty-third letter
+Ւ,armenian_uppercase,letter,Yiwn - thirty-fourth letter
+Փ,armenian_uppercase,letter,Piwr - thirty-fifth letter
+Ք,armenian_uppercase,letter,Keh - thirty-sixth letter
+Օ,armenian_uppercase,letter,Oh - thirty-seventh letter
+Ֆ,armenian_uppercase,letter,Feh - thirty-eighth letter
+ա,armenian_lowercase,letter,ayb - first letter lowercase
+բ,armenian_lowercase,letter,ben - second letter lowercase
+գ,armenian_lowercase,letter,gim - third letter lowercase
+դ,armenian_lowercase,letter,da - fourth letter lowercase
+ե,armenian_lowercase,letter,ech - fifth letter lowercase
+զ,armenian_lowercase,letter,za - sixth letter lowercase
+է,armenian_lowercase,letter,eh - seventh letter lowercase
+ը,armenian_lowercase,letter,et - eighth letter lowercase
+թ,armenian_lowercase,letter,to - ninth letter lowercase
+ժ,armenian_lowercase,letter,zhe - tenth letter lowercase
+ի,armenian_lowercase,letter,ini - eleventh letter lowercase
+լ,armenian_lowercase,letter,liwn - twelfth letter lowercase
+խ,armenian_lowercase,letter,xeh - thirteenth letter lowercase
+ծ,armenian_lowercase,letter,ca - fourteenth letter lowercase
+կ,armenian_lowercase,letter,ken - fifteenth letter lowercase
+հ,armenian_lowercase,letter,ho - sixteenth letter lowercase
+ձ,armenian_lowercase,letter,ja - seventeenth letter lowercase
+ղ,armenian_lowercase,letter,ghad - eighteenth letter lowercase
+ճ,armenian_lowercase,letter,cheh - nineteenth letter lowercase
+մ,armenian_lowercase,letter,men - twentieth letter lowercase
+յ,armenian_lowercase,letter,yi - twenty-first letter lowercase
+ն,armenian_lowercase,letter,nu - twenty-second letter lowercase
+շ,armenian_lowercase,letter,sha - twenty-third letter lowercase
+ո,armenian_lowercase,letter,vo - twenty-fourth letter lowercase
+չ,armenian_lowercase,letter,cha - twenty-fifth letter lowercase
+պ,armenian_lowercase,letter,peh - twenty-sixth letter lowercase
+ջ,armenian_lowercase,letter,jheh - twenty-seventh letter lowercase
+ռ,armenian_lowercase,letter,ra - twenty-eighth letter lowercase
+ս,armenian_lowercase,letter,seh - twenty-ninth letter lowercase
+վ,armenian_lowercase,letter,vew - thirtieth letter lowercase
+տ,armenian_lowercase,letter,tiwn - thirty-first letter lowercase
+ր,armenian_lowercase,letter,reh - thirty-second letter lowercase
+ց,armenian_lowercase,letter,co - thirty-third letter lowercase
+ւ,armenian_lowercase,letter,yiwn - thirty-fourth letter lowercase
+փ,armenian_lowercase,letter,piwr - thirty-fifth letter lowercase
+ք,armenian_lowercase,letter,keh - thirty-sixth letter lowercase
+օ,armenian_lowercase,letter,oh - thirty-seventh letter lowercase
+ֆ,armenian_lowercase,letter,feh - thirty-eighth letter lowercase

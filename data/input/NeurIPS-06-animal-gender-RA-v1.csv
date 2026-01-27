@@ -1,0 +1,16 @@
+relation_id,category,word1_en,word2_en,word1_zh,word2_zh,word1_es,word2_es,relation_type,verified,notes
+NeurIPS-RA-056,animal,bull,cow,公牛,母牛,toro,vaca,gendered_pair,pending,
+NeurIPS-RA-057,animal,rooster,hen,公鸡,母鸡,gallo,gallina,gendered_pair,pending,
+NeurIPS-RA-058,animal,stallion,mare,公马,母马,semental,yegua,gendered_pair,pending,
+NeurIPS-RA-059,animal,ram,ewe,公羊,母羊,carnero,oveja,gendered_pair,pending,
+NeurIPS-RA-060,animal,drake,duck,公鸭,母鸭,pato,pata,gendered_pair,pending,
+NeurIPS-RA-061,animal,gander,goose,公鹅,母鹅,ganso,gansa,gendered_pair,pending,
+NeurIPS-RA-062,animal,lion,lioness,公狮,母狮,león,leona,gendered_pair,pending,
+NeurIPS-RA-063,animal,tiger,tigress,公虎,母虎,tigre,tigresa,gendered_pair,pending,
+NeurIPS-RA-064,animal,buck,doe,公鹿,母鹿,ciervo,cierva,gendered_pair,pending,
+NeurIPS-RA-065,animal,boar,sow,公猪,母猪,jabalí,jabalina,gendered_pair,pending,
+NeurIPS-RA-066,animal,dog,bitch,公狗,母狗,perro,perra,gendered_pair,pending,
+NeurIPS-RA-067,animal,tom,cat,公猫,母猫,gato,gata,gendered_pair,pending,
+NeurIPS-RA-068,animal,billy,nanny,公羊,母羊,macho cabrío,cabra,gendered_pair,pending,goat
+NeurIPS-RA-069,animal,colt,filly,小公马,小母马,potro,potra,gendered_pair,pending,
+NeurIPS-RA-070,animal,peacock,peahen,孔雀,雌孔雀,pavo real,pava real,gendered_pair,pending,

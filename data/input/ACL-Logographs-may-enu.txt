@@ -1,0 +1,141 @@
+word,domain,type,note
+𝋠,numbers,logogram,one - basic numeral
+𝋡,numbers,logogram,two - basic numeral  
+𝋢,numbers,logogram,three - basic numeral
+𝋣,numbers,logogram,four - basic numeral
+𝋤,numbers,logogram,five - basic numeral
+𝋦,numbers,logogram,ten - decimal unit
+𝋧,numbers,logogram,twenty - vigesimal base
+𓁹,body,logogram,eye - vision organ
+𓂋,body,logogram,mouth - speech organ
+𓂝,body,logogram,hand - manipulation
+𓃀,body,logogram,foot - locomotion
+𓊪,body,logogram,head - cranium
+𓊫,body,logogram,heart - emotion center
+𓆃,animals,logogram,bird - generic avian
+𓆄,animals,logogram,jaguar - sacred feline
+𓆅,animals,logogram,snake - serpent deity
+𓆆,animals,logogram,turtle - longevity symbol
+𓆇,animals,logogram,monkey - trickster figure
+𓆈,animals,logogram,dog - companion animal
+𓇳,nature,logogram,sun - solar deity
+𓇴,nature,logogram,moon - lunar cycle
+𓈖,nature,logogram,star - celestial body
+𓈗,nature,logogram,water - life element
+𓈘,nature,logogram,fire - sacred element
+𓈙,nature,logogram,earth - foundation element
+𓊽,family,logogram,mother - maternal figure
+𓊾,family,logogram,father - paternal figure
+𓊿,family,logogram,child - offspring
+𓋀,family,logogram,ancestor - revered elder
+𓋁,family,logogram,lineage - bloodline
+𓋂,family,logogram,clan - extended family
+𓋄,emotions,logogram,love - affection
+𓋅,emotions,logogram,fear - anxiety
+𓋆,emotions,logogram,joy - happiness
+𓋇,emotions,logogram,anger - wrath
+𓋈,emotions,logogram,sadness - grief
+𓋉,emotions,logogram,peace - tranquility
+𓌀,food,logogram,maize - sacred grain
+𓌁,food,logogram,cacao - divine drink
+𓌂,food,logogram,beans - protein source
+𓌃,food,logogram,squash - vegetable staple
+𓌄,food,logogram,chili - spice plant
+𓌅,food,logogram,fruit - sweet nourishment
+𓍢,time,logogram,day - solar period
+𓍣,time,logogram,night - lunar period
+𓍤,time,logogram,season - cyclical time
+𓍥,time,logogram,year - annual cycle
+𓍦,time,logogram,calendar - time system
+𓍧,time,logogram,eternity - infinite time
+𓎟,spatial,logogram,north - cardinal direction
+𓎠,spatial,logogram,south - cardinal direction
+𓎡,spatial,logogram,east - cardinal direction
+𓎢,spatial,logogram,west - cardinal direction
+𓎣,spatial,logogram,center - sacred middle
+𓎤,spatial,logogram,above - celestial realm
+𓏏,abstract,logogram,wisdom - knowledge
+𓏐,abstract,logogram,power - authority
+𓏑,abstract,logogram,beauty - aesthetic
+𓏒,abstract,logogram,truth - veracity
+𓏓,abstract,logogram,honor - respect
+𓏔,abstract,logogram,courage - bravery
+𓐍,actions,logogram,walk - movement
+𓐎,actions,logogram,run - rapid motion
+𓐏,actions,logogram,speak - communication
+𓐐,actions,logogram,see - observation
+𓐑,actions,logogram,hear - audition
+𓐒,actions,logogram,think - cognition
+𓂡,function,syllable,ka - possessive marker
+𓂢,function,syllable,ku - directional particle
+𓂣,function,syllable,ki - locative marker
+𓂤,function,syllable,ma - negative particle
+𓂥,function,syllable,na - demonstrative
+𓂦,function,syllable,ta - completion marker
+one,numbers,english,numeral translation
+two,numbers,english,numeral translation
+three,numbers,english,numeral translation
+four,numbers,english,numeral translation
+five,numbers,english,numeral translation
+ten,numbers,english,numeral translation
+twenty,numbers,english,numeral translation
+eye,body,english,vision organ
+mouth,body,english,speech organ
+hand,body,english,manipulation tool
+foot,body,english,locomotion organ
+head,body,english,cranium
+heart,body,english,emotion center
+bird,animals,english,generic avian
+jaguar,animals,english,sacred feline
+snake,animals,english,serpent deity
+turtle,animals,english,longevity symbol
+monkey,animals,english,trickster figure
+dog,animals,english,companion animal
+sun,nature,english,solar deity
+moon,nature,english,lunar cycle
+star,nature,english,celestial body
+water,nature,english,life element
+fire,nature,english,sacred element
+earth,nature,english,foundation element
+mother,family,english,maternal figure
+father,family,english,paternal figure
+child,family,english,offspring
+ancestor,family,english,revered elder
+lineage,family,english,bloodline
+clan,family,english,extended family
+love,emotions,english,affection
+fear,emotions,english,anxiety
+joy,emotions,english,happiness
+anger,emotions,english,wrath
+sadness,emotions,english,grief
+peace,emotions,english,tranquility
+maize,food,english,sacred grain
+cacao,food,english,divine drink
+beans,food,english,protein source
+squash,food,english,vegetable staple
+chili,food,english,spice plant
+fruit,food,english,sweet nourishment
+day,time,english,solar period
+night,time,english,lunar period
+season,time,english,cyclical time
+year,time,english,annual cycle
+calendar,time,english,time system
+eternity,time,english,infinite time
+north,spatial,english,cardinal direction
+south,spatial,english,cardinal direction
+east,spatial,english,cardinal direction
+west,spatial,english,cardinal direction
+center,spatial,english,sacred middle
+above,spatial,english,celestial realm
+wisdom,abstract,english,knowledge
+power,abstract,english,authority
+beauty,abstract,english,aesthetic
+truth,abstract,english,veracity
+honor,abstract,english,respect
+courage,abstract,english,bravery
+walk,actions,english,movement
+run,actions,english,rapid motion
+speak,actions,english,communication
+see,actions,english,observation
+hear,actions,english,audition
+think,actions,english,cognition

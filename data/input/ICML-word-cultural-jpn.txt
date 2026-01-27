@@ -1,0 +1,120 @@
+word,domain,type,notes,cultural_context
+# Core semantic domains for cultural comparison across CHN/JPN/KOR/VIE
+# ICML-2026: Dimensionality of Meaning framework - Japanese cultural adaptation
+
+# Numbers (kanji/hiragana mix)
+一,numbers,abstract,cultural_universal,one
+二,numbers,abstract,cultural_universal,two
+三,numbers,abstract,cultural_universal,three
+四,numbers,abstract,cultural_universal,four
+五,numbers,abstract,cultural_universal,five
+六,numbers,abstract,cultural_universal,six
+七,numbers,abstract,cultural_universal,seven
+八,numbers,abstract,cultural_universal,eight
+九,numbers,abstract,cultural_universal,nine
+十,numbers,abstract,cultural_universal,ten
+
+# Family hierarchy (Japanese adaptation of Confucian system)
+父,family_kinship,content,japanese_adaptation,father
+母,family_kinship,content,japanese_adaptation,mother
+息子,family_kinship,content,japanese_adaptation,son
+娘,family_kinship,content,japanese_adaptation,daughter
+祖父,family_kinship,content,japanese_adaptation,grandfather
+祖母,family_kinship,content,japanese_adaptation,grandmother
+兄弟,family_kinship,content,japanese_adaptation,brother
+姉妹,family_kinship,content,japanese_adaptation,sister
+
+# Traditional wisdom (Japanese concepts)
+知恵,abstract_qualities,abstract,cultural_wisdom,wisdom
+勇気,abstract_qualities,abstract,cultural_wisdom,courage
+正直,abstract_qualities,abstract,cultural_wisdom,honesty
+謙虚,abstract_qualities,abstract,cultural_wisdom,humility
+尊敬,abstract_qualities,abstract,cultural_wisdom,respect
+和,abstract_qualities,abstract,japanese_concept,harmony
+平和,abstract_qualities,abstract,cultural_wisdom,peace
+正義,abstract_qualities,abstract,cultural_wisdom,justice
+
+# Nature elements (Japanese perception)
+金,nature_elements,content,five_elements,metal
+木,nature_elements,content,five_elements,wood
+水,nature_elements,content,five_elements,water
+火,nature_elements,content,five_elements,fire
+土,nature_elements,content,five_elements,earth
+太陽,nature_elements,content,cultural_universal,sun
+月,nature_elements,content,cultural_universal,moon
+星,nature_elements,content,cultural_universal,star
+山,nature_elements,content,cultural_universal,mountain
+川,nature_elements,content,cultural_universal,river
+
+# Body parts (universal concepts with Japanese readings)
+頭,body_parts,content,cultural_universal,head
+目,body_parts,content,cultural_universal,eye
+鼻,body_parts,content,cultural_universal,nose
+口,body_parts,content,cultural_universal,mouth
+手,body_parts,content,cultural_universal,hand
+足,body_parts,content,cultural_universal,foot
+心,body_parts,content,cultural_universal,heart
+
+# Animals (Japanese cultural significance)
+龍,animals,content,cultural_symbol,dragon
+鳳凰,animals,content,cultural_symbol,phoenix
+虎,animals,content,cultural_symbol,tiger
+獅子,animals,content,cultural_symbol,lion
+猫,animals,content,cultural_universal,cat
+犬,animals,content,cultural_universal,dog
+鳥,animals,content,cultural_universal,bird
+魚,animals,content,cultural_universal,fish
+
+# Colors (Japanese cultural meanings)
+赤,colors,abstract,cultural_symbol,red
+黄,colors,abstract,cultural_symbol,yellow
+青,colors,abstract,cultural_universal,blue
+緑,colors,abstract,cultural_universal,green
+白,colors,abstract,cultural_symbol,white
+黒,colors,abstract,cultural_symbol,black
+金,colors,abstract,cultural_symbol,gold
+
+# Emotions (universal with Japanese expression)
+嬉しい,emotions,content,cultural_universal,happy
+悲しい,emotions,content,cultural_universal,sad
+怒り,emotions,content,cultural_universal,angry
+恐れ,emotions,content,cultural_universal,fear
+愛,emotions,content,cultural_universal,love
+喜び,emotions,content,cultural_universal,joy
+
+# Time concepts (Japanese calendar influence)
+年,time_temporal,content,cultural_universal,year
+月,time_temporal,content,cultural_universal,month
+日,time_temporal,content,cultural_universal,day
+春,time_temporal,content,cultural_universal,spring
+夏,time_temporal,content,cultural_universal,summer
+秋,time_temporal,content,cultural_universal,autumn
+冬,time_temporal,content,cultural_universal,winter
+
+# Food (Japanese cuisine)
+米,food,content,cultural_staple,rice
+うどん,food,content,cultural_dish,udon
+寿司,food,content,cultural_dish,sushi
+茶,food,content,cultural_beverage,tea
+酒,food,content,cultural_beverage,sake
+豆腐,food,content,cultural_ingredient,tofu
+
+# Actions (universal with Japanese cultural context)
+歩く,actions_verbs,content,cultural_universal,walk
+走る,actions_verbs,content,cultural_universal,run
+食べる,actions_verbs,content,cultural_universal,eat
+飲む,actions_verbs,content,cultural_universal,drink
+眠る,actions_verbs,content,cultural_universal,sleep
+勉強,actions_verbs,content,cultural_value,study
+働く,actions_verbs,content,cultural_universal,work
+
+# Spatial concepts (Japanese directional system)
+上,spatial_directional,abstract,cultural_universal,up
+下,spatial_directional,abstract,cultural_universal,down
+左,spatial_directional,abstract,cultural_universal,left
+右,spatial_directional,abstract,cultural_universal,right
+中心,spatial_directional,abstract,cultural_concept,center
+東,spatial_directional,abstract,cultural_universal,east
+西,spatial_directional,abstract,cultural_universal,west
+南,spatial_directional,abstract,cultural_universal,south
+北,spatial_directional,abstract,cultural_universal,north

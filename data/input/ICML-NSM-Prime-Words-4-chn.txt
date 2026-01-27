@@ -1,0 +1,11 @@
+word,domain,type,note
+沉思,CONTROL_WORD,other,control
+美味,CONTROL_WORD,other,control
+壮丽,CONTROL_WORD,other,control
+琢磨,CONTROL_WORD,other,control
+深思,CONTROL_WORD,other,control
+精美,CONTROL_WORD,other,control
+巨大,CONTROL_WORD,other,control
+微小,CONTROL_WORD,other,control
+庞大,CONTROL_WORD,other,control
+验证,CONTROL_WORD,other,control

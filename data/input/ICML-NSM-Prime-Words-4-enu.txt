@@ -1,0 +1,11 @@
+word,domain,type,note
+contemplate,CONTROL_WORD,other,control
+delicious,CONTROL_WORD,other,control
+magnificent,CONTROL_WORD,other,control
+ponder,CONTROL_WORD,other,control
+ruminate,CONTROL_WORD,other,control
+exquisite,CONTROL_WORD,other,control
+tremendous,CONTROL_WORD,other,control
+minuscule,CONTROL_WORD,other,control
+colossal,CONTROL_WORD,other,control
+verify,CONTROL_WORD,other,control

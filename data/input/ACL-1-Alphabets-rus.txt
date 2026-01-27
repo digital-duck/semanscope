@@ -1,0 +1,34 @@
+word,domain,type,note
+А,russian_letters,letter,a - vowel
+Б,russian_letters,letter,be - consonant
+В,russian_letters,letter,ve - consonant
+Г,russian_letters,letter,ge - consonant
+Д,russian_letters,letter,de - consonant
+Е,russian_letters,letter,ye - vowel
+Ё,russian_letters,letter,yo - vowel
+Ж,russian_letters,letter,zhe - consonant
+З,russian_letters,letter,ze - consonant
+И,russian_letters,letter,i - vowel
+Й,russian_letters,letter,short i - consonant
+К,russian_letters,letter,ka - consonant
+Л,russian_letters,letter,el - consonant
+М,russian_letters,letter,em - consonant
+Н,russian_letters,letter,en - consonant
+О,russian_letters,letter,o - vowel
+П,russian_letters,letter,pe - consonant
+Р,russian_letters,letter,er - consonant
+С,russian_letters,letter,es - consonant
+Т,russian_letters,letter,te - consonant
+У,russian_letters,letter,u - vowel
+Ф,russian_letters,letter,ef - consonant
+Х,russian_letters,letter,kha - consonant
+Ц,russian_letters,letter,tse - consonant
+Ч,russian_letters,letter,che - consonant
+Ш,russian_letters,letter,sha - consonant
+Щ,russian_letters,letter,shcha - consonant
+Ъ,russian_letters,letter,hard sign - sign
+Ы,russian_letters,letter,yery - vowel
+Ь,russian_letters,letter,soft sign - sign
+Э,russian_letters,letter,e - vowel
+Ю,russian_letters,letter,yu - vowel
+Я,russian_letters,letter,ya - vowel

@@ -1,0 +1,33 @@
+word,domain,type,note
+ا,persian_letters,letter,alef - first letter
+ب,persian_letters,letter,be - second letter
+پ,persian_letters,letter,pe - Persian-specific letter
+ت,persian_letters,letter,te - fourth letter
+ث,persian_letters,letter,se - fifth letter
+ج,persian_letters,letter,jim - sixth letter
+چ,persian_letters,letter,che - Persian-specific letter
+ح,persian_letters,letter,he jimi - eighth letter
+خ,persian_letters,letter,khe - ninth letter
+د,persian_letters,letter,dal - tenth letter
+ذ,persian_letters,letter,zal - eleventh letter
+ر,persian_letters,letter,re - twelfth letter
+ز,persian_letters,letter,ze - thirteenth letter
+ژ,persian_letters,letter,zhe - Persian-specific letter
+س,persian_letters,letter,sin - fifteenth letter
+ش,persian_letters,letter,shin - sixteenth letter
+ص,persian_letters,letter,sad - seventeenth letter
+ض,persian_letters,letter,zad - eighteenth letter
+ط,persian_letters,letter,ta - nineteenth letter
+ظ,persian_letters,letter,za - twentieth letter
+ع,persian_letters,letter,eyn - twenty-first letter
+غ,persian_letters,letter,gheyn - twenty-second letter
+ف,persian_letters,letter,fe - twenty-third letter
+ق,persian_letters,letter,qaf - twenty-fourth letter
+ک,persian_letters,letter,kaf - Persian variant of Arabic kaf
+گ,persian_letters,letter,gaf - Persian-specific letter
+ل,persian_letters,letter,lam - twenty-seventh letter
+م,persian_letters,letter,mim - twenty-eighth letter
+ن,persian_letters,letter,nun - twenty-ninth letter
+و,persian_letters,letter,vav - thirtieth letter
+ه,persian_letters,letter,he - thirty-first letter
+ی,persian_letters,letter,ye - thirty-second letter

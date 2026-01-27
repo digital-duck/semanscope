@@ -1,0 +1,60 @@
+word,domain,type,note
+A,german_uppercase,letter,erster Buchstabe Großschreibung
+B,german_uppercase,letter,zweiter Buchstabe Großschreibung
+C,german_uppercase,letter,dritter Buchstabe Großschreibung
+D,german_uppercase,letter,vierter Buchstabe Großschreibung
+E,german_uppercase,letter,fünfter Buchstabe Großschreibung
+F,german_uppercase,letter,sechster Buchstabe Großschreibung
+G,german_uppercase,letter,siebter Buchstabe Großschreibung
+H,german_uppercase,letter,achter Buchstabe Großschreibung
+I,german_uppercase,letter,neunter Buchstabe Großschreibung
+J,german_uppercase,letter,zehnter Buchstabe Großschreibung
+K,german_uppercase,letter,elfter Buchstabe Großschreibung
+L,german_uppercase,letter,zwölfter Buchstabe Großschreibung
+M,german_uppercase,letter,dreizehnter Buchstabe Großschreibung
+N,german_uppercase,letter,vierzehnter Buchstabe Großschreibung
+O,german_uppercase,letter,fünfzehnter Buchstabe Großschreibung
+P,german_uppercase,letter,sechzehnter Buchstabe Großschreibung
+Q,german_uppercase,letter,siebzehnter Buchstabe Großschreibung
+R,german_uppercase,letter,achtzehnter Buchstabe Großschreibung
+S,german_uppercase,letter,neunzehnter Buchstabe Großschreibung
+T,german_uppercase,letter,zwanzigster Buchstabe Großschreibung
+U,german_uppercase,letter,einundzwanzigster Buchstabe Großschreibung
+V,german_uppercase,letter,zweiundzwanzigster Buchstabe Großschreibung
+W,german_uppercase,letter,dreiundzwanzigster Buchstabe Großschreibung
+X,german_uppercase,letter,vierundzwanzigster Buchstabe Großschreibung
+Y,german_uppercase,letter,fünfundzwanzigster Buchstabe Großschreibung
+Z,german_uppercase,letter,sechsundzwanzigster Buchstabe Großschreibung
+a,german_lowercase,letter,erster Buchstabe Kleinschreibung
+b,german_lowercase,letter,zweiter Buchstabe Kleinschreibung
+c,german_lowercase,letter,dritter Buchstabe Kleinschreibung
+d,german_lowercase,letter,vierter Buchstabe Kleinschreibung
+e,german_lowercase,letter,fünfter Buchstabe Kleinschreibung
+f,german_lowercase,letter,sechster Buchstabe Kleinschreibung
+g,german_lowercase,letter,siebter Buchstabe Kleinschreibung
+h,german_lowercase,letter,achter Buchstabe Kleinschreibung
+i,german_lowercase,letter,neunter Buchstabe Kleinschreibung
+j,german_lowercase,letter,zehnter Buchstabe Kleinschreibung
+k,german_lowercase,letter,elfter Buchstabe Kleinschreibung
+l,german_lowercase,letter,zwölfter Buchstabe Kleinschreibung
+m,german_lowercase,letter,dreizehnter Buchstabe Kleinschreibung
+n,german_lowercase,letter,vierzehnter Buchstabe Kleinschreibung
+o,german_lowercase,letter,fünfzehnter Buchstabe Kleinschreibung
+p,german_lowercase,letter,sechzehnter Buchstabe Kleinschreibung
+q,german_lowercase,letter,siebzehnter Buchstabe Kleinschreibung
+r,german_lowercase,letter,achtzehnter Buchstabe Kleinschreibung
+s,german_lowercase,letter,neunzehnter Buchstabe Kleinschreibung
+t,german_lowercase,letter,zwanzigster Buchstabe Kleinschreibung
+u,german_lowercase,letter,einundzwanzigster Buchstabe Kleinschreibung
+v,german_lowercase,letter,zweiundzwanzigster Buchstabe Kleinschreibung
+w,german_lowercase,letter,dreiundzwanzigster Buchstabe Kleinschreibung
+x,german_lowercase,letter,vierundzwanzigster Buchstabe Kleinschreibung
+y,german_lowercase,letter,fünfundzwanzigster Buchstabe Kleinschreibung
+z,german_lowercase,letter,sechsundzwanzigster Buchstabe Kleinschreibung
+Ä,german_umlaut_uppercase,letter,A-Umlaut Großschreibung
+Ö,german_umlaut_uppercase,letter,O-Umlaut Großschreibung
+Ü,german_umlaut_uppercase,letter,U-Umlaut Großschreibung
+ä,german_umlaut_lowercase,letter,a-Umlaut Kleinschreibung
+ö,german_umlaut_lowercase,letter,o-Umlaut Kleinschreibung
+ü,german_umlaut_lowercase,letter,u-Umlaut Kleinschreibung
+ß,german_special,letter,scharfes s (Eszett)

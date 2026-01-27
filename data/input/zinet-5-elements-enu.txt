@@ -1,0 +1,10 @@
+sun
+moon
+heaven
+earth
+human
+gold
+wood
+water
+fire
+earth-soil

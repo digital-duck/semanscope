@@ -1,0 +1,42 @@
+word,domain,type,note
+अ,hindi_letters,letter,a - vowel
+आ,hindi_letters,letter,aa - long vowel
+इ,hindi_letters,letter,i - vowel
+ई,hindi_letters,letter,ii - long vowel
+उ,hindi_letters,letter,u - vowel
+ऊ,hindi_letters,letter,uu - long vowel
+ए,hindi_letters,letter,e - vowel
+ऐ,hindi_letters,letter,ai - vowel
+ओ,hindi_letters,letter,o - vowel
+औ,hindi_letters,letter,au - vowel
+क,hindi_letters,letter,ka - consonant
+ख,hindi_letters,letter,kha - consonant
+ग,hindi_letters,letter,ga - consonant
+घ,hindi_letters,letter,gha - consonant
+च,hindi_letters,letter,cha - consonant
+छ,hindi_letters,letter,chha - consonant
+ज,hindi_letters,letter,ja - consonant
+झ,hindi_letters,letter,jha - consonant
+ट,hindi_letters,letter,ta - consonant
+ठ,hindi_letters,letter,tha - consonant
+ड,hindi_letters,letter,da - consonant
+ढ,hindi_letters,letter,dha - consonant
+ण,hindi_letters,letter,na - consonant
+त,hindi_letters,letter,ta - consonant
+थ,hindi_letters,letter,tha - consonant
+द,hindi_letters,letter,da - consonant
+ध,hindi_letters,letter,dha - consonant
+न,hindi_letters,letter,na - consonant
+प,hindi_letters,letter,pa - consonant
+फ,hindi_letters,letter,pha - consonant
+ब,hindi_letters,letter,ba - consonant
+भ,hindi_letters,letter,bha - consonant
+म,hindi_letters,letter,ma - consonant
+य,hindi_letters,letter,ya - consonant
+र,hindi_letters,letter,ra - consonant
+ल,hindi_letters,letter,la - consonant
+व,hindi_letters,letter,va - consonant
+श,hindi_letters,letter,sha - consonant
+ष,hindi_letters,letter,sha - consonant
+स,hindi_letters,letter,sa - consonant
+ह,hindi_letters,letter,ha - consonant

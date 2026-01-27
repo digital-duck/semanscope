@@ -1,0 +1,85 @@
+word,domain,type,note
+A,french_uppercase,letter,première lettre majuscule
+B,french_uppercase,letter,deuxième lettre majuscule
+C,french_uppercase,letter,troisième lettre majuscule
+D,french_uppercase,letter,quatrième lettre majuscule
+E,french_uppercase,letter,cinquième lettre majuscule
+F,french_uppercase,letter,sixième lettre majuscule
+G,french_uppercase,letter,septième lettre majuscule
+H,french_uppercase,letter,huitième lettre majuscule
+I,french_uppercase,letter,neuvième lettre majuscule
+J,french_uppercase,letter,dixième lettre majuscule
+K,french_uppercase,letter,onzième lettre majuscule
+L,french_uppercase,letter,douzième lettre majuscule
+M,french_uppercase,letter,treizième lettre majuscule
+N,french_uppercase,letter,quatorzième lettre majuscule
+O,french_uppercase,letter,quinzième lettre majuscule
+P,french_uppercase,letter,seizième lettre majuscule
+Q,french_uppercase,letter,dix-septième lettre majuscule
+R,french_uppercase,letter,dix-huitième lettre majuscule
+S,french_uppercase,letter,dix-neuvième lettre majuscule
+T,french_uppercase,letter,vingtième lettre majuscule
+U,french_uppercase,letter,vingt-et-unième lettre majuscule
+V,french_uppercase,letter,vingt-deuxième lettre majuscule
+W,french_uppercase,letter,vingt-troisième lettre majuscule
+X,french_uppercase,letter,vingt-quatrième lettre majuscule
+Y,french_uppercase,letter,vingt-cinquième lettre majuscule
+Z,french_uppercase,letter,vingt-sixième lettre majuscule
+a,french_lowercase,letter,première lettre minuscule
+b,french_lowercase,letter,deuxième lettre minuscule
+c,french_lowercase,letter,troisième lettre minuscule
+d,french_lowercase,letter,quatrième lettre minuscule
+e,french_lowercase,letter,cinquième lettre minuscule
+f,french_lowercase,letter,sixième lettre minuscule
+g,french_lowercase,letter,septième lettre minuscule
+h,french_lowercase,letter,huitième lettre minuscule
+i,french_lowercase,letter,neuvième lettre minuscule
+j,french_lowercase,letter,dixième lettre minuscule
+k,french_lowercase,letter,onzième lettre minuscule
+l,french_lowercase,letter,douzième lettre minuscule
+m,french_lowercase,letter,treizième lettre minuscule
+n,french_lowercase,letter,quatorzième lettre minuscule
+o,french_lowercase,letter,quinzième lettre minuscule
+p,french_lowercase,letter,seizième lettre minuscule
+q,french_lowercase,letter,dix-septième lettre minuscule
+r,french_lowercase,letter,dix-huitième lettre minuscule
+s,french_lowercase,letter,dix-neuvième lettre minuscule
+t,french_lowercase,letter,vingtième lettre minuscule
+u,french_lowercase,letter,vingt-et-unième lettre minuscule
+v,french_lowercase,letter,vingt-deuxième lettre minuscule
+w,french_lowercase,letter,vingt-troisième lettre minuscule
+x,french_lowercase,letter,vingt-quatrième lettre minuscule
+y,french_lowercase,letter,vingt-cinquième lettre minuscule
+z,french_lowercase,letter,vingt-sixième lettre minuscule
+À,french_accented_uppercase,letter,A accent grave majuscule
+Á,french_accented_uppercase,letter,A accent aigu majuscule
+Â,french_accented_uppercase,letter,A accent circonflexe majuscule
+Ä,french_accented_uppercase,letter,A tréma majuscule
+È,french_accented_uppercase,letter,E accent grave majuscule
+É,french_accented_uppercase,letter,E accent aigu majuscule
+Ê,french_accented_uppercase,letter,E accent circonflexe majuscule
+Ë,french_accented_uppercase,letter,E tréma majuscule
+Î,french_accented_uppercase,letter,I accent circonflexe majuscule
+Ï,french_accented_uppercase,letter,I tréma majuscule
+Ô,french_accented_uppercase,letter,O accent circonflexe majuscule
+Ù,french_accented_uppercase,letter,U accent grave majuscule
+Û,french_accented_uppercase,letter,U accent circonflexe majuscule
+Ü,french_accented_uppercase,letter,U tréma majuscule
+Ÿ,french_accented_uppercase,letter,Y tréma majuscule
+Ç,french_accented_uppercase,letter,C cédille majuscule
+à,french_accented_lowercase,letter,a accent grave minuscule
+á,french_accented_lowercase,letter,a accent aigu minuscule
+â,french_accented_lowercase,letter,a accent circonflexe minuscule
+ä,french_accented_lowercase,letter,a tréma minuscule
+è,french_accented_lowercase,letter,e accent grave minuscule
+é,french_accented_lowercase,letter,e accent aigu minuscule
+ê,french_accented_lowercase,letter,e accent circonflexe minuscule
+ë,french_accented_lowercase,letter,e tréma minuscule
+î,french_accented_lowercase,letter,i accent circonflexe minuscule
+ï,french_accented_lowercase,letter,i tréma minuscule
+ô,french_accented_lowercase,letter,o accent circonflexe minuscule
+ù,french_accented_lowercase,letter,u accent grave minuscule
+û,french_accented_lowercase,letter,u accent circonflexe minuscule
+ü,french_accented_lowercase,letter,u tréma minuscule
+ÿ,french_accented_lowercase,letter,y tréma minuscule
+ç,french_accented_lowercase,letter,c cédille minuscule

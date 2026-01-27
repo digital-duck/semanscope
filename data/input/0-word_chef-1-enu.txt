@@ -1,0 +1,39 @@
+word,domain,validity,semantic_coherence
+I,word,valid,high
+eat,word,valid,high
+2,word,valid,high
+apples,word,valid,high
+daily,word,valid,high
+at,word,valid,high
+home,word,valid,high
+because,word,valid,high
+fruits,word,valid,high
+are,word,valid,high
+good,word,valid,high
+for,word,valid,high
+health,word,valid,high
+good for health,phrase,valid,high
+because fruits are good for health,phrase,valid,high
+at home,phrase,valid,high
+are good,phrase,valid,high
+2 apples,phrase,valid,high
+daily good 2 are,sentence,questionable,medium
+are home for,sentence,valid,medium
+good for health home eat,sentence,questionable,medium
+i home daily good are eat 2,sentence,valid,medium
+for are 2 eat daily,sentence,valid,medium
+for daily because 2,sentence,valid,high
+because fruits are good for health are good because,sentence,valid,medium
+daily because for,sentence,valid,high
+for i because home good,sentence,valid,high
+good for health fruits are good,sentence,invalid,medium
+i 2 at good eat are,sentence,invalid,medium
+eat apples good for health,sentence,invalid,medium
+because 2 for are at,sentence,valid,high
+apples are 2 at daily,sentence,valid,medium
+eat good for are daily,sentence,questionable,medium
+home good fruits,sentence,questionable,medium
+apples because good,sentence,valid,high
+eat at home home,sentence,invalid,medium
+at health for because 2,sentence,valid,high
+eat apples at for daily 2,sentence,questionable,medium

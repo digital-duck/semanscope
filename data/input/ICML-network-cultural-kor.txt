@@ -1,0 +1,83 @@
+word,domain,type,network_root,cultural_context
+# Morphological networks for Korean - showing Hangul systematic construction + cultural independence
+# ICML-2026: Dimensionality of Meaning framework
+
+# 학 (학습/學)-network (learning - Korean independence from Chinese)
+학습,actions_verbs,study,학,korean_education
+학교,places,institution,학,korean_education
+학생,people,student,학,korean_education
+대학,places,university,학,korean_education
+중학교,places,middle_school,학,korean_education
+초등학교,places,elementary_school,학,korean_education
+과학,science,knowledge,학,korean_education
+철학,philosophy,wisdom,학,korean_education
+
+# 사람-network (person - pure Korean vs Chinese 人)
+사람,people,human_being,사람,korean_independence
+개인,people,individual,사람,korean_adaptation
+주인,people,owner,사람,korean_adaptation
+손님,people,guest,사람,korean_adaptation
+어른,people,adult,사람,korean_social_system
+아이,people,child,사람,korean_social_system
+한국인,people,nationality,사람,korean_identity
+외국인,people,foreigner,사람,korean_identity
+
+# 마음-network (heart/mind - Korean emotional concepts)
+마음,emotions,heart_mind,마음,korean_emotion
+중심,spatial_directional,center,마음,korean_concept
+관심,emotions,interest,마음,korean_emotion
+걱정,emotions,worry,마음,korean_emotion
+기쁨,emotions,joy,마음,korean_emotion
+슬픔,emotions,sadness,마음,korean_emotion
+사랑,emotions,love,마음,korean_emotion
+평화,emotions,peace,마음,korean_emotion
+
+# 물-network (water - Korean natural concepts)
+강물,nature_elements,river_water,물,korean_nature
+바닷물,nature_elements,sea_water,물,korean_nature
+빗물,nature_elements,rain_water,물,korean_nature
+눈물,body_parts,tears,물,korean_body
+약물,medicine,medicine,물,korean_practical
+음료수,food,beverage,물,korean_food
+과일,food,fruit,물,korean_food
+만두,food,dumpling,물,korean_food
+
+# 하늘-network (sky/heaven - Korean cosmic concepts)
+하늘,nature_elements,sky,하늘,korean_nature
+날씨,nature_elements,weather,하늘,korean_nature
+어제,time_temporal,yesterday,하늘,korean_time
+오늘,time_temporal,today,하늘,korean_time
+내일,time_temporal,tomorrow,하늘,korean_time
+봄,time_temporal,spring,하늘,korean_seasonal
+여름,time_temporal,summer,하늘,korean_seasonal
+겨울,time_temporal,winter,하늘,korean_seasonal
+
+# 집-network (house/home - Korean domestic concepts)
+집,places,house,집,korean_domestic
+가족,people,family,집,korean_domestic
+가정,people,household,집,korean_domestic
+집안,places,inside_house,집,korean_domestic
+출집,actions_verbs,leaving_home,집,korean_domestic
+귀가,actions_verbs,returning_home,집,korean_domestic
+집주인,people,house_owner,집,korean_domestic
+세입자,people,tenant,집,korean_domestic
+
+# 일-network (work - Korean work culture)
+일,actions_verbs,work,일,korean_work_culture
+직업,actions_verbs,occupation,일,korean_work_culture
+회사,places,company,일,korean_work_culture
+사무실,places,office,일,korean_work_culture
+근무,actions_verbs,working,일,korean_work_culture
+휴식,actions_verbs,rest,일,korean_work_culture
+성공,abstract_qualities,success,일,korean_work_culture
+실패,abstract_qualities,failure,일,korean_work_culture
+
+# 한글 systematic construction (demonstrating featural principles)
+가다,actions_verbs,go,ㄱ,hangul_systematic
+갈색,colors,brown,ㄱ,hangul_systematic
+강,nature_elements,river,ㄱ,hangul_systematic
+깨끗하다,abstract_qualities,clean,ㄱ,hangul_systematic
+나무,nature_elements,tree,ㄴ,hangul_systematic
+날다,actions_verbs,fly,ㄴ,hangul_systematic
+다르다,abstract_qualities,different,ㄷ,hangul_systematic
+달,nature_elements,moon,ㄷ,hangul_systematic

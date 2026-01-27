@@ -1,0 +1,2441 @@
+id,word,domain,type,tier,language,nsm_prime_ref,nsm_prime_group,position
+1747,a long time,temporal,other,1,ENU,,TIME,0
+1776,a short time,temporal,other,1,ENU,,TIME,0
+1924,above,spatial,other,1,ENU,,SPACE,0
+1716,after,temporal,other,1,ENU,,TIME,0
+559,all,quantity,determiner,1,ENU,,QUANTIFIERS,0
+707,bad,evaluation,adjective,1,ENU,,EVALUATORS,0
+1516,be mine,existence,other,1,ENU,,LOCATION_EXISTENCE,0
+1482,be something,existence,verb,1,ENU,,LOCATION_EXISTENCE,0
+1420,be somewhere,existence,other,1,ENU,,LOCATION_EXISTENCE,0
+2241,because,logic,conjunction,1,ENU,,LOGICAL_CONCEPTS,0
+1684,before,temporal,other,1,ENU,,TIME,0
+1956,below,spatial,other,1,ENU,,SPACE,0
+752,big,property,adjective,1,ENU,,DESCRIPTORS,0
+238,body,entity,noun,1,ENU,,SUBSTANTIVES,0
+2207,can,logic,conjunction,1,ENU,,LOGICAL_CONCEPTS,0
+1585,die,life,verb,1,ENU,,LIFE_DEATH,0
+1295,do,action,verb,1,ENU,,ACTIONS_EVENTS_MOVEMENT,0
+1015,dont want,cognition,verb,1,ENU,,MENTAL_PREDICATES,0
+1987,far,spatial,other,1,ENU,,SPACE,0
+1047,feel,cognition,verb,1,ENU,,MENTAL_PREDICATES,0
+1805,for some time,temporal,other,1,ENU,,TIME,0
+658,good,evaluation,adjective,1,ENU,,EVALUATORS,0
+1339,happen,action,verb,1,ENU,,ACTIONS_EVENTS_MOVEMENT,0
+1135,hear,cognition,verb,1,ENU,,MENTAL_PREDICATES,0
+1896,here,spatial,other,1,ENU,,SPACE,0
+1,i,entity,noun,1,ENU,,SUBSTANTIVES,0
+2278,if,logic,conjunction,1,ENU,,LOGICAL_CONCEPTS,0
+2080,inside,spatial,other,1,ENU,,SPACE,0
+279,kind,relation,noun,1,ENU,,RELATIONAL_SUBSTANTIVES,0
+905,know,cognition,verb,1,ENU,,MENTAL_PREDICATES,0
+2377,like,comparison,other,1,ENU,,SIMILARITY,0
+626,little few,quantity,determiner,1,ENU,,QUANTIFIERS,0
+1547,live,life,adjective,1,ENU,,LIFE_DEATH,0
+2178,maybe,logic,conjunction,1,ENU,,LOGICAL_CONCEPTS,0
+1832,moment,temporal,other,1,ENU,,TIME,0
+2343,more,degree,adverb,1,ENU,,INTENSIFIER_AUGMENTOR,0
+1378,move,action,verb,1,ENU,,ACTIONS_EVENTS_MOVEMENT,0
+593,much many,quantity,determiner,1,ENU,,QUANTIFIERS,0
+2017,near,spatial,other,1,ENU,,SPACE,0
+2143,not,logic,conjunction,1,ENU,,LOGICAL_CONCEPTS,0
+1652,now,temporal,other,1,ENU,,TIME,0
+461,one,quantity,determiner,1,ENU,,QUANTIFIERS,0
+428,other,reference,determiner,1,ENU,,DETERMINERS,0
+321,part,relation,noun,1,ENU,,RELATIONAL_SUBSTANTIVES,0
+189,people,entity,noun,1,ENU,,SUBSTANTIVES,0
+1177,say,communication,verb,1,ENU,,SPEECH,0
+1089,see,cognition,verb,1,ENU,,MENTAL_PREDICATES,0
+2048,side,spatial,other,1,ENU,,SPACE,0
+797,small,property,adjective,1,ENU,,DESCRIPTORS,0
+529,some,quantity,determiner,1,ENU,,QUANTIFIERS,0
+87,someone,entity,noun,1,ENU,,SUBSTANTIVES,0
+139,something,entity,verb,1,ENU,,SUBSTANTIVES,0
+395,the same,reference,determiner,1,ENU,,DETERMINERS,0
+1451,there is,existence,other,1,ENU,,LOCATION_EXISTENCE,0
+829,think,cognition,verb,1,ENU,,MENTAL_PREDICATES,0
+362,this,reference,determiner,1,ENU,,DETERMINERS,0
+2112,touch,spatial,other,1,ENU,,SPACE,0
+1259,true,communication,verb,1,ENU,,SPEECH,0
+495,two,quantity,determiner,1,ENU,,QUANTIFIERS,0
+2309,very,degree,adverb,1,ENU,,INTENSIFIER_AUGMENTOR,0
+963,want,cognition,verb,1,ENU,,MENTAL_PREDICATES,0
+1620,when,temporal,other,1,ENU,,TIME,0
+1861,where,spatial,other,1,ENU,,SPACE,0
+1225,words,communication,verb,1,ENU,,SPEECH,0
+46,you,entity,noun,1,ENU,,SUBSTANTIVES,0
+1768,a long time,temporal,other,1,KOR,,TIME,0
+1797,a short time,temporal,other,1,KOR,,TIME,0
+1947,above,spatial,other,1,KOR,,SPACE,0
+1738,after,temporal,other,1,KOR,,TIME,0
+583,all,quantity,determiner,1,KOR,,QUANTIFIERS,0
+740,bad,evaluation,adjective,1,KOR,,EVALUATORS,0
+1538,be mine,existence,other,1,KOR,,LOCATION_EXISTENCE,0
+1506,be something,existence,verb,1,KOR,,LOCATION_EXISTENCE,0
+1443,be somewhere,existence,other,1,KOR,,LOCATION_EXISTENCE,0
+2267,because,logic,conjunction,1,KOR,,LOGICAL_CONCEPTS,0
+1707,before,temporal,other,1,KOR,,TIME,0
+1978,below,spatial,other,1,KOR,,SPACE,0
+785,big,property,adjective,1,KOR,,DESCRIPTORS,0
+268,body,entity,noun,1,KOR,,SUBSTANTIVES,0
+2232,can,logic,conjunction,1,KOR,,LOGICAL_CONCEPTS,0
+1610,die,life,verb,1,KOR,,LIFE_DEATH,0
+1327,do,action,verb,1,KOR,,ACTIONS_EVENTS_MOVEMENT,0
+1038,dont want,cognition,verb,1,KOR,,MENTAL_PREDICATES,0
+2008,far,spatial,other,1,KOR,,SPACE,0
+1077,feel,cognition,verb,1,KOR,,MENTAL_PREDICATES,0
+1824,for some time,temporal,other,1,KOR,,TIME,0
+694,good,evaluation,adjective,1,KOR,,EVALUATORS,0
+1367,happen,action,verb,1,KOR,,ACTIONS_EVENTS_MOVEMENT,0
+1165,hear,cognition,verb,1,KOR,,MENTAL_PREDICATES,0
+1916,here,spatial,other,1,KOR,,SPACE,0
+31,i,entity,noun,1,KOR,,SUBSTANTIVES,0
+2300,if,logic,conjunction,1,KOR,,LOGICAL_CONCEPTS,0
+2102,inside,spatial,other,1,KOR,,SPACE,0
+309,kind,relation,noun,1,KOR,,RELATIONAL_SUBSTANTIVES,0
+947,know,cognition,verb,1,KOR,,MENTAL_PREDICATES,0
+2402,like,comparison,other,1,KOR,,SIMILARITY,0
+649,little few,quantity,determiner,1,KOR,,QUANTIFIERS,0
+1574,live,life,adjective,1,KOR,,LIFE_DEATH,0
+2199,maybe,logic,conjunction,1,KOR,,LOGICAL_CONCEPTS,0
+1853,moment,temporal,other,1,KOR,,TIME,0
+2367,more,degree,adverb,1,KOR,,INTENSIFIER_AUGMENTOR,0
+1408,move,action,verb,1,KOR,,ACTIONS_EVENTS_MOVEMENT,0
+617,much many,quantity,determiner,1,KOR,,QUANTIFIERS,0
+2039,near,spatial,other,1,KOR,,SPACE,0
+2168,not,logic,conjunction,1,KOR,,LOGICAL_CONCEPTS,0
+1675,now,temporal,other,1,KOR,,TIME,0
+485,one,quantity,determiner,1,KOR,,QUANTIFIERS,0
+452,other,reference,determiner,1,KOR,,DETERMINERS,0
+351,part,relation,noun,1,KOR,,RELATIONAL_SUBSTANTIVES,0
+225,people,entity,noun,1,KOR,,SUBSTANTIVES,0
+1213,say,communication,verb,1,KOR,,SPEECH,0
+1123,see,cognition,verb,1,KOR,,MENTAL_PREDICATES,0
+2070,side,spatial,other,1,KOR,,SPACE,0
+820,small,property,adjective,1,KOR,,DESCRIPTORS,0
+550,some,quantity,determiner,1,KOR,,QUANTIFIERS,0
+123,someone,entity,noun,1,KOR,,SUBSTANTIVES,0
+173,something,entity,verb,1,KOR,,SUBSTANTIVES,0
+419,the same,reference,determiner,1,KOR,,DETERMINERS,0
+1473,there is,existence,other,1,KOR,,LOCATION_EXISTENCE,0
+881,think,cognition,verb,1,KOR,,MENTAL_PREDICATES,0
+386,this,reference,determiner,1,KOR,,DETERMINERS,0
+2134,touch,spatial,other,1,KOR,,SPACE,0
+1285,true,communication,verb,1,KOR,,SPEECH,0
+518,two,quantity,determiner,1,KOR,,QUANTIFIERS,0
+2333,very,degree,adverb,1,KOR,,INTENSIFIER_AUGMENTOR,0
+1000,want,cognition,verb,1,KOR,,MENTAL_PREDICATES,0
+1642,when,temporal,other,1,KOR,,TIME,0
+1886,where,spatial,other,1,KOR,,SPACE,0
+1249,words,communication,verb,1,KOR,,SPEECH,0
+73,you,entity,noun,1,KOR,,SUBSTANTIVES,0
+1758,a long time,temporal,other,1,CHN,,TIME,0
+1787,a short time,temporal,other,1,CHN,,TIME,0
+1936,above,spatial,other,1,CHN,,SPACE,0
+1727,after,temporal,other,1,CHN,,TIME,0
+572,all,quantity,determiner,1,CHN,,QUANTIFIERS,0
+725,bad,evaluation,adjective,1,CHN,,EVALUATORS,0
+1528,be mine,existence,other,1,CHN,,LOCATION_EXISTENCE,0
+1495,be something,existence,verb,1,CHN,,LOCATION_EXISTENCE,0
+1432,be somewhere,existence,other,1,CHN,,LOCATION_EXISTENCE,0
+2255,because,logic,conjunction,1,CHN,,LOGICAL_CONCEPTS,0
+1696,before,temporal,other,1,CHN,,TIME,0
+1967,below,spatial,other,1,CHN,,SPACE,0
+770,big,property,adjective,1,CHN,,DESCRIPTORS,0
+255,body,entity,noun,1,CHN,,SUBSTANTIVES,0
+2221,can,logic,conjunction,1,CHN,,LOGICAL_CONCEPTS,0
+1599,die,life,verb,1,CHN,,LIFE_DEATH,0
+1313,do,action,verb,1,CHN,,ACTIONS_EVENTS_MOVEMENT,0
+1028,dont want,cognition,verb,1,CHN,,MENTAL_PREDICATES,0
+1998,far,spatial,other,1,CHN,,SPACE,0
+1064,feel,cognition,verb,1,CHN,,MENTAL_PREDICATES,0
+1815,for some time,temporal,other,1,CHN,,TIME,0
+678,good,evaluation,adjective,1,CHN,,EVALUATORS,0
+1355,happen,action,verb,1,CHN,,ACTIONS_EVENTS_MOVEMENT,0
+1152,hear,cognition,verb,1,CHN,,MENTAL_PREDICATES,0
+1906,here,spatial,other,1,CHN,,SPACE,0
+16,i,entity,noun,1,CHN,,SUBSTANTIVES,0
+2290,if,logic,conjunction,1,CHN,,LOGICAL_CONCEPTS,0
+2091,inside,spatial,other,1,CHN,,SPACE,0
+296,kind,relation,noun,1,CHN,,RELATIONAL_SUBSTANTIVES,0
+928,know,cognition,verb,1,CHN,,MENTAL_PREDICATES,0
+2391,like,comparison,other,1,CHN,,SIMILARITY,0
+638,little few,quantity,determiner,1,CHN,,QUANTIFIERS,0
+1562,live,life,adjective,1,CHN,,LIFE_DEATH,0
+2189,maybe,logic,conjunction,1,CHN,,LOGICAL_CONCEPTS,0
+1843,moment,temporal,other,1,CHN,,TIME,0
+2356,more,degree,adverb,1,CHN,,INTENSIFIER_AUGMENTOR,0
+1395,move,action,verb,1,CHN,,ACTIONS_EVENTS_MOVEMENT,0
+606,much many,quantity,determiner,1,CHN,,QUANTIFIERS,0
+2028,near,spatial,other,1,CHN,,SPACE,0
+2157,not,logic,conjunction,1,CHN,,LOGICAL_CONCEPTS,0
+1664,now,temporal,other,1,CHN,,TIME,0
+474,one,quantity,determiner,1,CHN,,QUANTIFIERS,0
+441,other,reference,determiner,1,CHN,,DETERMINERS,0
+338,part,relation,noun,1,CHN,,RELATIONAL_SUBSTANTIVES,0
+209,people,entity,noun,1,CHN,,SUBSTANTIVES,0
+1198,say,communication,verb,1,CHN,,SPEECH,0
+1109,see,cognition,verb,1,CHN,,MENTAL_PREDICATES,0
+2059,side,spatial,other,1,CHN,,SPACE,0
+809,small,property,adjective,1,CHN,,DESCRIPTORS,0
+540,some,quantity,determiner,1,CHN,,QUANTIFIERS,0
+106,someone,entity,noun,1,CHN,,SUBSTANTIVES,0
+157,something,entity,verb,1,CHN,,SUBSTANTIVES,0
+408,the same,reference,determiner,1,CHN,,DETERMINERS,0
+1462,there is,existence,other,1,CHN,,LOCATION_EXISTENCE,0
+856,think,cognition,verb,1,CHN,,MENTAL_PREDICATES,0
+375,this,reference,determiner,1,CHN,,DETERMINERS,0
+2123,touch,spatial,other,1,CHN,,SPACE,0
+1274,true,communication,verb,1,CHN,,SPEECH,0
+507,two,quantity,determiner,1,CHN,,QUANTIFIERS,0
+2322,very,degree,adverb,1,CHN,,INTENSIFIER_AUGMENTOR,0
+984,want,cognition,verb,1,CHN,,MENTAL_PREDICATES,0
+1632,when,temporal,other,1,CHN,,TIME,0
+1875,where,spatial,other,1,CHN,,SPACE,0
+1238,words,communication,verb,1,CHN,,SPEECH,0
+59,you,entity,noun,1,CHN,,SUBSTANTIVES,0
+2209,ability,logic,conjunction,2,ENU,can,LOGICAL_CONCEPTS,2
+2208,able,logic,adjective,2,ENU,can,LOGICAL_CONCEPTS,1
+2151,absence,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,8
+597,abundant,quantity,determiner,2,ENU,much many,QUANTIFIERS,4
+1299,accomplish,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,4
+1268,accurate,communication,verb,2,ENU,true,SPEECH,9
+1139,acoustic,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,4
+1296,act,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,1
+1305,action,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,10
+1263,actual,communication,verb,2,ENU,true,SPEECH,4
+2350,add,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,7
+433,additional,reference,determiner,2,ENU,other,DETERMINERS,5
+2344,additional,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,1
+51,addressee,entity,noun,2,ENU,you,SUBSTANTIVES,5
+2020,adjacent,spatial,other,2,ENU,near,SPACE,3
+1385,advance,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,7
+668,advantageous,evaluation,adjective,2,ENU,good,EVALUATORS,10
+714,adverse,evaluation,adjective,2,ENU,bad,EVALUATORS,7
+1995,afar,spatial,other,2,ENU,far,SPACE,8
+1722,afterward,temporal,other,2,ENU,after,TIME,6
+1753,ages,temporal,other,2,ENU,a long time,TIME,6
+1692,ahead,temporal,other,2,ENU,before,TIME,8
+400,alike,reference,determiner,2,ENU,the same,DETERMINERS,5
+2383,alike,comparison,other,2,ENU,like,SIMILARITY,6
+1548,alive,life,adjective,2,ENU,live,LIFE_DEATH,1
+1933,aloft,spatial,other,2,ENU,above,SPACE,9
+466,alone,quantity,determiner,2,ENU,one,QUANTIFIERS,5
+2053,alongside,spatial,other,2,ENU,side,SPACE,5
+432,alternative,reference,adjective,2,ENU,other,DETERMINERS,4
+1484,am,existence,other,2,ENU,be something,LOCATION_EXISTENCE,2
+601,ample,quantity,determiner,2,ENU,much many,QUANTIFIERS,8
+2382,analogous,comparison,adjective,2,ENU,like,SIMILARITY,5
+242,anatomy,entity,noun,2,ENU,body,SUBSTANTIVES,4
+1555,animate,life,verb,2,ENU,live,LIFE_DEATH,8
+430,another,reference,determiner,2,ENU,other,DETERMINERS,2
+1694,antecedent,temporal,other,2,ENU,before,TIME,10
+1691,anterior,temporal,other,2,ENU,before,TIME,7
+92,anyone,entity,noun,2,ENU,someone,SUBSTANTIVES,5
+146,anything,entity,verb,2,ENU,something,SUBSTANTIVES,7
+972,appetite,cognition,verb,2,ENU,want,MENTAL_PREDICATES,9
+1485,are,existence,other,2,ENU,be something,LOCATION_EXISTENCE,3
+1868,area,spatial,other,2,ENU,where,SPACE,7
+1344,arise,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,5
+1187,articulate,communication,verb,2,ENU,say,SPEECH,10
+2057,aspect,spatial,other,2,ENU,side,SPACE,9
+970,aspire,cognition,verb,2,ENU,want,MENTAL_PREDICATES,7
+837,assume,cognition,verb,2,ENU,think,MENTAL_PREDICATES,8
+2282,assuming,logic,verb,2,ENU,if,LOGICAL_CONCEPTS,4
+1138,auditory,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,3
+2352,augment,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,9
+1266,authentic,communication,verb,2,ENU,true,SPEECH,7
+1454,available,existence,adjective,2,ENU,there is,LOCATION_EXISTENCE,3
+1018,averse,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,3
+1025,avoid,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,10
+907,aware,cognition,verb,2,ENU,know,MENTAL_PREDICATES,2
+1057,awareness,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,10
+1990,away,spatial,other,2,ENU,far,SPACE,3
+1814,awhile,temporal,other,2,ENU,for some time,TIME,9
+2247,basis,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,6
+1098,behold,cognition,verb,2,ENU,see,MENTAL_PREDICATES,9
+97,being,entity,verb,2,ENU,someone,SUBSTANTIVES,10
+1459,being,existence,verb,2,ENU,there is,LOCATION_EXISTENCE,8
+1486,being,existence,verb,2,ENU,be something,LOCATION_EXISTENCE,4
+1552,being,life,verb,2,ENU,live,LIFE_DEATH,5
+831,believe,cognition,verb,2,ENU,think,MENTAL_PREDICATES,2
+1520,belong,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,4
+1526,belonging,existence,verb,2,ENU,be mine,LOCATION_EXISTENCE,10
+1958,beneath,spatial,other,2,ENU,below,SPACE,2
+660,beneficial,evaluation,adjective,2,ENU,good,EVALUATORS,2
+2052,beside,spatial,other,2,ENU,side,SPACE,4
+503,binary,quantity,determiner,2,ENU,two,QUANTIFIERS,8
+1557,biological,life,verb,2,ENU,live,LIFE_DEATH,10
+1840,blink,temporal,other,2,ENU,moment,TIME,8
+2054,border,spatial,other,2,ENU,side,SPACE,6
+501,both,quantity,determiner,2,ENU,two,QUANTIFIERS,6
+1964,bottom,spatial,other,2,ENU,below,SPACE,8
+287,breed,relation,verb,2,ENU,kind,RELATIONAL_SUBSTANTIVES,8
+1777,brief,temporal,other,2,ENU,a short time,TIME,1
+2120,brush,spatial,other,2,ENU,touch,SPACE,8
+2210,capable,logic,adjective,2,ENU,can,LOGICAL_CONCEPTS,3
+2211,capacity,logic,conjunction,2,ENU,can,LOGICAL_CONCEPTS,4
+1300,carry out,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,5
+2287,case,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,9
+1143,catch,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,8
+282,category,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,3
+2243,cause,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,2
+532,certain,quantity,determiner,2,ENU,some,QUANTIFIERS,3
+536,certain,quantity,determiner,2,ENU,some,QUANTIFIERS,7
+2185,chance,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,7
+289,character,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,10
+2288,circumstance,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,10
+198,citizens,entity,noun,2,ENU,people,SUBSTANTIVES,9
+283,class,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,4
+369,close,reference,determiner,2,ENU,this,DETERMINERS,7
+2018,close,spatial,other,2,ENU,near,SPACE,1
+2025,closeness,spatial,other,2,ENU,near,SPACE,8
+913,cognizant,cognition,verb,2,ENU,know,MENTAL_PREDICATES,8
+1343,come about,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,4
+1186,communicate,communication,verb,2,ENU,say,SPEECH,9
+196,community,entity,noun,2,ENU,people,SUBSTANTIVES,7
+803,compact,property,adjective,2,ENU,small,DESCRIPTORS,6
+2381,comparable,comparison,adjective,2,ENU,like,SIMILARITY,4
+2215,competent,logic,conjunction,2,ENU,can,LOGICAL_CONCEPTS,8
+564,complete,quantity,determiner,2,ENU,all,QUANTIFIERS,5
+326,component,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,5
+909,comprehend,cognition,verb,2,ENU,know,MENTAL_PREDICATES,4
+568,comprehensive,quantity,adjective,2,ENU,all,QUANTIFIERS,9
+2187,conceivably,logic,adverb,2,ENU,maybe,LOGICAL_CONCEPTS,9
+2279,condition,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,1
+2280,conditional,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,2
+1301,conduct,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,6
+11,consciousness,entity,noun,2,ENU,i,SUBSTANTIVES,10
+832,consider,cognition,verb,2,ENU,think,MENTAL_PREDICATES,3
+599,considerable,quantity,adjective,2,ENU,much many,QUANTIFIERS,6
+762,considerable,property,adjective,2,ENU,big,DESCRIPTORS,10
+2317,considerably,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,8
+404,consistent,reference,determiner,2,ENU,the same,DETERMINERS,9
+405,constant,reference,determiner,2,ENU,the same,DETERMINERS,10
+2113,contact,spatial,other,2,ENU,touch,SPACE,1
+2088,contained,spatial,verb,2,ENU,inside,SPACE,8
+835,contemplate,cognition,verb,2,ENU,think,MENTAL_PREDICATES,6
+1659,contemporary,temporal,other,2,ENU,now,TIME,7
+2285,contingent,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,7
+2149,contrary,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,6
+602,copious,quantity,adjective,2,ENU,much many,QUANTIFIERS,9
+2090,core,spatial,other,2,ENU,inside,SPACE,10
+240,corpse,entity,noun,2,ENU,body,SUBSTANTIVES,2
+1269,correct,communication,verb,2,ENU,true,SPEECH,10
+2386,corresponding,comparison,verb,2,ENU,like,SIMILARITY,9
+2182,could be,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,4
+497,couple,quantity,determiner,2,ENU,two,QUANTIFIERS,2
+967,crave,cognition,verb,2,ENU,want,MENTAL_PREDICATES,4
+366,current,reference,determiner,2,ENU,this,DETERMINERS,4
+1654,current,temporal,other,2,ENU,now,TIME,2
+1655,currently,temporal,adverb,2,ENU,now,TIME,3
+1587,dead,life,verb,2,ENU,die,LIFE_DEATH,2
+1586,death,life,verb,2,ENU,die,LIFE_DEATH,1
+1590,deceased,life,verb,2,ENU,die,LIFE_DEATH,5
+1184,declare,communication,verb,2,ENU,say,SPEECH,7
+1023,decline,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,8
+1592,demise,life,verb,2,ENU,die,LIFE_DEATH,7
+371,demonstrative,reference,adjective,2,ENU,this,DETERMINERS,9
+2147,denial,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,4
+666,desirable,evaluation,adjective,2,ENU,good,EVALUATORS,8
+964,desire,cognition,verb,2,ENU,want,MENTAL_PREDICATES,1
+1142,detect,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,7
+716,detrimental,evaluation,adjective,2,ENU,bad,EVALUATORS,9
+1346,develop,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,7
+429,different,reference,determiner,2,ENU,other,DETERMINERS,1
+806,diminutive,property,adjective,2,ENU,small,DESCRIPTORS,9
+1019,disinclined,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,4
+1988,distant,spatial,other,2,ENU,far,SPACE,1
+1993,distant,spatial,other,2,ENU,far,SPACE,6
+1996,distantly,spatial,adverb,2,ENU,far,SPACE,9
+435,distinct,reference,determiner,2,ENU,other,DETERMINERS,7
+436,diverse,reference,determiner,2,ENU,other,DETERMINERS,8
+329,division,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,8
+499,double,quantity,determiner,2,ENU,two,QUANTIFIERS,4
+1961,down,spatial,other,2,ENU,below,SPACE,5
+1962,downward,spatial,other,2,ENU,below,SPACE,6
+498,dual,quantity,determiner,2,ENU,two,QUANTIFIERS,3
+504,duo,quantity,determiner,2,ENU,two,QUANTIFIERS,9
+1629,duration,temporal,other,2,ENU,when,TIME,9
+1808,duration,temporal,other,2,ENU,for some time,TIME,3
+1427,dwell,existence,other,2,ENU,be somewhere,LOCATION_EXISTENCE,7
+505,dyad,quantity,determiner,2,ENU,two,QUANTIFIERS,10
+561,each,quantity,determiner,2,ENU,all,QUANTIFIERS,2
+1140,ear,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,5
+1686,earlier,temporal,other,2,ENU,before,TIME,2
+2050,edge,spatial,other,2,ENU,side,SPACE,2
+7,ego,entity,noun,2,ENU,i,SUBSTANTIVES,6
+148,element,entity,noun,2,ENU,something,SUBSTANTIVES,9
+327,element,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,6
+431,else,reference,determiner,2,ENU,other,DETERMINERS,3
+1345,emerge,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,6
+1048,emotion,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,1
+2087,enclosed,spatial,verb,2,ENU,inside,SPACE,7
+1594,end,life,verb,2,ENU,die,LIFE_DEATH,9
+756,enormous,property,adjective,2,ENU,big,DESCRIPTORS,4
+1726,ensuing,temporal,verb,2,ENU,after,TIME,10
+563,entire,quantity,determiner,2,ENU,all,QUANTIFIERS,4
+143,entity,entity,noun,2,ENU,something,SUBSTANTIVES,4
+1491,entity,existence,other,2,ENU,be something,LOCATION_EXISTENCE,9
+1754,eons,temporal,other,2,ENU,a long time,TIME,7
+1786,ephemeral,temporal,other,2,ENU,a short time,TIME,10
+397,equal,reference,determiner,2,ENU,the same,DETERMINERS,2
+398,equivalent,reference,determiner,2,ENU,the same,DETERMINERS,3
+2384,equivalent,comparison,other,2,ENU,like,SIMILARITY,7
+1489,essence,existence,other,2,ENU,be something,LOCATION_EXISTENCE,7
+1348,event,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,9
+560,every,quantity,determiner,2,ENU,all,QUANTIFIERS,1
+93,everyone,entity,noun,2,ENU,someone,SUBSTANTIVES,6
+147,everything,entity,verb,2,ENU,something,SUBSTANTIVES,8
+569,everything,quantity,verb,2,ENU,all,QUANTIFIERS,10
+713,evil,evaluation,adjective,2,ENU,bad,EVALUATORS,6
+2353,exceed,degree,verb,2,ENU,more,INTENSIFIER_AUGMENTOR,10
+662,excellent,evaluation,adjective,2,ENU,good,EVALUATORS,4
+2318,exceptionally,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,9
+1298,execute,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,3
+1550,exist,life,verb,2,ENU,live,LIFE_DEATH,3
+1425,exist at,existence,other,2,ENU,be somewhere,LOCATION_EXISTENCE,5
+1458,existence,existence,other,2,ENU,there is,LOCATION_EXISTENCE,7
+1487,existence,existence,other,2,ENU,be something,LOCATION_EXISTENCE,5
+1452,exists,existence,other,2,ENU,there is,LOCATION_EXISTENCE,1
+1051,experience,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,4
+1589,expire,life,verb,2,ENU,die,LIFE_DEATH,4
+2245,explanation,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,4
+1182,express,communication,verb,2,ENU,say,SPEECH,5
+1229,expressions,communication,verb,2,ENU,words,SPEECH,4
+1457,extant,existence,other,2,ENU,there is,LOCATION_EXISTENCE,6
+1756,extended,temporal,verb,2,ENU,a long time,TIME,9
+1749,extended period,temporal,other,2,ENU,a long time,TIME,2
+2345,extra,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,2
+2310,extremely,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,1
+2058,face,spatial,other,2,ENU,side,SPACE,10
+1261,fact,communication,verb,2,ENU,true,SPEECH,2
+2217,faculty,logic,conjunction,2,ENU,can,LOGICAL_CONCEPTS,10
+912,familiar,cognition,verb,2,ENU,know,MENTAL_PREDICATES,7
+1991,faraway,spatial,other,2,ENU,far,SPACE,4
+667,favorable,evaluation,adjective,2,ENU,good,EVALUATORS,9
+2114,feel,spatial,other,2,ENU,touch,SPACE,2
+1054,feeling,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,7
+531,few,quantity,determiner,2,ENU,some,QUANTIFIERS,2
+245,figure,entity,noun,2,ENU,body,SUBSTANTIVES,7
+663,fine,evaluation,adjective,2,ENU,good,EVALUATORS,5
+469,first,quantity,determiner,2,ENU,one,QUANTIFIERS,8
+8,first-person,entity,noun,2,ENU,i,SUBSTANTIVES,7
+2049,flank,spatial,other,2,ENU,side,SPACE,1
+1838,flash,temporal,other,2,ENU,moment,TIME,6
+1782,fleeting,temporal,verb,2,ENU,a short time,TIME,6
+241,flesh,entity,noun,2,ENU,body,SUBSTANTIVES,3
+1387,flow,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,9
+191,folks,entity,noun,2,ENU,people,SUBSTANTIVES,2
+1719,following,temporal,verb,2,ENU,after,TIME,3
+244,form,entity,noun,2,ENU,body,SUBSTANTIVES,6
+1688,formerly,temporal,adverb,2,ENU,before,TIME,4
+1456,found,existence,other,2,ENU,there is,LOCATION_EXISTENCE,5
+330,fraction,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,9
+328,fragment,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,7
+248,frame,entity,noun,2,ENU,body,SUBSTANTIVES,10
+566,full,quantity,determiner,2,ENU,all,QUANTIFIERS,7
+2346,further,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,3
+1721,future,temporal,other,2,ENU,after,TIME,5
+1099,gaze,cognition,verb,2,ENU,see,MENTAL_PREDICATES,10
+284,genre,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,5
+1264,genuine,communication,verb,2,ENU,true,SPEECH,5
+760,gigantic,property,adjective,2,ENU,big,DESCRIPTORS,8
+2119,grasp,spatial,other,2,ENU,touch,SPACE,7
+754,great,property,adjective,2,ENU,big,DESCRIPTORS,2
+2347,greater,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,4
+2313,greatly,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,4
+2248,grounds,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,7
+633,handful,quantity,adjective,2,ENU,little few,QUANTIFIERS,7
+2118,handle,spatial,other,2,ENU,touch,SPACE,6
+709,harmful,evaluation,adjective,2,ENU,bad,EVALUATORS,2
+1519,have,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,3
+1145,hearing,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,10
+364,here,reference,determiner,2,ENU,this,DETERMINERS,2
+1902,hereabouts,spatial,other,2,ENU,here,SPACE,6
+1927,higher,spatial,other,2,ENU,above,SPACE,3
+2311,highly,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,2
+755,huge,property,adjective,2,ENU,big,DESCRIPTORS,3
+91,human,entity,noun,2,ENU,someone,SUBSTANTIVES,4
+190,humans,entity,noun,2,ENU,people,SUBSTANTIVES,1
+971,hunger,cognition,verb,2,ENU,want,MENTAL_PREDICATES,8
+2286,hypothesis,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,8
+396,identical,reference,determiner,2,ENU,the same,DETERMINERS,1
+10,identity,entity,noun,2,ENU,i,SUBSTANTIVES,9
+1488,identity,existence,other,2,ENU,be something,LOCATION_EXISTENCE,6
+839,imagine,cognition,verb,2,ENU,think,MENTAL_PREDICATES,10
+370,immediate,reference,verb,2,ENU,this,DETERMINERS,8
+1661,immediate,temporal,verb,2,ENU,now,TIME,9
+2027,immediate,spatial,verb,2,ENU,near,SPACE,10
+758,immense,property,adjective,2,ENU,big,DESCRIPTORS,6
+1905,in situ,spatial,other,2,ENU,here,SPACE,9
+1349,incident,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,10
+973,inclination,cognition,verb,2,ENU,want,MENTAL_PREDICATES,10
+2348,increase,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,5
+537,indefinite,quantity,determiner,2,ENU,some,QUANTIFIERS,8
+372,indicated,reference,verb,2,ENU,this,DETERMINERS,10
+9,individual,entity,noun,2,ENU,i,SUBSTANTIVES,8
+90,individual,entity,noun,2,ENU,someone,SUBSTANTIVES,3
+465,individual,quantity,determiner,2,ENU,one,QUANTIFIERS,4
+193,individuals,entity,noun,2,ENU,people,SUBSTANTIVES,4
+2086,indoors,spatial,other,2,ENU,inside,SPACE,6
+711,inferior,evaluation,adjective,2,ENU,bad,EVALUATORS,4
+1963,inferior,spatial,other,2,ENU,below,SPACE,7
+914,informed,cognition,verb,2,ENU,know,MENTAL_PREDICATES,9
+1429,inhabit,existence,other,2,ENU,be somewhere,LOCATION_EXISTENCE,9
+2083,inner,spatial,other,2,ENU,inside,SPACE,3
+1626,instance,temporal,other,2,ENU,when,TIME,6
+1662,instant,temporal,other,2,ENU,now,TIME,10
+1779,instant,temporal,other,2,ENU,a short time,TIME,3
+1833,instant,temporal,other,2,ENU,moment,TIME,1
+2312,intensely,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,3
+2081,interior,spatial,other,2,ENU,inside,SPACE,1
+56,interlocutor,entity,noun,2,ENU,you,SUBSTANTIVES,10
+2084,internal,spatial,other,2,ENU,inside,SPACE,4
+1811,interval,temporal,other,2,ENU,for some time,TIME,6
+2085,inward,spatial,other,2,ENU,inside,SPACE,5
+1483,is,existence,other,2,ENU,be something,LOCATION_EXISTENCE,1
+142,item,entity,noun,2,ENU,something,SUBSTANTIVES,3
+1837,juncture,temporal,other,2,ENU,moment,TIME,5
+906,knowledge,cognition,verb,2,ENU,know,MENTAL_PREDICATES,1
+2152,lack,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,9
+1226,language,communication,verb,2,ENU,words,SPEECH,1
+753,large,property,adjective,2,ENU,big,DESCRIPTORS,1
+1717,later,temporal,other,2,ENU,after,TIME,1
+2051,lateral,spatial,other,2,ENU,side,SPACE,3
+915,learned,cognition,verb,2,ENU,know,MENTAL_PREDICATES,10
+1750,lengthy,temporal,other,2,ENU,a long time,TIME,3
+1232,lexicon,communication,verb,2,ENU,words,SPEECH,7
+1549,life,life,verb,2,ENU,live,LIFE_DEATH,2
+636,limited,quantity,verb,2,ENU,little few,QUANTIFIERS,10
+1136,listen,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,1
+52,listener,entity,noun,2,ENU,you,SUBSTANTIVES,6
+798,little,property,adjective,2,ENU,small,DESCRIPTORS,1
+1553,living,life,verb,2,ENU,live,LIFE_DEATH,6
+1900,local,spatial,other,2,ENU,here,SPACE,4
+1867,locale,spatial,other,2,ENU,where,SPACE,6
+1421,located,existence,verb,2,ENU,be somewhere,LOCATION_EXISTENCE,1
+1863,location,spatial,other,2,ENU,where,SPACE,2
+969,long,cognition,verb,2,ENU,want,MENTAL_PREDICATES,6
+1748,long duration,temporal,other,2,ENU,a long time,TIME,1
+1092,look,cognition,verb,2,ENU,see,MENTAL_PREDICATES,3
+594,lot,quantity,determiner,2,ENU,much many,QUANTIFIERS,1
+1960,lower,spatial,other,2,ENU,below,SPACE,4
+1302,make,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,7
+95,man,entity,noun,2,ENU,someone,SUBSTANTIVES,8
+199,mankind,entity,noun,2,ENU,people,SUBSTANTIVES,10
+2055,margin,spatial,other,2,ENU,side,SPACE,7
+759,massive,property,adjective,2,ENU,big,DESCRIPTORS,7
+399,matching,reference,verb,2,ENU,the same,DETERMINERS,4
+144,matter,entity,noun,2,ENU,something,SUBSTANTIVES,5
+2,me,entity,noun,2,ENU,i,SUBSTANTIVES,1
+635,meager,quantity,determiner,2,ENU,little few,QUANTIFIERS,9
+1185,mention,communication,verb,2,ENU,say,SPEECH,8
+807,microscopic,property,adjective,2,ENU,small,DESCRIPTORS,10
+2089,midst,spatial,other,2,ENU,inside,SPACE,9
+2181,might,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,3
+1386,migrate,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,8
+4,mine,entity,noun,2,ENU,i,SUBSTANTIVES,3
+1524,mine,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,8
+801,miniature,property,adjective,2,ENU,small,DESCRIPTORS,4
+630,minimal,quantity,determiner,2,ENU,little few,QUANTIFIERS,4
+804,minor,property,adjective,2,ENU,small,DESCRIPTORS,7
+800,minute,property,adjective,2,ENU,small,DESCRIPTORS,3
+1835,minute,temporal,other,2,ENU,moment,TIME,3
+1660,modern,temporal,other,2,ENU,now,TIME,8
+1625,moment,temporal,other,2,ENU,when,TIME,5
+1778,moment,temporal,other,2,ENU,a short time,TIME,2
+1785,momentary,temporal,other,2,ENU,a short time,TIME,9
+471,mono,quantity,determiner,2,ENU,one,QUANTIFIERS,10
+1591,mortality,life,verb,2,ENU,die,LIFE_DEATH,6
+1379,motion,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,1
+2246,motive,logic,adjective,2,ENU,because,LOGICAL_CONCEPTS,5
+2314,much,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,5
+5,my,entity,noun,2,ENU,i,SUBSTANTIVES,4
+1525,my,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,9
+3,myself,entity,noun,2,ENU,i,SUBSTANTIVES,2
+288,nature,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,9
+1490,nature,existence,other,2,ENU,be something,LOCATION_EXISTENCE,8
+368,near,reference,determiner,2,ENU,this,DETERMINERS,6
+1901,nearby,spatial,other,2,ENU,here,SPACE,5
+2019,nearby,spatial,other,2,ENU,near,SPACE,2
+966,need,cognition,verb,2,ENU,want,MENTAL_PREDICATES,3
+2145,negation,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,2
+708,negative,evaluation,adjective,2,ENU,bad,EVALUATORS,1
+2146,negative,logic,adjective,2,ENU,not,LOGICAL_CONCEPTS,3
+2022,neighboring,spatial,verb,2,ENU,near,SPACE,5
+1965,nether,spatial,other,2,ENU,below,SPACE,9
+1720,next,temporal,other,2,ENU,after,TIME,4
+2023,nigh,spatial,other,2,ENU,near,SPACE,6
+2144,no,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,1
+1842,now,temporal,other,2,ENU,moment,TIME,10
+1658,nowadays,temporal,other,2,ENU,now,TIME,6
+596,numerous,quantity,adjective,2,ENU,much many,QUANTIFIERS,3
+141,object,entity,noun,2,ENU,something,SUBSTANTIVES,2
+1093,observe,cognition,verb,2,ENU,see,MENTAL_PREDICATES,4
+1624,occasion,temporal,other,2,ENU,when,TIME,4
+1428,occupy,existence,other,2,ENU,be somewhere,LOCATION_EXISTENCE,8
+1340,occur,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,1
+1455,occurring,existence,verb,2,ENU,there is,LOCATION_EXISTENCE,4
+1904,on-site,spatial,other,2,ENU,here,SPACE,8
+1020,opposed,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,5
+2150,opposite,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,7
+246,organism,entity,noun,2,ENU,body,SUBSTANTIVES,8
+1556,organism,life,verb,2,ENU,live,LIFE_DEATH,9
+2251,origin,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,10
+1925,over,spatial,other,2,ENU,above,SPACE,1
+1926,overhead,spatial,other,2,ENU,above,SPACE,2
+1144,overhear,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,9
+1518,own,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,2
+1523,ownership,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,7
+496,pair,quantity,determiner,2,ENU,two,QUANTIFIERS,1
+2117,palpable,spatial,adjective,2,ENU,touch,SPACE,5
+2385,parallel,comparison,other,2,ENU,like,SIMILARITY,8
+538,partial,quantity,determiner,2,ENU,some,QUANTIFIERS,9
+533,particular,quantity,determiner,2,ENU,some,QUANTIFIERS,4
+1593,passing,life,verb,2,ENU,die,LIFE_DEATH,8
+1689,past,temporal,other,2,ENU,before,TIME,5
+94,people,entity,noun,2,ENU,someone,SUBSTANTIVES,7
+1096,perceive,cognition,adjective,2,ENU,see,MENTAL_PREDICATES,7
+1141,perceive,cognition,adjective,2,ENU,hear,MENTAL_PREDICATES,6
+1052,perception,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,5
+2188,perchance,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,10
+1297,perform,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,2
+2179,perhaps,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,1
+1627,period,temporal,other,2,ENU,when,TIME,7
+1807,period,temporal,other,2,ENU,for some time,TIME,2
+2056,periphery,spatial,other,2,ENU,side,SPACE,8
+1588,perish,life,verb,2,ENU,die,LIFE_DEATH,3
+89,person,entity,noun,2,ENU,someone,SUBSTANTIVES,2
+192,persons,entity,noun,2,ENU,people,SUBSTANTIVES,3
+802,petite,property,adjective,2,ENU,small,DESCRIPTORS,5
+1812,phase,temporal,other,2,ENU,for some time,TIME,7
+1235,phrasing,communication,verb,2,ENU,words,SPEECH,10
+239,physical,entity,noun,2,ENU,body,SUBSTANTIVES,1
+2121,physical contact,spatial,other,2,ENU,touch,SPACE,9
+243,physique,entity,noun,2,ENU,body,SUBSTANTIVES,5
+322,piece,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,1
+1862,place,spatial,other,2,ENU,where,SPACE,1
+1424,placed,existence,verb,2,ENU,be somewhere,LOCATION_EXISTENCE,4
+598,plentiful,quantity,adjective,2,ENU,much many,QUANTIFIERS,5
+595,plenty,quantity,determiner,2,ENU,much many,QUANTIFIERS,2
+2349,plus,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,6
+1628,point,temporal,other,2,ENU,when,TIME,8
+1836,point,temporal,other,2,ENU,moment,TIME,4
+833,ponder,cognition,verb,2,ENU,think,MENTAL_PREDICATES,4
+710,poor,evaluation,adjective,2,ENU,bad,EVALUATORS,3
+194,population,entity,noun,2,ENU,people,SUBSTANTIVES,5
+323,portion,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,2
+539,portion,quantity,determiner,2,ENU,some,QUANTIFIERS,10
+1864,position,spatial,other,2,ENU,where,SPACE,3
+1423,positioned,existence,verb,2,ENU,be somewhere,LOCATION_EXISTENCE,3
+659,positive,evaluation,adjective,2,ENU,good,EVALUATORS,1
+1517,possess,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,1
+1522,possession,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,6
+2214,possible,logic,adjective,2,ENU,can,LOGICAL_CONCEPTS,7
+2180,possibly,logic,adverb,2,ENU,maybe,LOGICAL_CONCEPTS,2
+1724,post,temporal,other,2,ENU,after,TIME,8
+1725,posterior,temporal,other,2,ENU,after,TIME,9
+2186,potential,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,8
+2213,potential,logic,conjunction,2,ENU,can,LOGICAL_CONCEPTS,6
+2212,power,logic,conjunction,2,ENU,can,LOGICAL_CONCEPTS,5
+1303,practice,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,8
+1693,pre,temporal,other,2,ENU,before,TIME,9
+1690,preceding,temporal,verb,2,ENU,before,TIME,6
+1460,presence,existence,other,2,ENU,there is,LOCATION_EXISTENCE,9
+365,present,reference,determiner,2,ENU,this,DETERMINERS,3
+1453,present,existence,other,2,ENU,there is,LOCATION_EXISTENCE,2
+1653,present,temporal,other,2,ENU,now,TIME,1
+1898,present location,spatial,other,2,ENU,here,SPACE,2
+1656,presently,temporal,adverb,2,ENU,now,TIME,4
+1687,previously,temporal,adverb,2,ENU,before,TIME,3
+1685,prior,temporal,other,2,ENU,before,TIME,1
+2184,probability,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,6
+1384,proceed,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,6
+603,profuse,quantity,determiner,2,ENU,much many,QUANTIFIERS,10
+1751,prolonged,temporal,verb,2,ENU,a long time,TIME,4
+1521,property,existence,other,2,ENU,be mine,LOCATION_EXISTENCE,5
+1757,protracted,temporal,verb,2,ENU,a long time,TIME,10
+2283,provided,logic,verb,2,ENU,if,LOGICAL_CONCEPTS,5
+367,proximal,reference,determiner,2,ENU,this,DETERMINERS,5
+1903,proximate,spatial,verb,2,ENU,here,SPACE,7
+2021,proximate,spatial,verb,2,ENU,near,SPACE,4
+2026,proximity,spatial,other,2,ENU,near,SPACE,9
+197,public,entity,noun,2,ENU,people,SUBSTANTIVES,8
+2250,purpose,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,9
+1780,quickly,temporal,adverb,2,ENU,a short time,TIME,4
+2316,quite,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,7
+629,rare,quantity,determiner,2,ENU,little few,QUANTIFIERS,3
+2249,rationale,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,8
+1265,real,communication,verb,2,ENU,true,SPEECH,6
+1262,reality,communication,verb,2,ENU,true,SPEECH,3
+1461,reality,existence,other,2,ENU,there is,LOCATION_EXISTENCE,10
+910,realize,cognition,verb,2,ENU,know,MENTAL_PREDICATES,5
+2315,really,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,6
+836,reason,cognition,verb,2,ENU,think,MENTAL_PREDICATES,7
+2242,reason,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,1
+53,recipient,entity,noun,2,ENU,you,SUBSTANTIVES,7
+911,recognize,cognition,verb,2,ENU,know,MENTAL_PREDICATES,6
+834,reflect,cognition,verb,2,ENU,think,MENTAL_PREDICATES,5
+2148,refusal,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,5
+1021,refuse,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,6
+1869,region,spatial,other,2,ENU,where,SPACE,8
+1022,reject,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,7
+1382,relocate,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,4
+1017,reluctant,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,2
+438,remaining,reference,verb,2,ENU,other,DETERMINERS,10
+2319,remarkably,degree,adverb,2,ENU,very,INTENSIFIER_AUGMENTOR,10
+1989,remote,spatial,other,2,ENU,far,SPACE,2
+1997,remotely,spatial,adverb,2,ENU,far,SPACE,10
+1992,removed,spatial,verb,2,ENU,far,SPACE,5
+2380,resembling,comparison,verb,2,ENU,like,SIMILARITY,3
+1426,reside,existence,other,2,ENU,be somewhere,LOCATION_EXISTENCE,6
+1024,resist,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,9
+2379,same,comparison,other,2,ENU,like,SIMILARITY,2
+634,scant,quantity,determiner,2,ENU,little few,QUANTIFIERS,8
+627,scarce,quantity,determiner,2,ENU,little few,QUANTIFIERS,1
+502,second,quantity,determiner,2,ENU,two,QUANTIFIERS,7
+1834,second,temporal,other,2,ENU,moment,TIME,2
+50,second-person,entity,noun,2,ENU,you,SUBSTANTIVES,4
+324,section,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,3
+325,segment,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,4
+6,self,entity,noun,2,ENU,i,SUBSTANTIVES,5
+1049,sensation,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,2
+2122,sensation,spatial,other,2,ENU,touch,SPACE,10
+1050,sense,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,3
+1053,sentiment,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,6
+434,separate,reference,verb,2,ENU,other,DETERMINERS,6
+530,several,quantity,determiner,2,ENU,some,QUANTIFIERS,1
+1380,shift,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,2
+1784,short duration,temporal,other,2,ENU,a short time,TIME,8
+1091,sight,cognition,verb,2,ENU,see,MENTAL_PREDICATES,2
+402,similar,reference,determiner,2,ENU,the same,DETERMINERS,7
+2378,similar,comparison,other,2,ENU,like,SIMILARITY,1
+2387,similarity,comparison,other,2,ENU,like,SIMILARITY,10
+462,single,quantity,determiner,2,ENU,one,QUANTIFIERS,1
+470,singular,quantity,determiner,2,ENU,one,QUANTIFIERS,9
+1866,site,spatial,other,2,ENU,where,SPACE,5
+1422,situated,existence,verb,2,ENU,be somewhere,LOCATION_EXISTENCE,2
+2216,skill,logic,conjunction,2,ENU,can,LOGICAL_CONCEPTS,9
+1934,skyward,spatial,other,2,ENU,above,SPACE,10
+631,slight,quantity,determiner,2,ENU,little few,QUANTIFIERS,5
+805,slight,property,adjective,2,ENU,small,DESCRIPTORS,8
+632,small amount,quantity,determiner,2,ENU,little few,QUANTIFIERS,6
+195,society,entity,noun,2,ENU,people,SUBSTANTIVES,6
+467,sole,quantity,determiner,2,ENU,one,QUANTIFIERS,6
+88,somebody,entity,noun,2,ENU,someone,SUBSTANTIVES,1
+281,sort,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,2
+1137,sound,cognition,verb,2,ENU,hear,MENTAL_PREDICATES,2
+1870,space,spatial,other,2,ENU,where,SPACE,9
+628,sparse,quantity,determiner,2,ENU,little few,QUANTIFIERS,2
+1871,spatial,spatial,other,2,ENU,where,SPACE,10
+1178,speak,communication,verb,2,ENU,say,SPEECH,1
+286,species,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,7
+1230,speech,communication,verb,2,ENU,words,SPEECH,5
+1809,spell,temporal,other,2,ENU,for some time,TIME,4
+1839,split second,temporal,other,2,ENU,moment,TIME,7
+1865,spot,spatial,other,2,ENU,where,SPACE,4
+1899,spot,spatial,other,2,ENU,here,SPACE,3
+1183,state,communication,verb,2,ENU,say,SPEECH,6
+1430,stay,existence,other,2,ENU,be somewhere,LOCATION_EXISTENCE,10
+1810,stretch,temporal,other,2,ENU,for some time,TIME,5
+145,stuff,entity,noun,2,ENU,something,SUBSTANTIVES,6
+1718,subsequent,temporal,other,2,ENU,after,TIME,2
+149,substance,entity,noun,2,ENU,something,SUBSTANTIVES,10
+600,substantial,quantity,determiner,2,ENU,much many,QUANTIFIERS,7
+761,substantial,property,adjective,2,ENU,big,DESCRIPTORS,9
+1723,succeeding,temporal,verb,2,ENU,after,TIME,7
+535,sundry,quantity,determiner,2,ENU,some,QUANTIFIERS,6
+664,superior,evaluation,adjective,2,ENU,good,EVALUATORS,6
+1930,superior,spatial,other,2,ENU,above,SPACE,6
+2351,supplement,degree,adverb,2,ENU,more,INTENSIFIER_AUGMENTOR,8
+838,suppose,cognition,verb,2,ENU,think,MENTAL_PREDICATES,9
+2281,suppose,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,3
+1551,survive,life,adjective,2,ENU,live,LIFE_DEATH,4
+1752,sustained,temporal,verb,2,ENU,a long time,TIME,5
+1056,tactile,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,9
+2115,tactile,spatial,other,2,ENU,touch,SPACE,3
+1341,take place,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,2
+1180,talk,communication,verb,2,ENU,say,SPEECH,3
+2116,tangible,spatial,adjective,2,ENU,touch,SPACE,4
+1179,tell,communication,verb,2,ENU,say,SPEECH,2
+1622,temporal,temporal,other,2,ENU,when,TIME,2
+1813,temporarily,temporal,adverb,2,ENU,for some time,TIME,8
+1781,temporary,temporal,other,2,ENU,a short time,TIME,5
+1595,termination,life,verb,2,ENU,die,LIFE_DEATH,10
+1233,terminology,communication,verb,2,ENU,words,SPEECH,8
+1228,terms,communication,verb,2,ENU,words,SPEECH,3
+55,thee,entity,noun,2,ENU,you,SUBSTANTIVES,9
+363,these,reference,determiner,2,ENU,this,DETERMINERS,1
+140,thing,entity,verb,2,ENU,something,SUBSTANTIVES,1
+1492,thing,existence,verb,2,ENU,be something,LOCATION_EXISTENCE,10
+1897,this place,spatial,other,2,ENU,here,SPACE,1
+54,thou,entity,noun,2,ENU,you,SUBSTANTIVES,8
+830,thought,cognition,verb,2,ENU,think,MENTAL_PREDICATES,1
+1621,time,temporal,other,2,ENU,when,TIME,1
+1623,timing,temporal,verb,2,ENU,when,TIME,3
+799,tiny,property,adjective,2,ENU,small,DESCRIPTORS,2
+1657,today,temporal,other,2,ENU,now,TIME,5
+1931,top,spatial,other,2,ENU,above,SPACE,7
+247,torso,entity,noun,2,ENU,body,SUBSTANTIVES,9
+565,total,quantity,determiner,2,ENU,all,QUANTIFIERS,6
+1055,touch,cognition,verb,2,ENU,feel,MENTAL_PREDICATES,8
+1381,transfer,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,3
+1783,transient,temporal,other,2,ENU,a short time,TIME,7
+1342,transpire,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,3
+1388,transport,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,10
+1383,travel,action,verb,2,ENU,move,ACTIONS_EVENTS_MOVEMENT,5
+1260,truth,communication,verb,2,ENU,true,SPEECH,1
+500,twin,quantity,determiner,2,ENU,two,QUANTIFIERS,5
+1841,twinkling,temporal,verb,2,ENU,moment,TIME,9
+280,type,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,1
+2183,uncertain,logic,conjunction,2,ENU,maybe,LOGICAL_CONCEPTS,5
+403,unchanged,reference,verb,2,ENU,the same,DETERMINERS,8
+1957,under,spatial,other,2,ENU,below,SPACE,1
+1966,underground,spatial,other,2,ENU,below,SPACE,10
+1959,underneath,spatial,other,2,ENU,below,SPACE,3
+908,understand,cognition,verb,2,ENU,know,MENTAL_PREDICATES,3
+1304,undertake,action,verb,2,ENU,do,ACTIONS_EVENTS_MOVEMENT,9
+717,undesirable,evaluation,adjective,2,ENU,bad,EVALUATORS,10
+715,unfavorable,evaluation,adjective,2,ENU,bad,EVALUATORS,8
+1347,unfold,action,verb,2,ENU,happen,ACTIONS_EVENTS_MOVEMENT,8
+401,uniform,reference,determiner,2,ENU,the same,DETERMINERS,6
+468,unique,quantity,determiner,2,ENU,one,QUANTIFIERS,7
+331,unit,relation,noun,2,ENU,part,RELATIONAL_SUBSTANTIVES,10
+463,unit,quantity,determiner,2,ENU,one,QUANTIFIERS,2
+464,unity,quantity,determiner,2,ENU,one,QUANTIFIERS,3
+567,universal,quantity,determiner,2,ENU,all,QUANTIFIERS,8
+1016,unwilling,cognition,verb,2,ENU,dont want,MENTAL_PREDICATES,1
+1928,up,spatial,other,2,ENU,above,SPACE,4
+1932,upper,spatial,other,2,ENU,above,SPACE,8
+1929,upward,spatial,other,2,ENU,above,SPACE,5
+1181,utter,communication,verb,2,ENU,say,SPEECH,4
+1231,utterance,communication,verb,2,ENU,words,SPEECH,6
+1267,valid,communication,verb,2,ENU,true,SPEECH,8
+661,valuable,evaluation,adjective,2,ENU,good,EVALUATORS,3
+285,variety,relation,noun,2,ENU,kind,RELATIONAL_SUBSTANTIVES,6
+437,various,reference,adjective,2,ENU,other,DETERMINERS,9
+534,various,quantity,adjective,2,ENU,some,QUANTIFIERS,5
+757,vast,property,adjective,2,ENU,big,DESCRIPTORS,5
+2024,vicinity,spatial,other,2,ENU,near,SPACE,7
+1094,view,cognition,verb,2,ENU,see,MENTAL_PREDICATES,5
+1090,vision,cognition,verb,2,ENU,see,MENTAL_PREDICATES,1
+1554,vitality,life,verb,2,ENU,live,LIFE_DEATH,7
+1227,vocabulary,communication,verb,2,ENU,words,SPEECH,2
+1095,watch,cognition,verb,2,ENU,see,MENTAL_PREDICATES,6
+2284,whether,logic,conjunction,2,ENU,if,LOGICAL_CONCEPTS,6
+1630,while,temporal,other,2,ENU,when,TIME,10
+1806,while,temporal,other,2,ENU,for some time,TIME,1
+562,whole,quantity,determiner,2,ENU,all,QUANTIFIERS,3
+2244,why,logic,conjunction,2,ENU,because,LOGICAL_CONCEPTS,3
+965,wish,cognition,verb,2,ENU,want,MENTAL_PREDICATES,2
+2082,within,spatial,other,2,ENU,inside,SPACE,2
+2153,without,logic,conjunction,2,ENU,not,LOGICAL_CONCEPTS,10
+1097,witness,cognition,verb,2,ENU,see,MENTAL_PREDICATES,8
+96,woman,entity,noun,2,ENU,someone,SUBSTANTIVES,9
+1234,wording,communication,verb,2,ENU,words,SPEECH,9
+665,worthy,evaluation,adjective,2,ENU,good,EVALUATORS,7
+712,wrong,evaluation,adjective,2,ENU,bad,EVALUATORS,5
+968,yearn,cognition,verb,2,ENU,want,MENTAL_PREDICATES,5
+1755,years,temporal,other,2,ENU,a long time,TIME,8
+1994,yonder,spatial,other,2,ENU,far,SPACE,7
+49,your,entity,noun,2,ENU,you,SUBSTANTIVES,3
+48,yours,entity,noun,2,ENU,you,SUBSTANTIVES,2
+47,yourself,entity,noun,2,ENU,you,SUBSTANTIVES,1
+81,2인칭,entity,noun,2,KOR,you,SUBSTANTIVES,8
+2302,~면,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,2
+392,가까운,reference,determiner,2,KOR,this,DETERMINERS,6
+2040,가까운,spatial,other,2,KOR,near,SPACE,1
+2045,가깝게,spatial,other,2,KOR,near,SPACE,6
+2235,가능,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,3
+2202,가능성,logic,conjunction,2,KOR,maybe,LOGICAL_CONCEPTS,3
+2074,가장자리,spatial,other,2,KOR,side,SPACE,4
+2304,가정,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,4
+890,가정하다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,9
+2308,가정하다,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,8
+590,각각,quantity,determiner,2,KOR,all,QUANTIFIERS,7
+459,각종,reference,determiner,2,KOR,other,DETERMINERS,7
+1005,갈망,cognition,verb,2,KOR,want,MENTAL_PREDICATES,5
+1079,감각,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,2
+1080,감정,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,3
+1171,감지하다,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,6
+2140,감촉,spatial,other,2,KOR,touch,SPACE,6
+2342,강도,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,9
+420,같은,reference,determiner,2,KOR,the same,DETERMINERS,1
+2403,같은,comparison,other,2,KOR,like,SIMILARITY,1
+493,개별,quantity,determiner,2,KOR,one,QUANTIFIERS,8
+39,개인,entity,noun,2,KOR,i,SUBSTANTIVES,8
+126,개인,entity,noun,2,KOR,someone,SUBSTANTIVES,3
+787,거대한,property,adjective,2,KOR,big,DESCRIPTORS,2
+2015,거리가먼,spatial,other,2,KOR,far,SPACE,7
+1040,거부,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,2
+2171,거부,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,3
+1045,거절,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,7
+1447,거주하다,existence,other,2,KOR,be somewhere,LOCATION_EXISTENCE,4
+1580,거주하다,life,verb,2,KOR,live,LIFE_DEATH,6
+703,건강한,evaluation,adjective,2,KOR,good,EVALUATORS,9
+1131,검사하다,cognition,verb,2,KOR,see,MENTAL_PREDICATES,8
+175,것,entity,noun,2,KOR,something,SUBSTANTIVES,2
+2173,결여,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,5
+748,결함있는,evaluation,adjective,2,KOR,bad,EVALUATORS,8
+527,겹,quantity,determiner,2,KOR,two,QUANTIFIERS,9
+825,경미한,property,adjective,2,KOR,small,DESCRIPTORS,5
+1377,경우,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,10
+2305,경우,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,5
+1172,경청하다,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,7
+1087,경험,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,10
+2075,곁,spatial,other,2,KOR,side,SPACE,5
+494,고독,quantity,determiner,2,KOR,one,QUANTIFIERS,9
+886,고려하다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,5
+1953,고처,spatial,other,2,KOR,above,SPACE,6
+1891,공간,spatial,other,2,KOR,where,SPACE,5
+231,공동체,entity,noun,2,KOR,people,SUBSTANTIVES,6
+317,과,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,8
+1711,과거,temporal,other,2,KOR,before,TIME,4
+1127,관찰하다,cognition,verb,2,KOR,see,MENTAL_PREDICATES,4
+789,광대한,property,adjective,2,KOR,big,DESCRIPTORS,4
+1133,광학적,cognition,verb,2,KOR,see,MENTAL_PREDICATES,10
+354,구성요소,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,3
+1895,구역,spatial,other,2,KOR,where,SPACE,9
+228,국민,entity,noun,2,KOR,people,SUBSTANTIVES,3
+361,국부,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,10
+1170,귀,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,5
+1545,귀속,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,7
+78,귀하,entity,noun,2,KOR,you,SUBSTANTIVES,5
+424,균일한,reference,determiner,2,KOR,the same,DETERMINERS,5
+77,그대,entity,noun,2,KOR,you,SUBSTANTIVES,4
+745,그릇된,evaluation,adjective,2,KOR,bad,EVALUATORS,5
+460,그밖의,reference,determiner,2,KOR,other,DETERMINERS,8
+2338,극도로,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,5
+2272,근거,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,5
+2044,근방,spatial,other,2,KOR,near,SPACE,5
+826,근소한,property,adjective,2,KOR,small,DESCRIPTORS,6
+2047,근접,spatial,other,2,KOR,near,SPACE,8
+2042,근처,spatial,other,2,KOR,near,SPACE,3
+696,긍정적,evaluation,adjective,2,KOR,good,EVALUATORS,2
+1649,기간,temporal,other,2,KOR,when,TIME,7
+1827,기간,temporal,other,2,KOR,for some time,TIME,3
+1337,기능,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,10
+1084,기분,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,7
+2275,기원,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,8
+455,기타,reference,determiner,2,KOR,other,DETERMINERS,3
+953,깨닫다,cognition,verb,2,KOR,know,MENTAL_PREDICATES,6
+1043,꺼리다,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,5
+32,나,entity,noun,2,KOR,i,SUBSTANTIVES,1
+456,나머지,reference,determiner,2,KOR,other,DETERMINERS,4
+741,나쁜,evaluation,adjective,2,KOR,bad,EVALUATORS,1
+1413,나아가다,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,5
+1539,나의것,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,1
+1743,나중,temporal,other,2,KOR,after,TIME,5
+1371,나타나다,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,4
+34,내가,entity,noun,2,KOR,i,SUBSTANTIVES,3
+1546,내것,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,8
+2104,내부,spatial,other,2,KOR,inside,SPACE,2
+2108,내심,spatial,other,2,KOR,inside,SPACE,6
+2110,내적,spatial,other,2,KOR,inside,SPACE,8
+2105,내측,spatial,other,2,KOR,inside,SPACE,3
+74,너,entity,noun,2,KOR,you,SUBSTANTIVES,1
+79,너의,entity,noun,2,KOR,you,SUBSTANTIVES,6
+1955,높은곳,spatial,other,2,KOR,above,SPACE,8
+124,누군가,entity,noun,2,KOR,someone,SUBSTANTIVES,1
+1132,눈,cognition,verb,2,KOR,see,MENTAL_PREDICATES,9
+1858,눈깜짝할사이,temporal,other,2,KOR,moment,TIME,5
+1078,느끼다,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,1
+2234,능력,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,2
+591,다,quantity,determiner,2,KOR,all,QUANTIFIERS,8
+623,다량,quantity,determiner,2,KOR,much many,QUANTIFIERS,6
+453,다른,reference,determiner,2,KOR,other,DETERMINERS,1
+619,다수,quantity,determiner,2,KOR,much many,QUANTIFIERS,2
+1741,다음,temporal,other,2,KOR,after,TIME,3
+1803,단기,temporal,other,2,KOR,a short time,TIME,6
+492,단독,quantity,determiner,2,KOR,one,QUANTIFIERS,7
+1251,단어,communication,verb,2,KOR,words,SPEECH,2
+488,단일,quantity,determiner,2,KOR,one,QUANTIFIERS,3
+356,단편,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,5
+2409,닮은,comparison,other,2,KOR,like,SIMILARITY,7
+394,당면한,reference,determiner,2,KOR,this,DETERMINERS,8
+1683,당면한,temporal,other,2,KOR,now,TIME,8
+75,당신,entity,noun,2,KOR,you,SUBSTANTIVES,2
+80,당신의,entity,noun,2,KOR,you,SUBSTANTIVES,7
+1678,당장,temporal,other,2,KOR,now,TIME,3
+2138,닿다,spatial,other,2,KOR,touch,SPACE,4
+2336,대단히,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,3
+625,대량,quantity,determiner,2,KOR,much many,QUANTIFIERS,8
+229,대중,entity,noun,2,KOR,people,SUBSTANTIVES,4
+2368,더,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,1
+2370,더많은,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,3
+2376,더욱,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,9
+1010,동기,cognition,verb,2,KOR,want,MENTAL_PREDICATES,10
+2271,동기,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,4
+1828,동안,temporal,other,2,KOR,for some time,TIME,4
+421,동일한,reference,determiner,2,KOR,the same,DETERMINERS,2
+2406,동일한,comparison,other,2,KOR,like,SIMILARITY,4
+1508,되다,existence,other,2,KOR,be something,LOCATION_EXISTENCE,2
+523,두개,quantity,determiner,2,KOR,two,QUANTIFIERS,5
+526,두번,quantity,determiner,2,KOR,two,QUANTIFIERS,8
+519,둘,quantity,determiner,2,KOR,two,QUANTIFIERS,1
+1745,뒤,temporal,other,2,KOR,after,TIME,7
+656,드문,quantity,determiner,2,KOR,little few,QUANTIFIERS,7
+1166,듣다,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,1
+1647,때,temporal,other,2,KOR,when,TIME,5
+2268,때문에,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,1
+422,똑같은,reference,determiner,2,KOR,the same,DETERMINERS,3
+790,막대한,property,adjective,2,KOR,big,DESCRIPTORS,5
+2301,만약,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,1
+2136,만지다,spatial,other,2,KOR,touch,SPACE,2
+2142,만짐,spatial,other,2,KOR,touch,SPACE,8
+618,많은,quantity,determiner,2,KOR,much many,QUANTIFIERS,1
+1223,말,communication,verb,2,KOR,say,SPEECH,10
+1250,말,communication,verb,2,KOR,words,SPEECH,1
+1214,말하다,communication,verb,2,KOR,say,SPEECH,1
+2334,매우,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,1
+1448,머물다,existence,other,2,KOR,be somewhere,LOCATION_EXISTENCE,5
+2009,먼,spatial,other,2,KOR,far,SPACE,1
+2013,먼곳,spatial,other,2,KOR,far,SPACE,5
+1710,먼저,temporal,other,2,KOR,before,TIME,3
+2011,멀리,spatial,other,2,KOR,far,SPACE,3
+2073,면,spatial,other,2,KOR,side,SPACE,3
+1617,멸망,life,verb,2,KOR,die,LIFE_DEATH,7
+551,몇,quantity,determiner,2,KOR,some,QUANTIFIERS,1
+557,몇몇,quantity,determiner,2,KOR,some,QUANTIFIERS,7
+586,모두,quantity,determiner,2,KOR,all,QUANTIFIERS,3
+584,모든,quantity,determiner,2,KOR,all,QUANTIFIERS,1
+182,모든것,entity,noun,2,KOR,something,SUBSTANTIVES,9
+129,모든사람,entity,noun,2,KOR,someone,SUBSTANTIVES,6
+318,목,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,9
+1128,목격하다,cognition,verb,2,KOR,see,MENTAL_PREDICATES,5
+2274,목적,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,7
+269,몸,entity,noun,2,KOR,body,SUBSTANTIVES,1
+2337,몹시,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,4
+174,무언가,entity,noun,2,KOR,something,SUBSTANTIVES,1
+1257,문구,communication,verb,2,KOR,words,SPEECH,8
+235,문명,entity,noun,2,KOR,people,SUBSTANTIVES,10
+234,문화,entity,noun,2,KOR,people,SUBSTANTIVES,9
+176,물건,entity,noun,2,KOR,something,SUBSTANTIVES,3
+179,물질,entity,noun,2,KOR,something,SUBSTANTIVES,6
+275,물질,entity,noun,2,KOR,body,SUBSTANTIVES,7
+178,물체,entity,noun,2,KOR,something,SUBSTANTIVES,5
+824,미니,property,adjective,2,KOR,small,DESCRIPTORS,4
+1742,미래,temporal,other,2,KOR,after,TIME,4
+652,미량,quantity,determiner,2,KOR,little few,QUANTIFIERS,3
+827,미미한,property,adjective,2,KOR,small,DESCRIPTORS,7
+822,미세한,property,adjective,2,KOR,small,DESCRIPTORS,2
+1086,민감,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,9
+227,민중,entity,noun,2,KOR,people,SUBSTANTIVES,2
+884,믿다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,3
+1984,밑,spatial,other,2,KOR,below,SPACE,6
+1002,바라다,cognition,verb,2,KOR,want,MENTAL_PREDICATES,2
+1046,바라지않다,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,8
+699,바람직한,evaluation,adjective,2,KOR,good,EVALUATORS,5
+1042,반대,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,4
+2172,반대,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,4
+2177,반대의,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,9
+1130,발견하다,cognition,verb,2,KOR,see,MENTAL_PREDICATES,7
+1369,발생하다,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,2
+1221,발음하다,communication,verb,2,KOR,say,SPEECH,8
+788,방대한,property,adjective,2,KOR,big,DESCRIPTORS,3
+2078,방면,spatial,other,2,KOR,side,SPACE,8
+312,범주,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,3
+2077,변,spatial,other,2,KOR,side,SPACE,7
+1416,변위,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,8
+426,변치않는,reference,determiner,2,KOR,the same,DETERMINERS,7
+454,별개의,reference,determiner,2,KOR,other,DETERMINERS,2
+457,별도의,reference,determiner,2,KOR,other,DETERMINERS,5
+1124,보다,cognition,verb,2,KOR,see,MENTAL_PREDICATES,1
+2375,보충,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,8
+37,본인,entity,noun,2,KOR,i,SUBSTANTIVES,6
+1510,본질,existence,other,2,KOR,be something,LOCATION_EXISTENCE,4
+2374,부가,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,7
+1921,부근,spatial,other,2,KOR,here,SPACE,5
+2043,부근,spatial,other,2,KOR,near,SPACE,4
+313,부류,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,4
+352,부분,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,1
+558,부분적,quantity,determiner,2,KOR,some,QUANTIFIERS,8
+2175,부인,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,7
+750,부적절한,evaluation,adjective,2,KOR,bad,EVALUATORS,10
+2170,부정,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,2
+742,부정적,evaluation,adjective,2,KOR,bad,EVALUATORS,2
+653,부족한,quantity,determiner,2,KOR,little few,QUANTIFIERS,4
+359,부품,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,8
+315,분류,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,6
+747,불리한,evaluation,adjective,2,KOR,bad,EVALUATORS,7
+657,불충분한,quantity,determiner,2,KOR,little few,QUANTIFIERS,8
+555,불특정,quantity,determiner,2,KOR,some,QUANTIFIERS,5
+2206,불확실,logic,conjunction,2,KOR,maybe,LOGICAL_CONCEPTS,7
+2410,비교되는,comparison,other,2,KOR,like,SIMILARITY,8
+2405,비슷한,comparison,other,2,KOR,like,SIMILARITY,3
+180,사건,entity,noun,2,KOR,something,SUBSTANTIVES,7
+1373,사건,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,6
+883,사고,cognition,verb,2,KOR,think,MENTAL_PREDICATES,2
+125,사람,entity,noun,2,KOR,someone,SUBSTANTIVES,2
+226,사람들,entity,noun,2,KOR,people,SUBSTANTIVES,1
+1612,사망,life,verb,2,KOR,die,LIFE_DEATH,2
+1618,사망자,life,verb,2,KOR,die,LIFE_DEATH,8
+177,사물,entity,noun,2,KOR,something,SUBSTANTIVES,4
+887,사색하다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,6
+1287,사실,communication,verb,2,KOR,true,SPEECH,2
+230,사회,entity,noun,2,KOR,people,SUBSTANTIVES,5
+1575,살다,life,verb,2,KOR,live,LIFE_DEATH,1
+1952,상단,spatial,other,2,KOR,above,SPACE,5
+621,상당한,quantity,determiner,2,KOR,much many,QUANTIFIERS,4
+792,상당한,property,adjective,2,KOR,big,DESCRIPTORS,7
+2339,상당히,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,6
+82,상대방,entity,noun,2,KOR,you,SUBSTANTIVES,9
+425,상등한,reference,determiner,2,KOR,the same,DETERMINERS,6
+1951,상방,spatial,other,2,KOR,above,SPACE,4
+1949,상부,spatial,other,2,KOR,above,SPACE,2
+891,상상하다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,10
+2407,상응하는,comparison,other,2,KOR,like,SIMILARITY,5
+458,상이한,reference,determiner,2,KOR,other,DETERMINERS,6
+1513,상태,existence,other,2,KOR,be something,LOCATION_EXISTENCE,7
+1375,상황,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,8
+2306,상황,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,6
+882,생각,cognition,verb,2,KOR,think,MENTAL_PREDICATES,1
+1584,생기,life,verb,2,KOR,live,LIFE_DEATH,10
+1370,생기다,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,3
+276,생리,entity,noun,2,KOR,body,SUBSTANTIVES,8
+132,생명,entity,noun,2,KOR,someone,SUBSTANTIVES,9
+1576,생명,life,verb,2,KOR,live,LIFE_DEATH,2
+1581,생물,life,verb,2,KOR,live,LIFE_DEATH,7
+1579,생존하다,life,verb,2,KOR,live,LIFE_DEATH,5
+1577,생활,life,verb,2,KOR,live,LIFE_DEATH,3
+1614,서거,life,verb,2,KOR,die,LIFE_DEATH,4
+1222,서술하다,communication,verb,2,KOR,say,SPEECH,9
+1218,선언하다,communication,verb,2,KOR,say,SPEECH,5
+1713,선행,temporal,other,2,KOR,before,TIME,6
+2273,설명,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,6
+355,성분,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,4
+1292,성실,communication,verb,2,KOR,true,SPEECH,7
+314,성질,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,5
+1511,성질,existence,other,2,KOR,be something,LOCATION_EXISTENCE,5
+360,세부,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,9
+651,소량,quantity,determiner,2,KOR,little few,QUANTIFIERS,2
+1168,소리,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,3
+1004,소망,cognition,verb,2,KOR,want,MENTAL_PREDICATES,4
+1616,소멸,life,verb,2,KOR,die,LIFE_DEATH,6
+1541,소속,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,3
+1540,소유,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,2
+1543,소유권,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,5
+1174,소음,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,9
+1220,소통하다,communication,verb,2,KOR,say,SPEECH,7
+823,소형,property,adjective,2,KOR,small,DESCRIPTORS,3
+316,속,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,7
+2106,속,spatial,other,2,KOR,inside,SPACE,4
+1515,속성,existence,other,2,KOR,be something,LOCATION_EXISTENCE,9
+2139,손대다,spatial,other,2,KOR,touch,SPACE,5
+556,수개,quantity,determiner,2,KOR,some,QUANTIFIERS,6
+624,수량,quantity,determiner,2,KOR,much many,QUANTIFIERS,7
+1330,수행하다,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,3
+888,숙고하다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,7
+1650,순간,temporal,other,2,KOR,when,TIME,8
+1799,순간,temporal,other,2,KOR,a short time,TIME,2
+1854,순간,temporal,other,2,KOR,moment,TIME,1
+1802,순간적,temporal,other,2,KOR,a short time,TIME,5
+1125,시각,cognition,verb,2,KOR,see,MENTAL_PREDICATES,2
+1645,시각,temporal,other,2,KOR,when,TIME,3
+1856,시각,temporal,other,2,KOR,moment,TIME,3
+1644,시간,temporal,other,2,KOR,when,TIME,2
+1651,시간적,temporal,other,2,KOR,when,TIME,9
+1646,시기,temporal,other,2,KOR,when,TIME,4
+1830,시기,temporal,other,2,KOR,for some time,TIME,6
+1126,시력,cognition,verb,2,KOR,see,MENTAL_PREDICATES,3
+1648,시점,temporal,other,2,KOR,when,TIME,6
+273,신,entity,noun,2,KOR,body,SUBSTANTIVES,5
+270,신체,entity,noun,2,KOR,body,SUBSTANTIVES,2
+2111,실내,spatial,other,2,KOR,inside,SPACE,9
+1333,실시하다,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,6
+1479,실재,existence,other,2,KOR,there is,LOCATION_EXISTENCE,6
+1288,실제,communication,verb,2,KOR,true,SPEECH,3
+1480,실존,existence,other,2,KOR,there is,LOCATION_EXISTENCE,7
+1512,실체,existence,other,2,KOR,be something,LOCATION_EXISTENCE,6
+1331,실행하다,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,4
+1041,싫다,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,3
+521,쌍,quantity,determiner,2,KOR,two,QUANTIFIERS,3
+528,쌍둥이,quantity,determiner,2,KOR,two,QUANTIFIERS,10
+2169,아니다,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,1
+1979,아래,spatial,other,2,KOR,below,SPACE,1
+1981,아래쪽,spatial,other,2,KOR,below,SPACE,3
+1986,아랫부분,spatial,other,2,KOR,below,SPACE,8
+2200,아마,logic,conjunction,2,KOR,maybe,LOGICAL_CONCEPTS,1
+2205,아마도,logic,conjunction,2,KOR,maybe,LOGICAL_CONCEPTS,6
+128,아무나,entity,noun,2,KOR,someone,SUBSTANTIVES,5
+2335,아주,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,2
+749,악덕,evaluation,adjective,2,KOR,bad,EVALUATORS,9
+746,악한,evaluation,adjective,2,KOR,bad,EVALUATORS,6
+2103,안,spatial,other,2,KOR,inside,SPACE,1
+2107,안쪽,spatial,other,2,KOR,inside,SPACE,5
+948,알다,cognition,verb,2,KOR,know,MENTAL_PREDICATES,1
+951,알아차리다,cognition,verb,2,KOR,know,MENTAL_PREDICATES,4
+1712,앞서,temporal,other,2,KOR,before,TIME,5
+552,약간,quantity,determiner,2,KOR,some,QUANTIFIERS,2
+522,양,quantity,determiner,2,KOR,two,QUANTIFIERS,4
+701,양호한,evaluation,adjective,2,KOR,good,EVALUATORS,7
+1887,어디,spatial,other,2,KOR,where,SPACE,1
+1444,어딘가에있다,existence,other,2,KOR,be somewhere,LOCATION_EXISTENCE,1
+553,어떤,quantity,determiner,2,KOR,some,QUANTIFIERS,3
+181,어떤것,entity,noun,2,KOR,something,SUBSTANTIVES,8
+1256,어법,communication,verb,2,KOR,words,SPEECH,7
+2201,어쩌면,logic,conjunction,2,KOR,maybe,LOGICAL_CONCEPTS,2
+1252,어휘,communication,verb,2,KOR,words,SPEECH,3
+1219,언급하다,communication,verb,2,KOR,say,SPEECH,6
+1254,언어,communication,verb,2,KOR,words,SPEECH,5
+1643,언제,temporal,other,2,KOR,when,TIME,1
+1826,얼마간,temporal,other,2,KOR,for some time,TIME,2
+791,엄청난,property,adjective,2,KOR,big,DESCRIPTORS,6
+2174,없다,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,6
+1917,여기,spatial,other,2,KOR,here,SPACE,1
+885,여기다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,4
+2373,여분,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,6
+1418,여행,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,10
+2236,역량,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,4
+744,열등한,evaluation,adjective,2,KOR,bad,EVALUATORS,4
+1774,영구,temporal,other,2,KOR,a long time,TIME,6
+1894,영역,spatial,other,2,KOR,where,SPACE,8
+2071,옆,spatial,other,2,KOR,side,SPACE,1
+1715,예전,temporal,other,2,KOR,before,TIME,8
+1714,옛날,temporal,other,2,KOR,before,TIME,7
+1681,오늘날,temporal,other,2,KOR,now,TIME,6
+1771,오래,temporal,other,2,KOR,a long time,TIME,3
+1769,오랜시간,temporal,other,2,KOR,a long time,TIME,1
+1775,오랫동안,temporal,other,2,KOR,a long time,TIME,7
+704,올바른,evaluation,adjective,2,KOR,good,EVALUATORS,10
+1291,올바른,communication,verb,2,KOR,true,SPEECH,6
+1411,옮기다,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,3
+1332,완수하다,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,5
+588,완전한,quantity,determiner,2,KOR,all,QUANTIFIERS,5
+828,왜소한,property,adjective,2,KOR,small,DESCRIPTORS,8
+358,요소,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,7
+2016,요원한,spatial,other,2,KOR,far,SPACE,8
+2276,요인,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,9
+1003,욕망,cognition,verb,2,KOR,want,MENTAL_PREDICATES,3
+1253,용어,communication,verb,2,KOR,words,SPEECH,4
+1258,용어,communication,verb,2,KOR,words,SPEECH,9
+698,우수한,evaluation,adjective,2,KOR,good,EVALUATORS,4
+1417,운동,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,9
+1415,운송,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,7
+1409,움직이다,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,1
+2010,원거리,spatial,other,2,KOR,far,SPACE,2
+2014,원격,spatial,other,2,KOR,far,SPACE,6
+2012,원방,spatial,other,2,KOR,far,SPACE,4
+2270,원인,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,3
+1001,원하다,cognition,verb,2,KOR,want,MENTAL_PREDICATES,1
+1039,원하지않다,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,1
+1948,위,spatial,other,2,KOR,above,SPACE,1
+1950,위쪽,spatial,other,2,KOR,above,SPACE,3
+1889,위치,spatial,other,2,KOR,where,SPACE,3
+1445,위치하다,existence,other,2,KOR,be somewhere,LOCATION_EXISTENCE,2
+1954,윗부분,spatial,other,2,KOR,above,SPACE,7
+1582,유기체,life,verb,2,KOR,live,LIFE_DEATH,8
+2408,유사성,comparison,other,2,KOR,like,SIMILARITY,6
+2404,유사한,comparison,other,2,KOR,like,SIMILARITY,2
+700,유익한,evaluation,adjective,2,KOR,good,EVALUATORS,6
+489,유일,quantity,determiner,2,KOR,one,QUANTIFIERS,4
+311,유형,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,2
+271,육체,entity,noun,2,KOR,body,SUBSTANTIVES,3
+1173,음성,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,8
+1175,음조,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,10
+1169,음향,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,4
+41,의식,entity,noun,2,KOR,i,SUBSTANTIVES,10
+1083,의식,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,6
+1009,의욕,cognition,verb,2,KOR,want,MENTAL_PREDICATES,9
+1008,의지,cognition,verb,2,KOR,want,MENTAL_PREDICATES,8
+387,이,reference,determiner,2,KOR,this,DETERMINERS,1
+520,이,quantity,determiner,2,KOR,two,QUANTIFIERS,2
+388,이것,reference,determiner,2,KOR,this,DETERMINERS,2
+1918,이곳,spatial,other,2,KOR,here,SPACE,2
+1919,이곳,spatial,other,2,KOR,here,SPACE,3
+1507,이다,existence,other,2,KOR,be something,LOCATION_EXISTENCE,1
+1410,이동하다,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,2
+389,이러한,reference,determiner,2,KOR,this,DETERMINERS,3
+1682,이순간,temporal,other,2,KOR,now,TIME,7
+1215,이야기하다,communication,verb,2,KOR,say,SPEECH,2
+2046,이웃,spatial,other,2,KOR,near,SPACE,7
+2269,이유,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,2
+1922,이자리,spatial,other,2,KOR,here,SPACE,6
+1709,이전,temporal,other,2,KOR,before,TIME,2
+525,이진,quantity,determiner,2,KOR,two,QUANTIFIERS,7
+950,이해,cognition,verb,2,KOR,know,MENTAL_PREDICATES,3
+1740,이후,temporal,other,2,KOR,after,TIME,2
+955,익숙하다,cognition,verb,2,KOR,know,MENTAL_PREDICATES,8
+127,인간,entity,noun,2,KOR,someone,SUBSTANTIVES,4
+133,인격,entity,noun,2,KOR,someone,SUBSTANTIVES,10
+2277,인과,logic,conjunction,2,KOR,because,LOGICAL_CONCEPTS,10
+232,인류,entity,noun,2,KOR,people,SUBSTANTIVES,7
+130,인물,entity,noun,2,KOR,someone,SUBSTANTIVES,7
+1085,인상,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,8
+952,인식하다,cognition,verb,2,KOR,know,MENTAL_PREDICATES,5
+2041,인접,spatial,other,2,KOR,near,SPACE,2
+487,일,quantity,determiner,2,KOR,one,QUANTIFIERS,2
+1376,일,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,9
+357,일부,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,6
+554,일부,quantity,determiner,2,KOR,some,QUANTIFIERS,4
+1801,일시적,temporal,other,2,KOR,a short time,TIME,4
+1368,일어나다,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,1
+1831,일정기간,temporal,other,2,KOR,for some time,TIME,7
+423,일치하는,reference,determiner,2,KOR,the same,DETERMINERS,4
+1474,있다,existence,other,2,KOR,there is,LOCATION_EXISTENCE,1
+76,자네,entity,noun,2,KOR,you,SUBSTANTIVES,3
+1450,자리잡다,existence,other,2,KOR,be somewhere,LOCATION_EXISTENCE,7
+36,자신,entity,noun,2,KOR,i,SUBSTANTIVES,5
+38,자아,entity,noun,2,KOR,i,SUBSTANTIVES,7
+1336,작업,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,9
+821,작은,property,adjective,2,KOR,small,DESCRIPTORS,1
+1804,잠깐,temporal,other,2,KOR,a short time,TIME,7
+1800,잠시,temporal,other,2,KOR,a short time,TIME,3
+1829,잠시동안,temporal,other,2,KOR,for some time,TIME,5
+2237,잠재력,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,5
+1773,장구,temporal,other,2,KOR,a long time,TIME,5
+1770,장기,temporal,other,2,KOR,a long time,TIME,2
+1746,장래,temporal,other,2,KOR,after,TIME,8
+1888,장소,spatial,other,2,KOR,where,SPACE,2
+2238,재능,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,6
+1542,재산,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,4
+33,저,entity,noun,2,KOR,i,SUBSTANTIVES,2
+1985,저처,spatial,other,2,KOR,below,SPACE,7
+650,적은,quantity,determiner,2,KOR,little few,QUANTIFIERS,1
+702,적절한,evaluation,adjective,2,KOR,good,EVALUATORS,8
+592,전,quantity,determiner,2,KOR,all,QUANTIFIERS,9
+1372,전개되다,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,5
+585,전부,quantity,determiner,2,KOR,all,QUANTIFIERS,2
+1708,전에,temporal,other,2,KOR,before,TIME,1
+1412,전이하다,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,4
+2307,전제,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,7
+587,전체,quantity,determiner,2,KOR,all,QUANTIFIERS,4
+1544,점유,existence,other,2,KOR,be mine,LOCATION_EXISTENCE,6
+1449,점유하다,existence,other,2,KOR,be somewhere,LOCATION_EXISTENCE,6
+2135,접촉,spatial,other,2,KOR,touch,SPACE,1
+2341,정도,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,8
+1514,정체성,existence,other,2,KOR,be something,LOCATION_EXISTENCE,8
+1290,정확한,communication,verb,2,KOR,true,SPEECH,5
+524,제2,quantity,determiner,2,KOR,two,QUANTIFIERS,6
+35,제가,entity,noun,2,KOR,i,SUBSTANTIVES,4
+353,조각,relation,noun,2,KOR,part,RELATIONAL_SUBSTANTIVES,2
+2303,조건,logic,conjunction,2,KOR,if,LOGICAL_CONCEPTS,3
+131,존재,entity,noun,2,KOR,someone,SUBSTANTIVES,8
+1475,존재,existence,other,2,KOR,there is,LOCATION_EXISTENCE,2
+1509,존재,existence,other,2,KOR,be something,LOCATION_EXISTENCE,3
+1446,존재하다,existence,other,2,KOR,be somewhere,LOCATION_EXISTENCE,3
+1578,존재하다,life,verb,2,KOR,live,LIFE_DEATH,4
+319,종,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,10
+1615,종결,life,verb,2,KOR,die,LIFE_DEATH,5
+310,종류,relation,noun,2,KOR,kind,RELATIONAL_SUBSTANTIVES,1
+695,좋은,evaluation,adjective,2,KOR,good,EVALUATORS,1
+1129,주목하다,cognition,verb,2,KOR,see,MENTAL_PREDICATES,6
+793,주요한,property,adjective,2,KOR,big,DESCRIPTORS,8
+40,주체,entity,noun,2,KOR,i,SUBSTANTIVES,9
+1611,죽다,life,verb,2,KOR,die,LIFE_DEATH,1
+1613,죽음,life,verb,2,KOR,die,LIFE_DEATH,3
+2109,중심,spatial,other,2,KOR,inside,SPACE,7
+794,중요한,property,adjective,2,KOR,big,DESCRIPTORS,9
+1679,즉시,temporal,other,2,KOR,now,TIME,4
+1857,즉시,temporal,other,2,KOR,moment,TIME,4
+2371,증가,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,4
+1081,지각,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,4
+1676,지금,temporal,other,2,KOR,now,TIME,1
+1893,지리,spatial,other,2,KOR,where,SPACE,7
+1772,지속적,temporal,other,2,KOR,a long time,TIME,4
+391,지시,reference,determiner,2,KOR,this,DETERMINERS,5
+949,지식,cognition,verb,2,KOR,know,MENTAL_PREDICATES,2
+1892,지역,spatial,other,2,KOR,where,SPACE,6
+1890,지점,spatial,other,2,KOR,where,SPACE,4
+957,지혜,cognition,verb,2,KOR,know,MENTAL_PREDICATES,10
+1294,진리,communication,verb,2,KOR,true,SPEECH,9
+1217,진술하다,communication,verb,2,KOR,say,SPEECH,4
+1286,진실,communication,verb,2,KOR,true,SPEECH,1
+1293,진정한,communication,verb,2,KOR,true,SPEECH,8
+1289,진짜,communication,verb,2,KOR,true,SPEECH,4
+233,집단,entity,noun,2,KOR,people,SUBSTANTIVES,8
+1859,짧은순간,temporal,other,2,KOR,moment,TIME,6
+1798,짧은시간,temporal,other,2,KOR,a short time,TIME,1
+1855,찰나,temporal,other,2,KOR,moment,TIME,2
+491,첫,quantity,determiner,2,KOR,one,QUANTIFIERS,6
+1167,청각,cognition,verb,2,KOR,hear,MENTAL_PREDICATES,2
+83,청자,entity,noun,2,KOR,you,SUBSTANTIVES,10
+272,체,entity,noun,2,KOR,body,SUBSTANTIVES,4
+278,체격,entity,noun,2,KOR,body,SUBSTANTIVES,10
+2372,초과,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,5
+1082,촉각,cognition,verb,2,KOR,feel,MENTAL_PREDICATES,5
+2137,촉각,spatial,other,2,KOR,touch,SPACE,3
+2141,촉감,spatial,other,2,KOR,touch,SPACE,7
+589,총,quantity,determiner,2,KOR,all,QUANTIFIERS,6
+2369,추가,degree,adverb,2,KOR,more,INTENSIFIER_AUGMENTOR,2
+889,추론하다,cognition,verb,2,KOR,think,MENTAL_PREDICATES,8
+1477,출현,existence,other,2,KOR,there is,LOCATION_EXISTENCE,4
+622,충분한,quantity,determiner,2,KOR,much many,QUANTIFIERS,5
+2176,취소,logic,conjunction,2,KOR,not,LOGICAL_CONCEPTS,8
+2076,측,spatial,other,2,KOR,side,SPACE,6
+2072,측면,spatial,other,2,KOR,side,SPACE,2
+2079,측방,spatial,other,2,KOR,side,SPACE,9
+1619,치명적,life,verb,2,KOR,die,LIFE_DEATH,9
+795,크기,property,adjective,2,KOR,big,DESCRIPTORS,10
+786,큰,property,adjective,2,KOR,big,DESCRIPTORS,1
+956,통찰,cognition,verb,2,KOR,know,MENTAL_PREDICATES,9
+2340,특별히,degree,adverb,2,KOR,very,INTENSIFIER_AUGMENTOR,7
+393,특정한,reference,determiner,2,KOR,this,DETERMINERS,7
+954,파악하다,cognition,verb,2,KOR,know,MENTAL_PREDICATES,7
+1255,표현,communication,verb,2,KOR,words,SPEECH,6
+1216,표현하다,communication,verb,2,KOR,say,SPEECH,3
+620,풍부한,quantity,determiner,2,KOR,much many,QUANTIFIERS,3
+2204,필시,logic,conjunction,2,KOR,maybe,LOGICAL_CONCEPTS,5
+1006,필요,cognition,verb,2,KOR,want,MENTAL_PREDICATES,6
+486,하나,quantity,determiner,2,KOR,one,QUANTIFIERS,1
+1328,하다,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,1
+1983,하단,spatial,other,2,KOR,below,SPACE,5
+1982,하방,spatial,other,2,KOR,below,SPACE,4
+1980,하부,spatial,other,2,KOR,below,SPACE,2
+1825,한동안,temporal,other,2,KOR,for some time,TIME,1
+1860,한순간,temporal,other,2,KOR,moment,TIME,7
+655,한정된,quantity,determiner,2,KOR,little few,QUANTIFIERS,6
+2240,할수있는,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,8
+2233,할수있다,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,1
+427,항상,reference,determiner,2,KOR,the same,DETERMINERS,8
+743,해로운,evaluation,adjective,2,KOR,bad,EVALUATORS,3
+277,해부,entity,noun,2,KOR,body,SUBSTANTIVES,9
+1334,행동,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,7
+1329,행하다,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,2
+2239,허용,logic,conjunction,2,KOR,can,LOGICAL_CONCEPTS,7
+1680,현대,temporal,other,2,KOR,now,TIME,5
+183,현상,entity,noun,2,KOR,something,SUBSTANTIVES,10
+1374,현상,action,verb,2,KOR,happen,ACTIONS_EVENTS_MOVEMENT,7
+1478,현실,existence,other,2,KOR,there is,LOCATION_EXISTENCE,5
+1923,현장,spatial,other,2,KOR,here,SPACE,7
+390,현재,reference,determiner,2,KOR,this,DETERMINERS,4
+1677,현재,temporal,other,2,KOR,now,TIME,2
+1481,현전,existence,other,2,KOR,there is,LOCATION_EXISTENCE,8
+1476,현존,existence,other,2,KOR,there is,LOCATION_EXISTENCE,3
+1920,현지,spatial,other,2,KOR,here,SPACE,4
+274,형체,entity,noun,2,KOR,body,SUBSTANTIVES,6
+1583,호흡,life,verb,2,KOR,live,LIFE_DEATH,9
+2203,혹시,logic,conjunction,2,KOR,maybe,LOGICAL_CONCEPTS,4
+490,홀로,quantity,determiner,2,KOR,one,QUANTIFIERS,5
+1335,활동,action,verb,2,KOR,do,ACTIONS_EVENTS_MOVEMENT,8
+1044,회피,cognition,verb,2,KOR,dont want,MENTAL_PREDICATES,6
+1744,후속,temporal,other,2,KOR,after,TIME,6
+1739,후에,temporal,other,2,KOR,after,TIME,1
+697,훌륭한,evaluation,adjective,2,KOR,good,EVALUATORS,3
+1414,흐르다,action,verb,2,KOR,move,ACTIONS_EVENTS_MOVEMENT,6
+1007,희망,cognition,verb,2,KOR,want,MENTAL_PREDICATES,7
+654,희소한,quantity,determiner,2,KOR,little few,QUANTIFIERS,5
+475,一,quantity,determiner,2,CHN,one,QUANTIFIERS,1
+481,一个,quantity,determiner,2,CHN,one,QUANTIFIERS,7
+541,一些,quantity,determiner,2,CHN,some,QUANTIFIERS,1
+1817,一会儿,temporal,other,2,CHN,for some time,TIME,2
+166,一切,entity,noun,2,CHN,something,SUBSTANTIVES,9
+575,一切,quantity,determiner,2,CHN,all,QUANTIFIERS,3
+1794,一时,temporal,other,2,CHN,a short time,TIME,7
+411,一样,reference,determiner,2,CHN,the same,DETERMINERS,3
+1816,一段时间,temporal,other,2,CHN,for some time,TIME,1
+1850,一瞬,temporal,other,2,CHN,moment,TIME,7
+413,一致,reference,determiner,2,CHN,the same,DETERMINERS,5
+2064,一边,spatial,other,2,CHN,side,SPACE,5
+2296,万一,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,6
+1938,上,spatial,other,2,CHN,above,SPACE,2
+1944,上头,spatial,other,2,CHN,above,SPACE,8
+1939,上方,spatial,other,2,CHN,above,SPACE,3
+1946,上空,spatial,other,2,CHN,above,SPACE,10
+1937,上面,spatial,other,2,CHN,above,SPACE,1
+1969,下,spatial,other,2,CHN,below,SPACE,2
+1975,下头,spatial,other,2,CHN,below,SPACE,8
+1977,下层,spatial,other,2,CHN,below,SPACE,10
+1970,下方,spatial,other,2,CHN,below,SPACE,3
+1968,下面,spatial,other,2,CHN,below,SPACE,1
+2158,不,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,1
+732,不利,evaluation,adjective,2,CHN,bad,EVALUATORS,7
+445,不同,reference,determiner,2,CHN,other,DETERMINERS,4
+727,不好,evaluation,adjective,2,CHN,bad,EVALUATORS,2
+548,不定,quantity,determiner,2,CHN,some,QUANTIFIERS,8
+1036,不情愿,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,8
+1029,不想,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,1
+1030,不愿,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,2
+1031,不要,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,3
+644,不足,quantity,determiner,2,CHN,little few,QUANTIFIERS,6
+159,东西,entity,noun,2,CHN,something,SUBSTANTIVES,2
+509,两,quantity,determiner,2,CHN,two,QUANTIFIERS,2
+512,两个,quantity,determiner,2,CHN,two,QUANTIFIERS,5
+515,两次,quantity,determiner,2,CHN,two,QUANTIFIERS,8
+1607,丧生,life,verb,2,CHN,die,LIFE_DEATH,8
+480,个,quantity,determiner,2,CHN,one,QUANTIFIERS,6
+24,个人,entity,noun,2,CHN,i,SUBSTANTIVES,8
+109,个人,entity,noun,2,CHN,someone,SUBSTANTIVES,3
+2099,中间,spatial,other,2,CHN,inside,SPACE,8
+611,丰富,quantity,determiner,2,CHN,much many,QUANTIFIERS,5
+2033,临近,spatial,other,2,CHN,near,SPACE,5
+1497,为,existence,other,2,CHN,be something,LOCATION_EXISTENCE,2
+25,主体,entity,noun,2,CHN,i,SUBSTANTIVES,9
+1761,久,temporal,other,2,CHN,a long time,TIME,3
+2005,久远,spatial,other,2,CHN,far,SPACE,7
+1940,之上,spatial,other,2,CHN,above,SPACE,4
+1971,之下,spatial,other,2,CHN,below,SPACE,4
+1697,之前,temporal,other,2,CHN,before,TIME,1
+1728,之后,temporal,other,2,CHN,after,TIME,1
+2190,也许,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,1
+931,了解,cognition,verb,2,CHN,know,MENTAL_PREDICATES,3
+1361,事件,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,6
+1277,事实,communication,verb,2,CHN,true,SPEECH,3
+164,事情,entity,noun,2,CHN,something,SUBSTANTIVES,7
+1364,事情,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,9
+161,事物,entity,noun,2,CHN,something,SUBSTANTIVES,4
+508,二,quantity,determiner,2,CHN,two,QUANTIFIERS,1
+514,二元,quantity,determiner,2,CHN,two,QUANTIFIERS,7
+1537,产权,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,9
+1358,产生,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,3
+108,人,entity,noun,2,CHN,someone,SUBSTANTIVES,2
+112,人们,entity,noun,2,CHN,someone,SUBSTANTIVES,6
+210,人们,entity,noun,2,CHN,people,SUBSTANTIVES,1
+115,人士,entity,noun,2,CHN,someone,SUBSTANTIVES,9
+116,人格,entity,noun,2,CHN,someone,SUBSTANTIVES,10
+114,人物,entity,noun,2,CHN,someone,SUBSTANTIVES,8
+110,人类,entity,noun,2,CHN,someone,SUBSTANTIVES,4
+217,人类,entity,noun,2,CHN,people,SUBSTANTIVES,8
+211,人群,entity,noun,2,CHN,people,SUBSTANTIVES,2
+1633,什么时候,temporal,other,2,CHN,when,TIME,1
+1673,今,temporal,other,2,CHN,now,TIME,9
+1700,从前,temporal,other,2,CHN,before,TIME,4
+1941,以上,spatial,other,2,CHN,above,SPACE,5
+1972,以下,spatial,other,2,CHN,below,SPACE,5
+1698,以前,temporal,other,2,CHN,before,TIME,2
+1729,以后,temporal,other,2,CHN,after,TIME,2
+165,任何事,entity,noun,2,CHN,something,SUBSTANTIVES,8
+111,任何人,entity,noun,2,CHN,someone,SUBSTANTIVES,5
+2397,仿佛,comparison,other,2,CHN,like,SIMILARITY,6
+616,众,quantity,determiner,2,CHN,much many,QUANTIFIERS,10
+610,众多,quantity,determiner,2,CHN,much many,QUANTIFIERS,4
+681,优秀,evaluation,adjective,2,CHN,good,EVALUATORS,3
+686,优良,evaluation,adjective,2,CHN,good,EVALUATORS,8
+688,优质,evaluation,adjective,2,CHN,good,EVALUATORS,10
+1434,位于,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,2
+1404,位移,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,9
+1878,位置,spatial,other,2,CHN,where,SPACE,3
+1973,低于,spatial,other,2,CHN,below,SPACE,6
+259,体,entity,noun,2,CHN,body,SUBSTANTIVES,4
+262,体格,entity,noun,2,CHN,body,SUBSTANTIVES,7
+21,余,entity,noun,2,CHN,i,SUBSTANTIVES,5
+60,你,entity,noun,2,CHN,you,SUBSTANTIVES,1
+62,你们,entity,noun,2,CHN,you,SUBSTANTIVES,3
+63,你的,entity,noun,2,CHN,you,SUBSTANTIVES,4
+2060,侧,spatial,other,2,CHN,side,SPACE,1
+2068,侧旁,spatial,other,2,CHN,side,SPACE,9
+2067,侧边,spatial,other,2,CHN,side,SPACE,8
+2063,侧面,spatial,other,2,CHN,side,SPACE,4
+517,俩,quantity,determiner,2,CHN,two,QUANTIFIERS,10
+22,俺,entity,noun,2,CHN,i,SUBSTANTIVES,6
+2295,倘若,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,5
+2292,假如,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,2
+2299,假定,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,9
+2294,假设,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,4
+2004,偏远,spatial,other,2,CHN,far,SPACE,6
+1314,做,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,1
+1438,停留,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,6
+2392,像,comparison,other,2,CHN,like,SIMILARITY,1
+2231,允许,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,10
+612,充足,quantity,determiner,2,CHN,much many,QUANTIFIERS,6
+1699,先前,temporal,other,2,CHN,before,TIME,3
+582,全,quantity,determiner,2,CHN,all,QUANTIFIERS,10
+573,全部,quantity,determiner,2,CHN,all,QUANTIFIERS,1
+218,公民,entity,noun,2,CHN,people,SUBSTANTIVES,9
+2197,兴许,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,8
+442,其他,reference,determiner,2,CHN,other,DETERMINERS,1
+447,其余,reference,determiner,2,CHN,other,DETERMINERS,6
+1734,其后,temporal,other,2,CHN,after,TIME,7
+448,其它,reference,determiner,2,CHN,other,DETERMINERS,7
+1467,具有,existence,other,2,CHN,there is,LOCATION_EXISTENCE,5
+2094,内,spatial,other,2,CHN,inside,SPACE,3
+2095,内侧,spatial,other,2,CHN,inside,SPACE,4
+2098,内在,spatial,other,2,CHN,inside,SPACE,7
+2097,内心,spatial,other,2,CHN,inside,SPACE,6
+2093,内部,spatial,other,2,CHN,inside,SPACE,2
+2101,内里,spatial,other,2,CHN,inside,SPACE,10
+1282,准确,communication,verb,2,CHN,true,SPEECH,8
+543,几个,quantity,determiner,2,CHN,some,QUANTIFIERS,3
+1357,出现,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,2
+1466,出现,existence,other,2,CHN,there is,LOCATION_EXISTENCE,4
+347,分,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,9
+450,分开,reference,determiner,2,CHN,other,DETERMINERS,9
+1851,分秒,temporal,other,2,CHN,moment,TIME,8
+305,分类,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,9
+444,别的,reference,determiner,2,CHN,other,DETERMINERS,3
+1795,刹那,temporal,other,2,CHN,a short time,TIME,8
+1846,刹那,temporal,other,2,CHN,moment,TIME,3
+1702,前,temporal,other,2,CHN,before,TIME,6
+2298,前提,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,8
+1401,前进,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,6
+1706,前面,temporal,other,2,CHN,before,TIME,10
+2365,加,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,9
+994,动机,cognition,verb,2,CHN,want,MENTAL_PREDICATES,10
+2260,动机,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,5
+417,匹配,reference,determiner,2,CHN,the same,DETERMINERS,9
+1882,区域,spatial,other,2,CHN,where,SPACE,7
+2326,十分,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,4
+476,单一,quantity,determiner,2,CHN,one,QUANTIFIERS,2
+479,单个,quantity,determiner,2,CHN,one,QUANTIFIERS,5
+483,单独,quantity,determiner,2,CHN,one,QUANTIFIERS,9
+1439,占据,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,7
+1534,占有,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,6
+1073,印象,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,9
+1037,厌恶,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,9
+2257,原因,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,2
+1602,去世,life,verb,2,CHN,die,LIFE_DEATH,3
+510,双,quantity,determiner,2,CHN,two,QUANTIFIERS,3
+1033,反对,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,5
+2166,反对,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,9
+1117,发现,cognition,verb,2,CHN,see,MENTAL_PREDICATES,8
+1356,发生,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,1
+1207,发音,communication,verb,2,CHN,say,SPEECH,9
+2167,取消,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,10
+69,受话人,entity,noun,2,CHN,you,SUBSTANTIVES,10
+1208,叙述,communication,verb,2,CHN,say,SPEECH,10
+446,另一,reference,determiner,2,CHN,other,DETERMINERS,5
+443,另外,reference,determiner,2,CHN,other,DETERMINERS,2
+2359,另外,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,3
+449,另类,reference,determiner,2,CHN,other,DETERMINERS,8
+2223,可以,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,2
+2191,可能,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,2
+2227,可能,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,6
+2194,可能性,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,5
+613,可观,quantity,determiner,2,CHN,much many,QUANTIFIERS,7
+780,可观,property,adjective,2,CHN,big,DESCRIPTORS,10
+451,各种,reference,determiner,2,CHN,other,DETERMINERS,10
+414,同一,reference,determiner,2,CHN,the same,DETERMINERS,6
+409,同样,reference,determiner,2,CHN,the same,DETERMINERS,1
+2395,同样,comparison,other,2,CHN,like,SIMILARITY,4
+1733,后,temporal,other,2,CHN,after,TIME,6
+1730,后来,temporal,other,2,CHN,after,TIME,3
+1736,后面,temporal,other,2,CHN,after,TIME,9
+2160,否定,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,3
+2161,否认,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,4
+1153,听,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,1
+68,听者,entity,noun,2,CHN,you,SUBSTANTIVES,9
+1154,听见,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,2
+1156,听觉,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,4
+20,吾,entity,noun,2,CHN,i,SUBSTANTIVES,4
+1468,呈现,existence,other,2,CHN,there is,LOCATION_EXISTENCE,6
+1201,告诉,communication,verb,2,CHN,say,SPEECH,3
+2037,周围,spatial,other,2,CHN,near,SPACE,9
+1572,呼吸,life,verb,2,CHN,live,LIFE_DEATH,10
+23,咱,entity,noun,2,CHN,i,SUBSTANTIVES,7
+300,品种,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,4
+1876,哪里,spatial,other,2,CHN,where,SPACE,1
+477,唯一,quantity,determiner,2,CHN,one,QUANTIFIERS,3
+687,善良,evaluation,adjective,2,CHN,good,EVALUATORS,9
+1735,嗣后,temporal,other,2,CHN,after,TIME,8
+1162,噪音,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,10
+1035,回避,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,7
+2256,因为,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,1
+2265,因素,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,10
+219,国民,entity,noun,2,CHN,people,SUBSTANTIVES,10
+1465,在,existence,other,2,CHN,there is,LOCATION_EXISTENCE,3
+1472,在场,existence,other,2,CHN,there is,LOCATION_EXISTENCE,10
+1915,在场,spatial,other,2,CHN,here,SPACE,9
+1433,在某处,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,1
+1976,地下,spatial,other,2,CHN,below,SPACE,9
+1883,地域,spatial,other,2,CHN,where,SPACE,8
+1885,地带,spatial,other,2,CHN,where,SPACE,10
+1877,地方,spatial,other,2,CHN,where,SPACE,2
+1879,地点,spatial,other,2,CHN,where,SPACE,4
+1884,地理,spatial,other,2,CHN,where,SPACE,9
+1637,场合,temporal,other,2,CHN,when,TIME,5
+1880,场所,spatial,other,2,CHN,where,SPACE,5
+726,坏,evaluation,adjective,2,CHN,bad,EVALUATORS,1
+1441,坐落,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,9
+2361,增加,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,5
+1204,声明,communication,verb,2,CHN,say,SPEECH,6
+1155,声音,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,3
+1435,处于,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,3
+2364,多余,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,8
+615,多数,quantity,determiner,2,CHN,much many,QUANTIFIERS,9
+771,大,property,adjective,2,CHN,big,DESCRIPTORS,1
+215,大众,entity,noun,2,CHN,people,SUBSTANTIVES,6
+2193,大概,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,4
+609,大量,quantity,determiner,2,CHN,much many,QUANTIFIERS,3
+679,好,evaluation,adjective,2,CHN,good,EVALUATORS,1
+2396,好像,comparison,other,2,CHN,like,SIMILARITY,5
+1666,如今,temporal,other,2,CHN,now,TIME,2
+2291,如果,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,1
+1248,字,communication,verb,2,CHN,words,SPEECH,10
+1464,存在,existence,other,2,CHN,there is,LOCATION_EXISTENCE,2
+1498,存在,existence,other,2,CHN,be something,LOCATION_EXISTENCE,3
+1566,存在,life,verb,2,CHN,live,LIFE_DEATH,4
+1436,存在于,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,4
+484,孤独,quantity,determiner,2,CHN,one,QUANTIFIERS,10
+578,完全,quantity,determiner,2,CHN,all,QUANTIFIERS,6
+1318,完成,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,5
+1501,实体,existence,other,2,CHN,be something,LOCATION_EXISTENCE,6
+1471,实在,existence,other,2,CHN,there is,LOCATION_EXISTENCE,9
+1469,实存,existence,other,2,CHN,there is,LOCATION_EXISTENCE,7
+1317,实施,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,4
+1320,实践,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,7
+1278,实际,communication,verb,2,CHN,true,SPEECH,4
+2198,容或,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,9
+774,宽大,property,adjective,2,CHN,big,DESCRIPTORS,4
+936,察觉,cognition,verb,2,CHN,know,MENTAL_PREDICATES,8
+1159,察觉,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,7
+647,寥寥,quantity,determiner,2,CHN,little few,QUANTIFIERS,9
+511,对,quantity,determiner,2,CHN,two,QUANTIFIERS,4
+67,对方,entity,noun,2,CHN,you,SUBSTANTIVES,8
+1732,将来,temporal,other,2,CHN,after,TIME,5
+810,小,property,adjective,2,CHN,small,DESCRIPTORS,1
+639,少,quantity,determiner,2,CHN,little few,QUANTIFIERS,1
+642,少量,quantity,determiner,2,CHN,little few,QUANTIFIERS,4
+815,少量,property,adjective,2,CHN,small,DESCRIPTORS,6
+65,尔,entity,noun,2,CHN,you,SUBSTANTIVES,6
+1914,就地,spatial,other,2,CHN,here,SPACE,8
+344,局部,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,6
+1437,居住,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,5
+1569,居住,life,verb,2,CHN,live,LIFE_DEATH,7
+1360,展开,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,5
+302,属,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,6
+1529,属于我,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,1
+772,巨大,property,adjective,2,CHN,big,DESCRIPTORS,2
+728,差,evaluation,adjective,2,CHN,bad,EVALUATORS,3
+987,希望,cognition,verb,2,CHN,want,MENTAL_PREDICATES,3
+775,广大,property,adjective,2,CHN,big,DESCRIPTORS,5
+1974,底部,spatial,other,2,CHN,below,SPACE,7
+773,庞大,property,adjective,2,CHN,big,DESCRIPTORS,3
+2332,强度,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,10
+1535,归属,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,7
+1536,归我,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,8
+1671,当下,temporal,other,2,CHN,now,TIME,7
+1852,当下,temporal,other,2,CHN,moment,TIME,9
+381,当前,reference,determiner,2,CHN,this,DETERMINERS,6
+1667,当前,temporal,other,2,CHN,now,TIME,3
+1913,当地,spatial,other,2,CHN,here,SPACE,7
+261,形体,entity,noun,2,CHN,body,SUBSTANTIVES,6
+1359,形成,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,4
+1705,往昔,temporal,other,2,CHN,before,TIME,9
+2323,很,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,1
+608,很多,quantity,determiner,2,CHN,much many,QUANTIFIERS,2
+641,很少,quantity,determiner,2,CHN,little few,QUANTIFIERS,3
+1759,很长时间,temporal,other,2,CHN,a long time,TIME,1
+818,微不足道,property,adjective,2,CHN,small,DESCRIPTORS,9
+813,微型,property,adjective,2,CHN,small,DESCRIPTORS,4
+811,微小,property,adjective,2,CHN,small,DESCRIPTORS,2
+643,微量,quantity,determiner,2,CHN,little few,QUANTIFIERS,5
+1072,心情,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,8
+865,心想,cognition,verb,2,CHN,think,MENTAL_PREDICATES,9
+993,志向,cognition,verb,2,CHN,want,MENTAL_PREDICATES,9
+864,思想,cognition,verb,2,CHN,think,MENTAL_PREDICATES,8
+862,思索,cognition,verb,2,CHN,think,MENTAL_PREDICATES,6
+863,思维,cognition,verb,2,CHN,think,MENTAL_PREDICATES,7
+858,思考,cognition,verb,2,CHN,think,MENTAL_PREDICATES,2
+301,性质,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,5
+1500,性质,existence,other,2,CHN,be something,LOCATION_EXISTENCE,5
+579,总,quantity,determiner,2,CHN,all,QUANTIFIERS,7
+418,恒定,reference,determiner,2,CHN,the same,DETERMINERS,10
+729,恶劣,evaluation,adjective,2,CHN,bad,EVALUATORS,4
+1767,悠久,temporal,other,2,CHN,a long time,TIME,9
+61,您,entity,noun,2,CHN,you,SUBSTANTIVES,2
+1363,情况,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,8
+2297,情况,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,7
+1067,情感,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,3
+1071,情绪,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,7
+857,想,cognition,verb,2,CHN,think,MENTAL_PREDICATES,1
+985,想要,cognition,verb,2,CHN,want,MENTAL_PREDICATES,1
+992,意愿,cognition,verb,2,CHN,want,MENTAL_PREDICATES,8
+26,意识,entity,noun,2,CHN,i,SUBSTANTIVES,10
+1070,意识,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,6
+935,意识到,cognition,verb,2,CHN,know,MENTAL_PREDICATES,7
+1066,感受,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,2
+1065,感觉,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,1
+2130,感触,spatial,other,2,CHN,touch,SPACE,7
+990,愿望,cognition,verb,2,CHN,want,MENTAL_PREDICATES,6
+938,懂得,cognition,verb,2,CHN,know,MENTAL_PREDICATES,10
+341,成分,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,3
+516,成对,quantity,determiner,2,CHN,two,QUANTIFIERS,9
+17,我,entity,noun,2,CHN,i,SUBSTANTIVES,1
+1530,我的,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,2
+2192,或许,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,3
+574,所有,quantity,determiner,2,CHN,all,QUANTIFIERS,2
+1532,所有,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,4
+2132,手感,spatial,other,2,CHN,touch,SPACE,9
+2230,才能,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,9
+1316,执行,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,3
+1034,抗拒,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,6
+1032,拒绝,cognition,verb,2,CHN,dont want,MENTAL_PREDICATES,4
+2162,拒绝,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,5
+1531,拥有,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,3
+1764,持久,temporal,other,2,CHN,a long time,TIME,6
+384,指示,reference,determiner,2,CHN,this,DETERMINERS,9
+2125,接触,spatial,other,2,CHN,touch,SPACE,2
+2034,接近,spatial,other,2,CHN,near,SPACE,6
+1245,措辞,communication,verb,2,CHN,words,SPEECH,7
+1205,提及,communication,verb,2,CHN,say,SPEECH,7
+2128,摸,spatial,other,2,CHN,touch,SPACE,5
+1321,操作,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,8
+1074,敏感,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,10
+549,数个,quantity,determiner,2,CHN,some,QUANTIFIERS,9
+614,数量,quantity,determiner,2,CHN,much many,QUANTIFIERS,8
+577,整个,quantity,determiner,2,CHN,all,QUANTIFIERS,5
+2065,方面,spatial,other,2,CHN,side,SPACE,6
+2061,旁边,spatial,other,2,CHN,side,SPACE,2
+306,族,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,10
+2165,无,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,8
+1703,早先,temporal,other,2,CHN,before,TIME,7
+1639,时候,temporal,other,2,CHN,when,TIME,7
+1635,时刻,temporal,other,2,CHN,when,TIME,3
+1844,时刻,temporal,other,2,CHN,moment,TIME,1
+1819,时期,temporal,other,2,CHN,for some time,TIME,4
+1636,时机,temporal,other,2,CHN,when,TIME,4
+1640,时段,temporal,other,2,CHN,when,TIME,8
+1822,时段,temporal,other,2,CHN,for some time,TIME,7
+1634,时间,temporal,other,2,CHN,when,TIME,2
+1641,时间性,temporal,other,2,CHN,when,TIME,9
+933,明白,cognition,verb,2,CHN,know,MENTAL_PREDICATES,5
+1496,是,existence,other,2,CHN,be something,LOCATION_EXISTENCE,1
+779,显著,property,adjective,2,CHN,big,DESCRIPTORS,9
+1791,暂时,temporal,other,2,CHN,a short time,TIME,4
+1818,暂时,temporal,other,2,CHN,for some time,TIME,3
+2357,更,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,1
+2358,更多,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,2
+1704,曾经,temporal,other,2,CHN,before,TIME,8
+1463,有,existence,other,2,CHN,there is,LOCATION_EXISTENCE,1
+730,有害,evaluation,adjective,2,CHN,bad,EVALUATORS,5
+1571,有机体,life,verb,2,CHN,live,LIFE_DEATH,9
+546,有的,quantity,determiner,2,CHN,some,QUANTIFIERS,6
+683,有益,evaluation,adjective,2,CHN,good,EVALUATORS,5
+2226,有能力,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,5
+645,有限,quantity,determiner,2,CHN,little few,QUANTIFIERS,7
+991,期望,cognition,verb,2,CHN,want,MENTAL_PREDICATES,7
+1638,期间,temporal,other,2,CHN,when,TIME,6
+1820,期间,temporal,other,2,CHN,for some time,TIME,5
+2195,未必,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,6
+1737,未来,temporal,other,2,CHN,after,TIME,10
+380,本,reference,determiner,2,CHN,this,DETERMINERS,5
+19,本人,entity,noun,2,CHN,i,SUBSTANTIVES,3
+1912,本地,spatial,other,2,CHN,here,SPACE,6
+1505,本性,existence,other,2,CHN,be something,LOCATION_EXISTENCE,10
+1499,本质,existence,other,2,CHN,be something,LOCATION_EXISTENCE,4
+2229,本领,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,8
+1247,术语,communication,verb,2,CHN,words,SPEECH,9
+2293,条件,logic,conjunction,2,CHN,if,LOGICAL_CONCEPTS,3
+2325,极其,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,3
+2330,极度,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,8
+158,某事,entity,noun,2,CHN,something,SUBSTANTIVES,1
+542,某些,quantity,determiner,2,CHN,some,QUANTIFIERS,2
+107,某人,entity,noun,2,CHN,someone,SUBSTANTIVES,1
+547,某种,quantity,determiner,2,CHN,some,QUANTIFIERS,7
+2100,核心,spatial,other,2,CHN,inside,SPACE,9
+2261,根据,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,6
+2329,格外,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,7
+1118,检查,cognition,verb,2,CHN,see,MENTAL_PREDICATES,9
+2069,横侧,spatial,other,2,CHN,side,SPACE,10
+986,欲望,cognition,verb,2,CHN,want,MENTAL_PREDICATES,2
+1281,正确,communication,verb,2,CHN,true,SPEECH,7
+684,正面,evaluation,adjective,2,CHN,good,EVALUATORS,6
+378,此,reference,determiner,2,CHN,this,DETERMINERS,3
+1668,此刻,temporal,other,2,CHN,now,TIME,4
+1909,此地,spatial,other,2,CHN,here,SPACE,3
+1908,此处,spatial,other,2,CHN,here,SPACE,2
+1672,此时,temporal,other,2,CHN,now,TIME,8
+1911,此间,spatial,other,2,CHN,here,SPACE,5
+1600,死,life,verb,2,CHN,die,LIFE_DEATH,1
+1601,死亡,life,verb,2,CHN,die,LIFE_DEATH,2
+1608,死者,life,verb,2,CHN,die,LIFE_DEATH,9
+348,段,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,10
+576,每个,quantity,determiner,2,CHN,all,QUANTIFIERS,4
+213,民众,entity,noun,2,CHN,people,SUBSTANTIVES,4
+64,汝,entity,noun,2,CHN,you,SUBSTANTIVES,5
+1206,沟通,communication,verb,2,CHN,say,SPEECH,8
+2159,没有,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,2
+1116,注意,cognition,verb,2,CHN,see,MENTAL_PREDICATES,7
+1563,活,life,verb,2,CHN,live,LIFE_DEATH,1
+1323,活动,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,10
+1568,活着,life,verb,2,CHN,live,LIFE_DEATH,6
+1402,流动,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,7
+776,浩大,property,adjective,2,CHN,big,DESCRIPTORS,6
+1605,消亡,life,verb,2,CHN,die,LIFE_DEATH,6
+988,渴望,cognition,verb,2,CHN,want,MENTAL_PREDICATES,4
+816,渺小,property,adjective,2,CHN,small,DESCRIPTORS,7
+2228,潜力,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,7
+1606,灭亡,life,verb,2,CHN,die,LIFE_DEATH,7
+937,熟悉,cognition,verb,2,CHN,know,MENTAL_PREDICATES,9
+1789,片刻,temporal,other,2,CHN,a short time,TIME,2
+1847,片刻,temporal,other,2,CHN,moment,TIME,4
+1823,片时,temporal,other,2,CHN,for some time,TIME,8
+343,片段,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,5
+160,物,entity,noun,2,CHN,something,SUBSTANTIVES,3
+162,物体,entity,noun,2,CHN,something,SUBSTANTIVES,5
+163,物质,entity,noun,2,CHN,something,SUBSTANTIVES,6
+263,物质,entity,noun,2,CHN,body,SUBSTANTIVES,8
+2327,特别,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,5
+385,特定,reference,determiner,2,CHN,this,DETERMINERS,10
+1504,特性,existence,other,2,CHN,be something,LOCATION_EXISTENCE,9
+1365,状况,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,10
+1502,状态,existence,other,2,CHN,be something,LOCATION_EXISTENCE,7
+478,独一,quantity,determiner,2,CHN,one,QUANTIFIERS,4
+1665,现在,temporal,other,2,CHN,now,TIME,1
+1470,现实,existence,other,2,CHN,there is,LOCATION_EXISTENCE,8
+1674,现时,temporal,other,2,CHN,now,TIME,10
+167,现象,entity,noun,2,CHN,something,SUBSTANTIVES,10
+1362,现象,action,verb,2,CHN,happen,ACTIONS_EVENTS_MOVEMENT,7
+2258,理由,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,3
+932,理解,cognition,verb,2,CHN,know,MENTAL_PREDICATES,4
+866,琢磨,cognition,verb,2,CHN,think,MENTAL_PREDICATES,10
+113,生命,entity,noun,2,CHN,someone,SUBSTANTIVES,7
+1565,生命,life,verb,2,CHN,live,LIFE_DEATH,3
+1567,生存,life,verb,2,CHN,live,LIFE_DEATH,5
+1564,生活,life,verb,2,CHN,live,LIFE_DEATH,2
+1570,生物,life,verb,2,CHN,live,LIFE_DEATH,8
+264,生理,entity,noun,2,CHN,body,SUBSTANTIVES,9
+1244,用语,communication,verb,2,CHN,words,SPEECH,6
+1442,留,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,10
+214,百姓,entity,noun,2,CHN,people,SUBSTANTIVES,5
+581,皆,quantity,determiner,2,CHN,all,QUANTIFIERS,9
+304,目,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,8
+1670,目前,temporal,other,2,CHN,now,TIME,6
+2263,目的,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,8
+1115,目睹,cognition,verb,2,CHN,see,MENTAL_PREDICATES,6
+2398,相仿,comparison,other,2,CHN,like,SIMILARITY,7
+2393,相似,comparison,other,2,CHN,like,SIMILARITY,2
+2400,相似性,comparison,other,2,CHN,like,SIMILARITY,9
+860,相信,cognition,verb,2,CHN,think,MENTAL_PREDICATES,4
+2163,相反,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,6
+410,相同,reference,determiner,2,CHN,the same,DETERMINERS,2
+2328,相当,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,6
+2399,相当,comparison,other,2,CHN,like,SIMILARITY,8
+416,相等,reference,determiner,2,CHN,the same,DETERMINERS,8
+1110,看,cognition,verb,2,CHN,see,MENTAL_PREDICATES,1
+1111,看见,cognition,verb,2,CHN,see,MENTAL_PREDICATES,2
+1275,真,communication,verb,2,CHN,true,SPEECH,1
+1276,真实,communication,verb,2,CHN,true,SPEECH,2
+1280,真理,communication,verb,2,CHN,true,SPEECH,6
+1279,真相,communication,verb,2,CHN,true,SPEECH,5
+1284,真诚,communication,verb,2,CHN,true,SPEECH,10
+1669,眼下,temporal,other,2,CHN,now,TIME,5
+382,眼前,reference,determiner,2,CHN,this,DETERMINERS,7
+1790,瞬间,temporal,other,2,CHN,a short time,TIME,3
+1845,瞬间,temporal,other,2,CHN,moment,TIME,2
+1068,知觉,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,4
+930,知识,cognition,verb,2,CHN,know,MENTAL_PREDICATES,2
+929,知道,cognition,verb,2,CHN,know,MENTAL_PREDICATES,1
+1788,短时间,temporal,other,2,CHN,a short time,TIME,1
+1792,短暂,temporal,other,2,CHN,a short time,TIME,5
+1793,短期,temporal,other,2,CHN,a short time,TIME,6
+2127,碰,spatial,other,2,CHN,touch,SPACE,4
+216,社会,entity,noun,2,CHN,people,SUBSTANTIVES,7
+297,种类,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,1
+303,科,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,7
+685,积极,evaluation,adjective,2,CHN,good,EVALUATORS,7
+1396,移动,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,1
+640,稀少,quantity,determiner,2,CHN,little few,QUANTIFIERS,2
+2331,程度,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,9
+1881,空间,spatial,other,2,CHN,where,SPACE,6
+513,第二,quantity,determiner,2,CHN,two,QUANTIFIERS,6
+66,第二人称,entity,noun,2,CHN,you,SUBSTANTIVES,7
+415,等价,reference,determiner,2,CHN,the same,DETERMINERS,7
+412,等同,reference,determiner,2,CHN,the same,DETERMINERS,4
+2394,类似,comparison,other,2,CHN,like,SIMILARITY,3
+299,类别,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,3
+298,类型,relation,noun,2,CHN,kind,RELATIONAL_SUBSTANTIVES,2
+2401,类比,comparison,other,2,CHN,like,SIMILARITY,10
+342,组成,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,4
+812,细小,property,adjective,2,CHN,small,DESCRIPTORS,3
+817,细微,property,adjective,2,CHN,small,DESCRIPTORS,8
+1604,终结,life,verb,2,CHN,die,LIFE_DEATH,5
+1765,绵长,temporal,other,2,CHN,a long time,TIME,7
+2259,缘故,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,4
+646,缺乏,quantity,determiner,2,CHN,little few,QUANTIFIERS,8
+2164,缺乏,logic,conjunction,2,CHN,not,LOGICAL_CONCEPTS,7
+735,缺陷,evaluation,adjective,2,CHN,bad,EVALUATORS,10
+648,罕见,quantity,determiner,2,CHN,little few,QUANTIFIERS,10
+682,美好,evaluation,adjective,2,CHN,good,EVALUATORS,4
+212,群众,entity,noun,2,CHN,people,SUBSTANTIVES,3
+861,考虑,cognition,verb,2,CHN,think,MENTAL_PREDICATES,5
+1158,耳朵,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,6
+1160,聆听,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,8
+257,肉体,entity,noun,2,CHN,body,SUBSTANTIVES,2
+2222,能,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,1
+2224,能力,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,3
+2225,能够,logic,conjunction,2,CHN,can,LOGICAL_CONCEPTS,4
+18,自己,entity,noun,2,CHN,i,SUBSTANTIVES,2
+1609,致命,life,verb,2,CHN,die,LIFE_DEATH,10
+680,良好,evaluation,adjective,2,CHN,good,EVALUATORS,2
+544,若干,quantity,determiner,2,CHN,some,QUANTIFIERS,4
+1322,行为,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,9
+1315,行动,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,2
+1405,行走,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,10
+1400,行进,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,5
+1202,表达,communication,verb,2,CHN,say,SPEECH,4
+819,袖珍,property,adjective,2,CHN,small,DESCRIPTORS,10
+345,要素,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,7
+1113,观察,cognition,verb,2,CHN,see,MENTAL_PREDICATES,4
+1114,观看,cognition,verb,2,CHN,see,MENTAL_PREDICATES,5
+1119,视力,cognition,verb,2,CHN,see,MENTAL_PREDICATES,10
+1112,视觉,cognition,verb,2,CHN,see,MENTAL_PREDICATES,3
+265,解剖,entity,noun,2,CHN,body,SUBSTANTIVES,10
+2262,解释,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,7
+2124,触,spatial,other,2,CHN,touch,SPACE,1
+2131,触及,spatial,other,2,CHN,touch,SPACE,8
+2133,触感,spatial,other,2,CHN,touch,SPACE,10
+2126,触摸,spatial,other,2,CHN,touch,SPACE,3
+1069,触觉,cognition,verb,2,CHN,feel,MENTAL_PREDICATES,5
+2129,触觉,spatial,other,2,CHN,touch,SPACE,6
+1246,言辞,communication,verb,2,CHN,words,SPEECH,8
+859,认为,cognition,verb,2,CHN,think,MENTAL_PREDICATES,3
+934,认识,cognition,verb,2,CHN,know,MENTAL_PREDICATES,6
+1200,讲,communication,verb,2,CHN,say,SPEECH,2
+607,许多,quantity,determiner,2,CHN,much many,QUANTIFIERS,1
+1239,词,communication,verb,2,CHN,words,SPEECH,1
+1243,词汇,communication,verb,2,CHN,words,SPEECH,5
+1240,词语,communication,verb,2,CHN,words,SPEECH,2
+1283,诚实,communication,verb,2,CHN,true,SPEECH,9
+1241,话,communication,verb,2,CHN,words,SPEECH,3
+1242,语言,communication,verb,2,CHN,words,SPEECH,4
+1199,说,communication,verb,2,CHN,say,SPEECH,1
+2196,说不定,logic,conjunction,2,CHN,maybe,LOGICAL_CONCEPTS,7
+731,负面,evaluation,adjective,2,CHN,bad,EVALUATORS,6
+1533,财产,existence,other,2,CHN,be mine,LOCATION_EXISTENCE,5
+2038,贴近,spatial,other,2,CHN,near,SPACE,10
+2264,起源,logic,conjunction,2,CHN,because,LOGICAL_CONCEPTS,9
+2363,超过,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,7
+2003,距离远,spatial,other,2,CHN,far,SPACE,5
+1503,身份,existence,other,2,CHN,be something,LOCATION_EXISTENCE,8
+256,身体,entity,noun,2,CHN,body,SUBSTANTIVES,1
+260,身躯,entity,noun,2,CHN,body,SUBSTANTIVES,5
+258,躯体,entity,noun,2,CHN,body,SUBSTANTIVES,3
+1398,转移,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,3
+814,轻微,property,adjective,2,CHN,small,DESCRIPTORS,5
+2062,边,spatial,other,2,CHN,side,SPACE,3
+2066,边缘,spatial,other,2,CHN,side,SPACE,7
+2006,辽远,spatial,other,2,CHN,far,SPACE,8
+777,辽阔,property,adjective,2,CHN,big,DESCRIPTORS,7
+1399,迁移,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,4
+1701,过去,temporal,other,2,CHN,before,TIME,5
+1397,运动,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,2
+1403,运输,action,verb,2,CHN,move,ACTIONS_EVENTS_MOVEMENT,8
+2029,近,spatial,other,2,CHN,near,SPACE,1
+383,近处,reference,determiner,2,CHN,this,DETERMINERS,8
+2035,近处,spatial,other,2,CHN,near,SPACE,7
+2036,近旁,spatial,other,2,CHN,near,SPACE,8
+376,这,reference,determiner,2,CHN,this,DETERMINERS,1
+377,这个,reference,determiner,2,CHN,this,DETERMINERS,2
+379,这些,reference,determiner,2,CHN,this,DETERMINERS,4
+1910,这儿,spatial,other,2,CHN,here,SPACE,4
+1907,这里,spatial,other,2,CHN,here,SPACE,1
+2366,进一步,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,10
+1319,进行,action,verb,2,CHN,do,ACTIONS_EVENTS_MOVEMENT,6
+1999,远,spatial,other,2,CHN,far,SPACE,1
+2001,远处,spatial,other,2,CHN,far,SPACE,3
+2002,远方,spatial,other,2,CHN,far,SPACE,4
+2007,远离,spatial,other,2,CHN,far,SPACE,9
+1603,逝世,life,verb,2,CHN,die,LIFE_DEATH,4
+2000,遥远,spatial,other,2,CHN,far,SPACE,2
+734,邪恶,evaluation,adjective,2,CHN,bad,EVALUATORS,9
+2032,邻近,spatial,other,2,CHN,near,SPACE,4
+340,部件,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,2
+339,部分,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,1
+545,部分,quantity,determiner,2,CHN,some,QUANTIFIERS,5
+580,都,quantity,determiner,2,CHN,all,QUANTIFIERS,8
+2096,里头,spatial,other,2,CHN,inside,SPACE,5
+2092,里面,spatial,other,2,CHN,inside,SPACE,1
+778,重大,property,adjective,2,CHN,big,DESCRIPTORS,8
+733,错误,evaluation,adjective,2,CHN,bad,EVALUATORS,8
+1760,长久,temporal,other,2,CHN,a long time,TIME,2
+1763,长时间,temporal,other,2,CHN,a long time,TIME,5
+1762,长期,temporal,other,2,CHN,a long time,TIME,4
+1766,长远,temporal,other,2,CHN,a long time,TIME,8
+1821,阶段,temporal,other,2,CHN,for some time,TIME,6
+2362,附加,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,6
+2030,附近,spatial,other,2,CHN,near,SPACE,2
+1203,陈述,communication,verb,2,CHN,say,SPEECH,5
+1731,随后,temporal,other,2,CHN,after,TIME,4
+346,零件,relation,noun,2,CHN,part,RELATIONAL_SUBSTANTIVES,8
+989,需要,cognition,verb,2,CHN,want,MENTAL_PREDICATES,5
+1849,霎时,temporal,other,2,CHN,moment,TIME,6
+2324,非常,degree,adverb,2,CHN,very,INTENSIFIER_AUGMENTOR,2
+2031,靠近,spatial,other,2,CHN,near,SPACE,3
+1161,音响,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,9
+1157,音频,cognition,verb,2,CHN,hear,MENTAL_PREDICATES,5
+1943,顶部,spatial,other,2,CHN,above,SPACE,7
+1848,顷刻,temporal,other,2,CHN,moment,TIME,5
+1796,须臾,temporal,other,2,CHN,a short time,TIME,9
+2360,额外,degree,adverb,2,CHN,more,INTENSIFIER_AUGMENTOR,4
+482,首,quantity,determiner,2,CHN,one,QUANTIFIERS,8
+1440,驻,existence,other,2,CHN,be somewhere,LOCATION_EXISTENCE,8
+1942,高于,spatial,other,2,CHN,above,SPACE,6
+1945,高处,spatial,other,2,CHN,above,SPACE,9
+922,acknowledge,cognition,verb,3,ENU,know,MENTAL_PREDICATES,17
+925,acquaintance,cognition,verb,3,ENU,know,MENTAL_PREDICATES,20
+1307,activity,action,verb,3,ENU,do,ACTIONS_EVENTS_MOVEMENT,12
+1059,affect,cognition,verb,3,ENU,feel,MENTAL_PREDICATES,12
+2389,affinity,comparison,other,3,ENU,like,SIMILARITY,12
+1312,agency,action,verb,3,ENU,do,ACTIONS_EVENTS_MOVEMENT,17
+102,agent,entity,noun,3,ENU,someone,SUBSTANTIVES,15
+2219,allow,logic,conjunction,3,ENU,can,LOGICAL_CONCEPTS,12
+571,altogether,quantity,determiner,3,ENU,all,QUANTIFIERS,12
+979,ambition,cognition,verb,3,ENU,want,MENTAL_PREDICATES,16
+150,article,entity,noun,3,ENU,something,SUBSTANTIVES,11
+336,aspect,relation,noun,3,ENU,part,RELATIONAL_SUBSTANTIVES,15
+1150,audible,cognition,adjective,3,ENU,hear,MENTAL_PREDICATES,15
+1146,audio,cognition,verb,3,ENU,hear,MENTAL_PREDICATES,11
+1308,behavior,action,verb,3,ENU,do,ACTIONS_EVENTS_MOVEMENT,13
+156,being,entity,verb,3,ENU,something,SUBSTANTIVES,17
+1558,breath,life,verb,3,ENU,live,LIFE_DEATH,11
+2156,cancel,logic,conjunction,3,ENU,not,LOGICAL_CONCEPTS,13
+2254,causation,logic,conjunction,3,ENU,because,LOGICAL_CONCEPTS,13
+923,certainty,cognition,verb,3,ENU,know,MENTAL_PREDICATES,18
+100,character,entity,noun,3,ENU,someone,SUBSTANTIVES,13
+1631,chronological,temporal,other,3,ENU,when,TIME,11
+1352,circumstance,action,verb,3,ENU,happen,ACTIONS_EVENTS_MOVEMENT,13
+207,civilization,entity,noun,3,ENU,people,SUBSTANTIVES,18
+291,classification,relation,noun,3,ENU,kind,RELATIONAL_SUBSTANTIVES,12
+854,cogitate,cognition,verb,3,ENU,think,MENTAL_PREDICATES,25
+840,cognition,cognition,verb,3,ENU,think,MENTAL_PREDICATES,11
+208,collective,entity,adjective,3,ENU,people,SUBSTANTIVES,19
+1192,comment,communication,verb,3,ENU,say,SPEECH,15
+58,companion,entity,noun,3,ENU,you,SUBSTANTIVES,12
+847,conception,cognition,verb,3,ENU,think,MENTAL_PREDICATES,18
+1494,condition,existence,other,3,ENU,be something,LOCATION_EXISTENCE,12
+926,consciousness,cognition,verb,3,ENU,know,MENTAL_PREDICATES,21
+1062,consciousness,cognition,verb,3,ENU,feel,MENTAL_PREDICATES,15
+333,constituent,relation,noun,3,ENU,part,RELATIONAL_SUBSTANTIVES,12
+1193,convey,communication,verb,3,ENU,say,SPEECH,16
+250,corporeal,entity,noun,3,ENU,body,SUBSTANTIVES,12
+105,creature,entity,noun,3,ENU,someone,SUBSTANTIVES,18
+201,crowd,entity,noun,3,ENU,people,SUBSTANTIVES,12
+206,culture,entity,noun,3,ENU,people,SUBSTANTIVES,17
+1306,deed,action,verb,3,ENU,do,ACTIONS_EVENTS_MOVEMENT,11
+718,defective,evaluation,adjective,3,ENU,bad,EVALUATORS,11
+2321,degree,degree,adverb,3,ENU,very,INTENSIFIER_AUGMENTOR,12
+850,deliberate,cognition,verb,3,ENU,think,MENTAL_PREDICATES,21
+983,demand,cognition,verb,3,ENU,want,MENTAL_PREDICATES,20
+335,detail,relation,noun,3,ENU,part,RELATIONAL_SUBSTANTIVES,14
+1236,diction,communication,verb,3,ENU,words,SPEECH,11
+920,discern,cognition,verb,3,ENU,know,MENTAL_PREDICATES,15
+1389,displacement,action,verb,3,ENU,move,ACTIONS_EVENTS_MOVEMENT,11
+978,drive,cognition,adjective,3,ENU,want,MENTAL_PREDICATES,15
+406,duplicate,reference,verb,3,ENU,the same,DETERMINERS,11
+1560,dwell,life,verb,3,ENU,live,LIFE_DEATH,13
+1935,elevated,spatial,verb,3,ENU,above,SPACE,11
+249,embodiment,entity,noun,3,ENU,body,SUBSTANTIVES,11
+2218,enable,logic,adjective,3,ENU,can,LOGICAL_CONCEPTS,11
+1527,entitled,existence,verb,3,ENU,be mine,LOCATION_EXISTENCE,11
+99,entity,entity,noun,3,ENU,someone,SUBSTANTIVES,12
+1354,episode,action,verb,3,ENU,happen,ACTIONS_EVENTS_MOVEMENT,15
+570,everybody,quantity,determiner,3,ENU,all,QUANTIFIERS,11
+1106,examine,cognition,verb,3,ENU,see,MENTAL_PREDICATES,17
+2355,excess,degree,adverb,3,ENU,more,INTENSIFIER_AUGMENTOR,12
+155,existence,entity,noun,3,ENU,something,SUBSTANTIVES,16
+1559,existence,life,verb,3,ENU,live,LIFE_DEATH,12
+924,expertise,cognition,verb,3,ENU,know,MENTAL_PREDICATES,19
+765,extensive,property,adjective,3,ENU,big,DESCRIPTORS,13
+1597,extinct,life,verb,3,ENU,die,LIFE_DEATH,12
+1101,eye,cognition,verb,3,ENU,see,MENTAL_PREDICATES,12
+2253,factor,logic,conjunction,3,ENU,because,LOGICAL_CONCEPTS,12
+294,family,relation,adverb,3,ENU,kind,RELATIONAL_SUBSTANTIVES,15
+1598,fatal,life,verb,3,ENU,die,LIFE_DEATH,13
+719,faulty,evaluation,adjective,3,ENU,bad,EVALUATORS,12
+337,feature,relation,noun,3,ENU,part,RELATIONAL_SUBSTANTIVES,16
+101,figure,entity,noun,3,ENU,someone,SUBSTANTIVES,14
+724,flawed,evaluation,verb,3,ENU,bad,EVALUATORS,17
+1311,function,action,verb,3,ENU,do,ACTIONS_EVENTS_MOVEMENT,16
+1872,geography,spatial,other,3,ENU,where,SPACE,11
+1104,glimpse,cognition,verb,3,ENU,see,MENTAL_PREDICATES,15
+1394,go,action,verb,3,ENU,move,ACTIONS_EVENTS_MOVEMENT,16
+767,grand,property,adjective,3,ENU,big,DESCRIPTORS,15
+918,grasp,cognition,verb,3,ENU,know,MENTAL_PREDICATES,13
+203,group,entity,noun,3,ENU,people,SUBSTANTIVES,14
+293,group,relation,noun,3,ENU,kind,RELATIONAL_SUBSTANTIVES,14
+677,healthy,evaluation,adjective,3,ENU,good,EVALUATORS,19
+1271,honest,communication,verb,3,ENU,true,SPEECH,12
+200,humanity,entity,noun,3,ENU,people,SUBSTANTIVES,11
+843,idea,cognition,verb,3,ENU,think,MENTAL_PREDICATES,14
+921,identify,cognition,verb,3,ENU,know,MENTAL_PREDICATES,16
+1061,impression,cognition,verb,3,ENU,feel,MENTAL_PREDICATES,14
+722,improper,evaluation,adjective,3,ENU,bad,EVALUATORS,15
+723,inadequate,evaluation,verb,3,ENU,bad,EVALUATORS,16
+927,insight,cognition,verb,3,ENU,know,MENTAL_PREDICATES,22
+808,insignificant,property,adjective,3,ENU,small,DESCRIPTORS,11
+1107,inspect,cognition,verb,3,ENU,see,MENTAL_PREDICATES,18
+637,insufficient,quantity,determiner,3,ENU,little few,QUANTIFIERS,11
+2320,intensity,degree,adverb,3,ENU,very,INTENSIFIER_AUGMENTOR,11
+980,intent,cognition,verb,3,ENU,want,MENTAL_PREDICATES,17
+1393,journey,action,verb,3,ENU,move,ACTIONS_EVENTS_MOVEMENT,15
+846,judgment,cognition,verb,3,ENU,think,MENTAL_PREDICATES,17
+1197,language,communication,verb,3,ENU,say,SPEECH,20
+1596,lifeless,life,adjective,3,ENU,die,LIFE_DEATH,11
+2390,likeness,comparison,other,3,ENU,like,SIMILARITY,13
+1391,locomotion,action,verb,3,ENU,move,ACTIONS_EVENTS_MOVEMENT,13
+768,magnitude,property,adjective,3,ENU,big,DESCRIPTORS,16
+763,major,property,adjective,3,ENU,big,DESCRIPTORS,11
+290,manner,relation,noun,3,ENU,kind,RELATIONAL_SUBSTANTIVES,11
+202,masses,entity,noun,3,ENU,people,SUBSTANTIVES,13
+252,material,entity,noun,3,ENU,body,SUBSTANTIVES,14
+851,meditate,cognition,verb,3,ENU,think,MENTAL_PREDICATES,22
+332,member,relation,noun,3,ENU,part,RELATIONAL_SUBSTANTIVES,11
+841,mental,cognition,verb,3,ENU,think,MENTAL_PREDICATES,12
+673,merit,evaluation,adjective,3,ENU,good,EVALUATORS,15
+842,mind,cognition,verb,3,ENU,think,MENTAL_PREDICATES,13
+1663,moment,temporal,other,3,ENU,now,TIME,11
+1058,mood,cognition,verb,3,ENU,feel,MENTAL_PREDICATES,11
+104,mortal,entity,noun,3,ENU,someone,SUBSTANTIVES,17
+977,motivation,cognition,verb,3,ENU,want,MENTAL_PREDICATES,14
+1390,movement,action,verb,3,ENU,move,ACTIONS_EVENTS_MOVEMENT,12
+605,multitude,quantity,determiner,3,ENU,much many,QUANTIFIERS,12
+855,muse,cognition,verb,3,ENU,think,MENTAL_PREDICATES,26
+1194,narrate,communication,verb,3,ENU,say,SPEECH,17
+204,nation,entity,noun,3,ENU,people,SUBSTANTIVES,15
+2154,negate,logic,verb,3,ENU,not,LOGICAL_CONCEPTS,11
+669,nice,evaluation,adjective,3,ENU,good,EVALUATORS,11
+1147,noise,cognition,verb,3,ENU,hear,MENTAL_PREDICATES,12
+1102,notice,cognition,verb,3,ENU,see,MENTAL_PREDICATES,13
+848,notion,cognition,verb,3,ENU,think,MENTAL_PREDICATES,19
+1350,occurrence,action,verb,3,ENU,happen,ACTIONS_EVENTS_MOVEMENT,11
+473,only,quantity,adverb,3,ENU,one,QUANTIFIERS,12
+1309,operation,action,verb,3,ENU,do,ACTIONS_EVENTS_MOVEMENT,14
+844,opinion,cognition,verb,3,ENU,think,MENTAL_PREDICATES,15
+1108,optical,cognition,verb,3,ENU,see,MENTAL_PREDICATES,19
+295,order,relation,noun,3,ENU,kind,RELATIONAL_SUBSTANTIVES,16
+57,other-person,entity,noun,3,ENU,you,SUBSTANTIVES,11
+440,otherwise,reference,determiner,3,ENU,other,DETERMINERS,12
+15,own,entity,noun,3,ENU,i,SUBSTANTIVES,14
+334,particle,relation,noun,3,ENU,part,RELATIONAL_SUBSTANTIVES,13
+373,particular,reference,determiner,3,ENU,this,DETERMINERS,11
+1060,passion,cognition,verb,3,ENU,feel,MENTAL_PREDICATES,13
+919,perceive,cognition,adjective,3,ENU,know,MENTAL_PREDICATES,14
+2220,permit,logic,conjunction,3,ENU,can,LOGICAL_CONCEPTS,13
+103,personage,entity,noun,3,ENU,someone,SUBSTANTIVES,16
+14,personal,entity,noun,3,ENU,i,SUBSTANTIVES,13
+153,phenomenon,entity,noun,3,ENU,something,SUBSTANTIVES,14
+1351,phenomenon,action,verb,3,ENU,happen,ACTIONS_EVENTS_MOVEMENT,12
+151,piece,entity,noun,3,ENU,something,SUBSTANTIVES,12
+670,pleasant,evaluation,adjective,3,ENU,good,EVALUATORS,12
+1873,point,spatial,other,3,ENU,where,SPACE,12
+974,preference,cognition,verb,3,ENU,want,MENTAL_PREDICATES,11
+1695,previous,temporal,adjective,3,ENU,before,TIME,11
+1188,pronounce,communication,verb,3,ENU,say,SPEECH,11
+675,proper,evaluation,adjective,3,ENU,good,EVALUATORS,17
+981,purpose,cognition,verb,3,ENU,want,MENTAL_PREDICATES,18
+672,quality,evaluation,adjective,3,ENU,good,EVALUATORS,14
+604,quantity,quantity,determiner,3,ENU,much many,QUANTIFIERS,11
+154,reality,entity,noun,3,ENU,something,SUBSTANTIVES,15
+2155,reject,logic,conjunction,3,ENU,not,LOGICAL_CONCEPTS,12
+1195,relate,communication,verb,3,ENU,say,SPEECH,18
+1431,remain,existence,other,3,ENU,be somewhere,LOCATION_EXISTENCE,11
+1191,remark,communication,verb,3,ENU,say,SPEECH,14
+2388,resemblance,comparison,other,3,ENU,like,SIMILARITY,11
+1561,reside,life,verb,3,ENU,live,LIFE_DEATH,14
+439,rest,reference,determiner,3,ENU,other,DETERMINERS,11
+674,right,evaluation,adjective,3,ENU,good,EVALUATORS,16
+853,ruminate,cognition,verb,3,ENU,think,MENTAL_PREDICATES,24
+1105,scan,cognition,verb,3,ENU,see,MENTAL_PREDICATES,16
+982,seeking,cognition,verb,3,ENU,want,MENTAL_PREDICATES,19
+1063,sensitivity,cognition,verb,3,ENU,feel,MENTAL_PREDICATES,16
+764,significant,property,adjective,3,ENU,big,DESCRIPTORS,12
+1272,sincere,communication,verb,3,ENU,true,SPEECH,13
+1353,situation,action,verb,3,ENU,happen,ACTIONS_EVENTS_MOVEMENT,14
+769,size,property,verb,3,ENU,big,DESCRIPTORS,17
+472,solitary,quantity,determiner,3,ENU,one,QUANTIFIERS,11
+251,somatic,entity,noun,3,ENU,body,SUBSTANTIVES,13
+1151,sonic,cognition,verb,3,ENU,hear,MENTAL_PREDICATES,16
+98,soul,entity,noun,3,ENU,someone,SUBSTANTIVES,11
+676,sound,evaluation,adjective,3,ENU,good,EVALUATORS,18
+2252,source,logic,conjunction,3,ENU,because,LOGICAL_CONCEPTS,11
+766,spacious,property,adjective,3,ENU,big,DESCRIPTORS,14
+13,speaker,entity,noun,3,ENU,i,SUBSTANTIVES,12
+374,specific,reference,determiner,3,ENU,this,DETERMINERS,12
+852,speculate,cognition,verb,3,ENU,think,MENTAL_PREDICATES,23
+1196,speech,communication,verb,3,ENU,say,SPEECH,19
+1103,spot,cognition,verb,3,ENU,see,MENTAL_PREDICATES,14
+1493,state,existence,verb,3,ENU,be something,LOCATION_EXISTENCE,11
+12,subject,entity,noun,3,ENU,i,SUBSTANTIVES,11
+253,substance,entity,noun,3,ENU,body,SUBSTANTIVES,15
+2289,supposition,logic,conjunction,3,ENU,if,LOGICAL_CONCEPTS,11
+2354,surplus,degree,adverb,3,ENU,more,INTENSIFIER_AUGMENTOR,11
+292,taxonomy,relation,noun,3,ENU,kind,RELATIONAL_SUBSTANTIVES,13
+1148,tone,cognition,verb,3,ENU,hear,MENTAL_PREDICATES,13
+1392,transit,action,verb,3,ENU,move,ACTIONS_EVENTS_MOVEMENT,14
+205,tribe,entity,noun,3,ENU,people,SUBSTANTIVES,16
+254,trunk,entity,noun,3,ENU,body,SUBSTANTIVES,16
+1273,truthful,communication,adjective,3,ENU,true,SPEECH,14
+506,twice,quantity,determiner,3,ENU,two,QUANTIFIERS,11
+407,twin,reference,determiner,3,ENU,the same,DETERMINERS,12
+849,understanding,cognition,verb,3,ENU,think,MENTAL_PREDICATES,20
+917,understanding,cognition,verb,3,ENU,know,MENTAL_PREDICATES,12
+1027,undesirable,cognition,adjective,3,ENU,dont want,MENTAL_PREDICATES,12
+152,unit,entity,noun,3,ENU,something,SUBSTANTIVES,13
+1026,unwanted,cognition,verb,3,ENU,dont want,MENTAL_PREDICATES,11
+975,urge,cognition,verb,3,ENU,want,MENTAL_PREDICATES,12
+1237,verbal,communication,verb,3,ENU,words,SPEECH,12
+1190,verbalize,communication,verb,3,ENU,say,SPEECH,13
+1270,verity,communication,verb,3,ENU,true,SPEECH,11
+720,vice,evaluation,adjective,3,ENU,bad,EVALUATORS,13
+845,view,cognition,verb,3,ENU,think,MENTAL_PREDICATES,16
+671,virtue,evaluation,adjective,3,ENU,good,EVALUATORS,13
+1100,visual,cognition,verb,3,ENU,see,MENTAL_PREDICATES,11
+1149,voice,cognition,verb,3,ENU,hear,MENTAL_PREDICATES,14
+1189,voice,communication,verb,3,ENU,say,SPEECH,12
+721,wicked,evaluation,verb,3,ENU,bad,EVALUATORS,14
+976,will,cognition,verb,3,ENU,want,MENTAL_PREDICATES,13
+916,wisdom,cognition,verb,3,ENU,know,MENTAL_PREDICATES,11
+1310,work,action,verb,3,ENU,do,ACTIONS_EVENTS_MOVEMENT,15
+1874,zone,spatial,other,3,ENU,where,SPACE,13
+42,1인칭,entity,noun,3,KOR,i,SUBSTANTIVES,11
+1419,가다,action,verb,3,KOR,move,ACTIONS_EVENTS_MOVEMENT,11
+959,감지,cognition,verb,3,KOR,know,MENTAL_PREDICATES,12
+134,개체,entity,noun,3,KOR,someone,SUBSTANTIVES,11
+187,객체,entity,noun,3,KOR,something,SUBSTANTIVES,14
+897,견해,cognition,verb,3,KOR,think,MENTAL_PREDICATES,16
+320,계통,relation,noun,3,KOR,kind,RELATIONAL_SUBSTANTIVES,11
+895,관념,cognition,verb,3,KOR,think,MENTAL_PREDICATES,14
+236,군중,entity,noun,3,KOR,people,SUBSTANTIVES,11
+796,규모,property,adjective,3,KOR,big,DESCRIPTORS,11
+45,나의,entity,noun,3,KOR,i,SUBSTANTIVES,14
+85,너희,entity,noun,3,KOR,you,SUBSTANTIVES,12
+186,대상,entity,noun,3,KOR,something,SUBSTANTIVES,13
+894,마음,cognition,verb,3,KOR,think,MENTAL_PREDICATES,13
+902,명상,cognition,verb,3,KOR,think,MENTAL_PREDICATES,21
+1011,목적,cognition,verb,3,KOR,want,MENTAL_PREDICATES,11
+188,물건,entity,noun,3,KOR,something,SUBSTANTIVES,15
+706,미덕,evaluation,adjective,3,KOR,good,EVALUATORS,12
+751,불충분한,evaluation,adjective,3,KOR,bad,EVALUATORS,11
+137,사람들,entity,noun,3,KOR,someone,SUBSTANTIVES,14
+903,사유,cognition,verb,3,KOR,think,MENTAL_PREDICATES,22
+904,생각하다,cognition,verb,3,KOR,think,MENTAL_PREDICATES,23
+705,선량한,evaluation,adjective,3,KOR,good,EVALUATORS,11
+84,수신자,entity,noun,3,KOR,you,SUBSTANTIVES,11
+901,숙고,cognition,verb,3,KOR,think,MENTAL_PREDICATES,20
+961,숙지,cognition,verb,3,KOR,know,MENTAL_PREDICATES,14
+44,스스로,entity,noun,3,KOR,i,SUBSTANTIVES,13
+237,시민,entity,noun,3,KOR,people,SUBSTANTIVES,12
+1134,시선,cognition,verb,3,KOR,see,MENTAL_PREDICATES,11
+184,실체,entity,noun,3,KOR,something,SUBSTANTIVES,11
+1224,언어,communication,verb,3,KOR,say,SPEECH,11
+86,여러분,entity,noun,3,KOR,you,SUBSTANTIVES,13
+1013,요구,cognition,verb,3,KOR,want,MENTAL_PREDICATES,13
+896,의견,cognition,verb,3,KOR,think,MENTAL_PREDICATES,15
+1014,의도,cognition,verb,3,KOR,want,MENTAL_PREDICATES,14
+899,이해,cognition,verb,3,KOR,think,MENTAL_PREDICATES,18
+138,인간존재,entity,noun,3,KOR,someone,SUBSTANTIVES,15
+136,인류,entity,noun,3,KOR,someone,SUBSTANTIVES,13
+900,인식,cognition,verb,3,KOR,think,MENTAL_PREDICATES,19
+892,인지,cognition,verb,3,KOR,think,MENTAL_PREDICATES,11
+958,인지,cognition,verb,3,KOR,know,MENTAL_PREDICATES,11
+962,인지하다,cognition,verb,3,KOR,know,MENTAL_PREDICATES,15
+43,자기,entity,noun,3,KOR,i,SUBSTANTIVES,12
+1088,정서,cognition,verb,3,KOR,feel,MENTAL_PREDICATES,11
+893,정신,cognition,verb,3,KOR,think,MENTAL_PREDICATES,12
+185,존재,entity,noun,3,KOR,something,SUBSTANTIVES,12
+135,주체,entity,noun,3,KOR,someone,SUBSTANTIVES,12
+1176,청력,cognition,verb,3,KOR,hear,MENTAL_PREDICATES,11
+1012,추구,cognition,verb,3,KOR,want,MENTAL_PREDICATES,12
+898,판단,cognition,verb,3,KOR,think,MENTAL_PREDICATES,17
+1338,행위,action,verb,3,KOR,do,ACTIONS_EVENTS_MOVEMENT,11
+960,확인,cognition,verb,3,KOR,know,MENTAL_PREDICATES,13
+737,不当,evaluation,adjective,3,CHN,bad,EVALUATORS,12
+738,不足,evaluation,adjective,3,CHN,bad,EVALUATORS,13
+117,个体,entity,noun,3,CHN,someone,SUBSTANTIVES,11
+118,主体,entity,noun,3,CHN,someone,SUBSTANTIVES,12
+781,主要,property,adjective,3,CHN,big,DESCRIPTORS,11
+1366,事态,action,verb,3,CHN,happen,ACTIONS_EVENTS_MOVEMENT,11
+70,交谈者,entity,noun,3,CHN,you,SUBSTANTIVES,11
+122,人类,entity,noun,3,CHN,someone,SUBSTANTIVES,16
+121,人间,entity,noun,3,CHN,someone,SUBSTANTIVES,15
+998,企图,cognition,verb,3,CHN,want,MENTAL_PREDICATES,14
+221,众人,entity,noun,3,CHN,people,SUBSTANTIVES,12
+120,众生,entity,noun,3,CHN,someone,SUBSTANTIVES,14
+1075,体验,cognition,verb,3,CHN,feel,MENTAL_PREDICATES,11
+267,体魄,entity,noun,3,CHN,body,SUBSTANTIVES,12
+1326,作为,action,verb,3,CHN,do,ACTIONS_EVENTS_MOVEMENT,13
+71,你自己,entity,noun,3,CHN,you,SUBSTANTIVES,12
+870,假设,cognition,verb,3,CHN,think,MENTAL_PREDICATES,14
+691,健康,evaluation,adjective,3,CHN,good,EVALUATORS,13
+1121,光学,cognition,verb,3,CHN,see,MENTAL_PREDICATES,12
+879,冥想,cognition,verb,3,CHN,think,MENTAL_PREDICATES,23
+875,判断,cognition,verb,3,CHN,think,MENTAL_PREDICATES,19
+1325,功能,action,verb,3,CHN,do,ACTIONS_EVENTS_MOVEMENT,12
+1407,去,action,verb,3,CHN,move,ACTIONS_EVENTS_MOVEMENT,12
+868,反思,cognition,verb,3,CHN,think,MENTAL_PREDICATES,12
+1164,嗓音,cognition,verb,3,CHN,hear,MENTAL_PREDICATES,12
+2266,因果,logic,conjunction,3,CHN,because,LOGICAL_CONCEPTS,11
+169,存在,entity,noun,3,CHN,something,SUBSTANTIVES,12
+168,实体,entity,noun,3,CHN,something,SUBSTANTIVES,11
+171,客体,entity,noun,3,CHN,something,SUBSTANTIVES,14
+172,对象,entity,noun,3,CHN,something,SUBSTANTIVES,15
+784,尺寸,property,adjective,3,CHN,big,DESCRIPTORS,14
+1324,工作,action,verb,3,CHN,do,ACTIONS_EVENTS_MOVEMENT,11
+30,己身,entity,noun,3,CHN,i,SUBSTANTIVES,14
+736,恶习,evaluation,adjective,3,CHN,bad,EVALUATORS,11
+871,想象,cognition,verb,3,CHN,think,MENTAL_PREDICATES,15
+999,意图,cognition,verb,3,CHN,want,MENTAL_PREDICATES,15
+872,意识,cognition,verb,3,CHN,think,MENTAL_PREDICATES,16
+943,感知,cognition,verb,3,CHN,know,MENTAL_PREDICATES,15
+1076,感知,cognition,verb,3,CHN,feel,MENTAL_PREDICATES,12
+29,我的,entity,noun,3,CHN,i,SUBSTANTIVES,13
+940,掌握,cognition,verb,3,CHN,know,MENTAL_PREDICATES,12
+869,推理,cognition,verb,3,CHN,think,MENTAL_PREDICATES,13
+880,揣摩,cognition,verb,3,CHN,think,MENTAL_PREDICATES,24
+223,文化,entity,noun,3,CHN,people,SUBSTANTIVES,14
+224,文明,entity,noun,3,CHN,people,SUBSTANTIVES,15
+1406,旅行,action,verb,3,CHN,move,ACTIONS_EVENTS_MOVEMENT,11
+222,族群,entity,noun,3,CHN,people,SUBSTANTIVES,13
+941,智慧,cognition,verb,3,CHN,know,MENTAL_PREDICATES,13
+689,有利,evaluation,adjective,3,CHN,good,EVALUATORS,11
+692,正确,evaluation,adjective,3,CHN,good,EVALUATORS,14
+867,沉思,cognition,verb,3,CHN,think,MENTAL_PREDICATES,11
+878,深思,cognition,verb,3,CHN,think,MENTAL_PREDICATES,22
+170,物件,entity,noun,3,CHN,something,SUBSTANTIVES,13
+349,环节,relation,noun,3,CHN,part,RELATIONAL_SUBSTANTIVES,11
+876,理解,cognition,verb,3,CHN,think,MENTAL_PREDICATES,20
+1573,生机,life,verb,3,CHN,live,LIFE_DEATH,11
+995,目的,cognition,verb,3,CHN,want,MENTAL_PREDICATES,11
+874,看法,cognition,verb,3,CHN,think,MENTAL_PREDICATES,18
+1120,眼睛,cognition,verb,3,CHN,see,MENTAL_PREDICATES,11
+1122,瞥见,cognition,verb,3,CHN,see,MENTAL_PREDICATES,13
+945,确定,cognition,verb,3,CHN,know,MENTAL_PREDICATES,17
+307,种,relation,noun,3,CHN,kind,RELATIONAL_SUBSTANTIVES,11
+27,第一人称,entity,noun,3,CHN,i,SUBSTANTIVES,11
+308,类,relation,noun,3,CHN,kind,RELATIONAL_SUBSTANTIVES,12
+739,糟糕,evaluation,adjective,3,CHN,bad,EVALUATORS,14
+350,细节,relation,noun,3,CHN,part,RELATIONAL_SUBSTANTIVES,12
+693,美德,evaluation,adjective,3,CHN,good,EVALUATORS,15
+28,自我,entity,noun,3,CHN,i,SUBSTANTIVES,12
+997,要求,cognition,verb,3,CHN,want,MENTAL_PREDICATES,13
+873,观念,cognition,verb,3,CHN,think,MENTAL_PREDICATES,17
+783,规模,property,adjective,3,CHN,big,DESCRIPTORS,13
+946,觉悟,cognition,verb,3,CHN,know,MENTAL_PREDICATES,18
+119,角色,entity,noun,3,CHN,someone,SUBSTANTIVES,13
+1209,言语,communication,verb,3,CHN,say,SPEECH,11
+942,认知,cognition,verb,3,CHN,know,MENTAL_PREDICATES,14
+877,认识,cognition,verb,3,CHN,think,MENTAL_PREDICATES,21
+1210,语言,communication,verb,3,CHN,say,SPEECH,12
+1211,说话,communication,verb,3,CHN,say,SPEECH,13
+1212,谈论,communication,verb,3,CHN,say,SPEECH,14
+266,身形,entity,noun,3,CHN,body,SUBSTANTIVES,11
+944,辨认,cognition,verb,3,CHN,know,MENTAL_PREDICATES,16
+996,追求,cognition,verb,3,CHN,want,MENTAL_PREDICATES,12
+690,适当,evaluation,adjective,3,CHN,good,EVALUATORS,12
+782,重要,property,adjective,3,CHN,big,DESCRIPTORS,12
+72,阁下,entity,noun,3,CHN,you,SUBSTANTIVES,13
+220,集体,entity,noun,3,CHN,people,SUBSTANTIVES,11
+1163,音调,cognition,verb,3,CHN,hear,MENTAL_PREDICATES,11
+939,领悟,cognition,verb,3,CHN,know,MENTAL_PREDICATES,11
+2419,colossal,control,other,4,ENU,,CONTROL_WORD,-1
+2411,contemplate,control,other,4,ENU,,CONTROL_WORD,-1
+2412,delicious,control,other,4,ENU,,CONTROL_WORD,-1
+2416,exquisite,control,other,4,ENU,,CONTROL_WORD,-1
+2413,magnificent,control,other,4,ENU,,CONTROL_WORD,-1
+2418,minuscule,control,other,4,ENU,,CONTROL_WORD,-1
+2414,ponder,control,other,4,ENU,,CONTROL_WORD,-1
+2415,ruminate,control,other,4,ENU,,CONTROL_WORD,-1
+2417,tremendous,control,other,4,ENU,,CONTROL_WORD,-1
+2420,verify,control,other,4,ENU,,CONTROL_WORD,-1
+2439,거대한,control,other,4,KOR,,CONTROL_WORD,-1
+2432,맛있는,control,other,4,KOR,,CONTROL_WORD,-1
+2431,명상,control,other,4,KOR,,CONTROL_WORD,-1
+2438,미세한,control,other,4,KOR,,CONTROL_WORD,-1
+2434,사색,control,other,4,KOR,,CONTROL_WORD,-1
+2435,숙고,control,other,4,KOR,,CONTROL_WORD,-1
+2437,엄청난,control,other,4,KOR,,CONTROL_WORD,-1
+2433,장엄한,control,other,4,KOR,,CONTROL_WORD,-1
+2436,정교한,control,other,4,KOR,,CONTROL_WORD,-1
+2440,확인,control,other,4,KOR,,CONTROL_WORD,-1
+2423,壮丽,control,other,4,CHN,,CONTROL_WORD,-1
+2427,巨大,control,other,4,CHN,,CONTROL_WORD,-1
+2429,庞大,control,other,4,CHN,,CONTROL_WORD,-1
+2428,微小,control,other,4,CHN,,CONTROL_WORD,-1
+2421,沉思,control,other,4,CHN,,CONTROL_WORD,-1
+2425,深思,control,other,4,CHN,,CONTROL_WORD,-1
+2424,琢磨,control,other,4,CHN,,CONTROL_WORD,-1
+2426,精美,control,other,4,CHN,,CONTROL_WORD,-1
+2422,美味,control,other,4,CHN,,CONTROL_WORD,-1
+2430,验证,control,other,4,CHN,,CONTROL_WORD,-1

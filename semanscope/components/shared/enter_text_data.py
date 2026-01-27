@@ -160,6 +160,10 @@ class EnterTextDataWidget:
             # Get language options and default indices
             lang_options, default_indices = self._get_language_options_and_defaults(input_name_selected, visualizer)
 
+            # CRITICAL FIX: Include dataset name in keys so changing datasets automatically resets language selections
+            # This ensures the defaults are always used when switching to a new dataset
+            dataset_safe = input_name_selected.replace(" ", "_").replace("-", "_") if input_name_selected else "none"
+
             # First row language selectors
             with col_lang1:
                 lang1 = st.selectbox(
@@ -167,7 +171,7 @@ class EnterTextDataWidget:
                     options=lang_options,
                     index=default_indices[0],
                     help="Select first language",
-                    key=f'{self.key_prefix}lang1'
+                    key=f'{self.key_prefix}lang1_{dataset_safe}'
                 )
 
             with col_lang2:
@@ -176,7 +180,7 @@ class EnterTextDataWidget:
                     options=lang_options,
                     index=default_indices[1],
                     help="Select second language",
-                    key=f'{self.key_prefix}lang2'
+                    key=f'{self.key_prefix}lang2_{dataset_safe}'
                 )
 
             with col_lang3:
@@ -185,7 +189,7 @@ class EnterTextDataWidget:
                     options=lang_options,
                     index=default_indices[2],
                     help="Select third language",
-                    key=f'{self.key_prefix}lang3'
+                    key=f'{self.key_prefix}lang3_{dataset_safe}'
                 )
 
             # Extended language support for 6-language mode
@@ -226,12 +230,12 @@ class EnterTextDataWidget:
 
             # Handle load text button
             if btn_load_txt and visualizer and input_name_selected:
-                self._handle_load_text(input_name_selected, [lang1_code, lang2_code, lang3_code], visualizer)
+                self._handle_load_text(input_name_selected, [lang1_code, lang2_code, lang3_code], visualizer, dataset_safe)
 
-            # Text input areas with position-based keys
+            # Text input areas with dataset-specific keys
             col1, col2, col3 = st.columns(3)
 
-            # Position-based configurations to avoid duplicate key errors
+            # Position-based configurations
             lang_configs = [
                 (col1, lang1, lang1_code, "pos1"),
                 (col2, lang2, lang2_code, "pos2"),
@@ -241,30 +245,27 @@ class EnterTextDataWidget:
             languages_data = []
             for col, lang_name, lang_code, position in lang_configs:
                 with col:
-                    # Try both old and new key formats for compatibility
-                    default_value = (
-                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area_{position}', '') or
-                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area', '') or
-                        self.default_texts.get(lang_code, "")
-                    )
+                    # Use dataset-specific key for text area
+                    text_area_key = f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}'
+                    default_value = st.session_state.get(text_area_key, '') or self.default_texts.get(lang_code, "")
 
                     text_content = st.text_area(
                         f"{lang_name} ({lang_code}):",
                         value=default_value,
                         height=200,
-                        key=f'{self.key_prefix}{lang_code}_text_area_{position}'
+                        key=text_area_key
                     )
                     text_content = (text_content or "").strip()
 
-                    # Checkbox for inclusion
+                    # Checkbox for inclusion (also dataset-specific)
                     is_selected = st.checkbox(
                         "Include",
                         value=(len(text_content) > 0),
-                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}'
+                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}_{dataset_safe}'
                     )
 
                     # Word count display (only shown after Load Text is clicked)
-                    if st.session_state.get(f'{self.key_prefix}text_loaded', False) and text_content:
+                    if st.session_state.get(f'{self.key_prefix}text_loaded_{dataset_safe}', False) and text_content:
                         word_count = len([word.strip() for word in text_content.split('\n') if word.strip()])
                         st.caption(f"**Words:** {word_count}")
 
@@ -276,7 +277,7 @@ class EnterTextDataWidget:
                 'lang_codes': [lang1_code, lang2_code, lang3_code]
             }
 
-    def _handle_load_text(self, input_name_selected: str, lang_codes: List[str], visualizer):
+    def _handle_load_text(self, input_name_selected: str, lang_codes: List[str], visualizer, dataset_safe: str):
         """Handle the Load Text button functionality"""
         missing_files = []
         positions = ["pos1", "pos2", "pos3"]
@@ -289,9 +290,9 @@ class EnterTextDataWidget:
                 filtered_words = [word for word in words if not word.strip().startswith('#')]
                 # Convert back to text format for text area display
                 loaded_text = '\n'.join(filtered_words)
-                # Store in both old and new key formats for compatibility
-                st.session_state[f'{self.key_prefix}{lang_code}_text_area'] = loaded_text
-                st.session_state[f'{self.key_prefix}{lang_code}_text_area_{position}'] = loaded_text
+                # Store with dataset-specific key
+                text_area_key = f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}'
+                st.session_state[text_area_key] = loaded_text
                 # Store semantic colors as dictionary for later use
                 session_key = f"{lang_code}_semantic_colors"
                 st.session_state[session_key] = word_color_map
@@ -301,7 +302,7 @@ class EnterTextDataWidget:
         if missing_files:
             st.warning("No text files found: " + " ; ".join(missing_files))
         else:
-            # Set flag to show word counts
-            st.session_state[f'{self.key_prefix}text_loaded'] = True
+            # Set flag to show word counts (dataset-specific)
+            st.session_state[f'{self.key_prefix}text_loaded_{dataset_safe}'] = True
             # Force rerun to update text areas
             st.rerun()

@@ -1,0 +1,144 @@
+word,domain,type,note
+☀️,emoji_nature,emoji,sun - 日 pictographic equivalent
+🌙,emoji_nature,emoji,moon - 月 pictographic equivalent
+🔥,emoji_nature,emoji,fire - 火 pictographic equivalent
+💧,emoji_nature,emoji,water drop - 水 pictographic equivalent
+🏔️,emoji_nature,emoji,mountain - 山 pictographic equivalent
+🌊,emoji_nature,emoji,river/wave - 川 pictographic equivalent
+🌳,emoji_nature,emoji,tree - 木 pictographic equivalent
+🌾,emoji_nature,emoji,grain/rice - 米 pictographic equivalent
+👁️,emoji_body,emoji,eye - 目 pictographic equivalent
+👄,emoji_body,emoji,mouth - 口 pictographic equivalent
+👂,emoji_body,emoji,ear - 耳 pictographic equivalent
+✋,emoji_body,emoji,hand - 手 pictographic equivalent
+🦶,emoji_body,emoji,foot - 足 pictographic equivalent
+👤,emoji_people,emoji,person silhouette - 人 pictographic equivalent
+👨,emoji_people,emoji,man - 男 pictographic equivalent
+👩,emoji_people,emoji,woman - 女 pictographic equivalent
+👶,emoji_people,emoji,baby - 儿 pictographic equivalent
+👴,emoji_people,emoji,old man - 老 pictographic equivalent
+👑,emoji_people,emoji,crown - 王 (king) pictographic equivalent
+🐉,emoji_animals,emoji,dragon - 龙 pictographic equivalent
+🐎,emoji_animals,emoji,horse - 马 pictographic equivalent
+🐄,emoji_animals,emoji,cow - 牛 pictographic equivalent
+🐑,emoji_animals,emoji,sheep - 羊 pictographic equivalent
+🐕,emoji_animals,emoji,dog - 犬 pictographic equivalent
+🐈,emoji_animals,emoji,cat - 猫 pictographic equivalent
+🐟,emoji_animals,emoji,fish - 鱼 pictographic equivalent
+🐦,emoji_animals,emoji,bird - 鸟 pictographic equivalent
+🐛,emoji_animals,emoji,insect - 虫 pictographic equivalent
+🍚,emoji_food,emoji,rice - 米 pictographic equivalent
+🍞,emoji_food,emoji,bread - 面 pictographic equivalent
+🍖,emoji_food,emoji,meat - 肉 pictographic equivalent
+🍷,emoji_food,emoji,wine - 酒 pictographic equivalent
+🏠,emoji_objects,emoji,house - 家 pictographic equivalent
+🚪,emoji_objects,emoji,door - 门 pictographic equivalent
+🪟,emoji_objects,emoji,window - 窗 pictographic equivalent
+🔪,emoji_objects,emoji,knife - 刀 pictographic equivalent
+⚔️,emoji_objects,emoji,sword - 剑 pictographic equivalent
+🏹,emoji_objects,emoji,bow - 弓 pictographic equivalent
+🛡️,emoji_objects,emoji,shield - 盾 pictographic equivalent
+🚗,emoji_transport,emoji,car - 车 pictographic equivalent
+🛥️,emoji_transport,emoji,boat - 船 pictographic equivalent
+✈️,emoji_transport,emoji,airplane - 飞 pictographic equivalent
+👕,emoji_clothing,emoji,shirt - 衣 pictographic equivalent
+👔,emoji_clothing,emoji,formal wear - 服 pictographic equivalent
+👠,emoji_clothing,emoji,shoe - 鞋 pictographic equivalent
+👒,emoji_clothing,emoji,hat - 帽 pictographic equivalent
+📚,emoji_symbols,emoji,books - 书 pictographic equivalent
+✏️,emoji_symbols,emoji,pencil - 笔 pictographic equivalent
+📄,emoji_symbols,emoji,paper - 纸 pictographic equivalent
+💰,emoji_symbols,emoji,money - 钱 pictographic equivalent
+💎,emoji_symbols,emoji,gem - 宝 pictographic equivalent
+⭐,emoji_symbols,emoji,star - 星 pictographic equivalent
+🌈,emoji_symbols,emoji,rainbow - 虹 pictographic equivalent
+⚡,emoji_symbols,emoji,lightning - 电 pictographic equivalent
+🎵,emoji_symbols,emoji,music - 音 pictographic equivalent
+❤️,emoji_emotions,emoji,heart - 心 pictographic equivalent
+😊,emoji_emotions,emoji,happy face - 乐 pictographic equivalent
+😢,emoji_emotions,emoji,crying - 哭 pictographic equivalent
+😠,emoji_emotions,emoji,anger - 怒 pictographic equivalent
+😴,emoji_emotions,emoji,sleeping - 睡 pictographic equivalent
+🤔,emoji_emotions,emoji,thinking - 思 pictographic equivalent
+❗,emoji_punctuation,emoji,exclamation - equivalent to punctuation
+❓,emoji_punctuation,emoji,question - equivalent to punctuation
+➡️,emoji_arrows,emoji,right arrow - direction indicator
+⬅️,emoji_arrows,emoji,left arrow - direction indicator
+⬆️,emoji_arrows,emoji,up arrow - direction indicator
+⬇️,emoji_arrows,emoji,down arrow - direction indicator
+🔄,emoji_arrows,emoji,cycle - circular movement
+1️⃣,emoji_numbers,emoji,one - 一 numeric equivalent
+2️⃣,emoji_numbers,emoji,two - 二 numeric equivalent
+3️⃣,emoji_numbers,emoji,three - 三 numeric equivalent
+4️⃣,emoji_numbers,emoji,four - 四 numeric equivalent
+5️⃣,emoji_numbers,emoji,five - 五 numeric equivalent
+6️⃣,emoji_numbers,emoji,six - 六 numeric equivalent
+7️⃣,emoji_numbers,emoji,seven - 七 numeric equivalent
+8️⃣,emoji_numbers,emoji,eight - 八 numeric equivalent
+9️⃣,emoji_numbers,emoji,nine - 九 numeric equivalent
+🔟,emoji_numbers,emoji,ten - 十 numeric equivalent
+🅰️,emoji_letters,emoji,letter A - Latin equivalent
+🅱️,emoji_letters,emoji,letter B - Latin equivalent
+🆎,emoji_letters,emoji,AB blood type - combination
+🆔,emoji_letters,emoji,ID - identification
+🔤,emoji_letters,emoji,abc - alphabet
+🔠,emoji_letters,emoji,ABCD - capital letters
+🔡,emoji_letters,emoji,abcd - lowercase letters
+🕐,emoji_time,emoji,one o'clock - 一点
+🕑,emoji_time,emoji,two o'clock - 二点
+🕒,emoji_time,emoji,three o'clock - 三点
+🌅,emoji_time,emoji,sunrise - 日出
+🌇,emoji_time,emoji,sunset - 日落
+🌃,emoji_time,emoji,night - 夜
+⚪,emoji_colors,emoji,white circle - 白
+⚫,emoji_colors,emoji,black circle - 黑
+🔴,emoji_colors,emoji,red circle - 红
+🟡,emoji_colors,emoji,yellow circle - 黄
+🔵,emoji_colors,emoji,blue circle - 蓝
+🟢,emoji_colors,emoji,green circle - 绿
+🟣,emoji_colors,emoji,purple circle - 紫
+🟤,emoji_colors,emoji,brown circle - 棕
+🟠,emoji_colors,emoji,orange circle - 橙
+🔥,emoji_elements,emoji,fire element - 火元素
+🌍,emoji_elements,emoji,earth element - 土元素
+💨,emoji_elements,emoji,wind element - 风元素
+❄️,emoji_elements,emoji,ice element - 冰元素
+⚡,emoji_elements,emoji,lightning element - 雷元素
+🌱,emoji_growth,emoji,seedling - growth/life force
+🌿,emoji_growth,emoji,herb - natural medicine
+🍃,emoji_growth,emoji,leaves - nature's breath
+🌺,emoji_growth,emoji,flower - beauty and growth
+🌸,emoji_growth,emoji,cherry blossom - spring
+🎋,emoji_growth,emoji,bamboo - strength and flexibility
+🌲,emoji_growth,emoji,evergreen - permanence
+🍄,emoji_growth,emoji,mushroom - transformation
+👥,emoji_social,emoji,people - 众 (crowd)
+👪,emoji_social,emoji,family - 家庭
+💑,emoji_social,emoji,couple - 夫妻
+🤝,emoji_social,emoji,handshake - agreement/friendship
+🙏,emoji_social,emoji,prayer/respect - 拜
+🎉,emoji_celebration,emoji,party - celebration
+🎊,emoji_celebration,emoji,confetti - joy
+🎈,emoji_celebration,emoji,balloon - festivity
+🎁,emoji_celebration,emoji,gift - present
+🍰,emoji_celebration,emoji,cake - birthday/celebration
+🏆,emoji_achievement,emoji,trophy - victory
+🥇,emoji_achievement,emoji,gold medal - first place
+⭐,emoji_achievement,emoji,star - excellence
+👍,emoji_gesture,emoji,thumbs up - approval/good
+👎,emoji_gesture,emoji,thumbs down - disapproval/bad
+✌️,emoji_gesture,emoji,peace sign - victory/peace
+🤞,emoji_gesture,emoji,crossed fingers - hope/luck
+👌,emoji_gesture,emoji,OK hand - perfect/agreement
+🤲,emoji_gesture,emoji,palms up - receiving/offering
+🔮,emoji_mystical,emoji,crystal ball - 占卜 (divination)
+🪬,emoji_mystical,emoji,hamsa - protection
+🧿,emoji_mystical,emoji,evil eye - ward off evil
+☯️,emoji_mystical,emoji,yin yang - 阴阳 balance
+🕉️,emoji_mystical,emoji,om - spiritual symbol
+🔯,emoji_mystical,emoji,star of David - sacred geometry
+⚰️,emoji_death,emoji,coffin - 棺材 death
+💀,emoji_death,emoji,skull - 骷髅 mortality
+👻,emoji_death,emoji,ghost - 鬼 spirit
+🧟,emoji_death,emoji,zombie - undead
+🦴,emoji_death,emoji,bone - 骨 skeletal remains

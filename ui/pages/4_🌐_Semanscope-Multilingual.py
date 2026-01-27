@@ -137,7 +137,8 @@ def generate_multilingual_visualization(visualizer, reducer, multilingual_data, 
             }
 
             color_key = lang_color_map.get(lang_code, "english")
-            actual_color = color_map[color_key]
+            # Use .get() with fallback to handle missing color map entries gracefully
+            actual_color = color_map.get(color_key, color_map.get("english", "#1f77b4"))
             word_colors = [actual_color] * len(words)
 
 

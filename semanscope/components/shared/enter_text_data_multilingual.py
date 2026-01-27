@@ -150,6 +150,9 @@ class MultilingualEnterTextDataWidget:
                 help="Choose a dataset for multilingual analysis"
             )
 
+            # Create dataset-safe key suffix to reset language selections when dataset changes
+            dataset_safe = input_name_selected.replace(" ", "_").replace("-", "_") if input_name_selected else "none"
+
             # Get language options and default indices (with smart duplication for datasets)
             lang_options, safe_defaults = self._get_language_options_and_defaults(input_name_selected, visualizer)
 
@@ -163,7 +166,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[0],
                     help="Select first language for comparison",
-                    key=f'{self.key_prefix}lang1'
+                    key=f'{self.key_prefix}lang1_{dataset_safe}'
                 )
 
             with col_lang2:
@@ -172,7 +175,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[1],
                     help="Select second language for comparison",
-                    key=f'{self.key_prefix}lang2'
+                    key=f'{self.key_prefix}lang2_{dataset_safe}'
                 )
 
             with col_lang3:
@@ -181,7 +184,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[2],
                     help="Select third language for comparison",
-                    key=f'{self.key_prefix}lang3'
+                    key=f'{self.key_prefix}lang3_{dataset_safe}'
                 )
 
             # Language codes for primary languages
@@ -203,7 +206,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[3],
                     help="Select fourth language",
-                    key=f'{self.key_prefix}lang4'
+                    key=f'{self.key_prefix}lang4_{dataset_safe}'
                 )
 
             with col_lang5:
@@ -212,7 +215,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[4],
                     help="Select fifth language",
-                    key=f'{self.key_prefix}lang5'
+                    key=f'{self.key_prefix}lang5_{dataset_safe}'
                 )
 
             with col_lang6:
@@ -221,7 +224,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[5],
                     help="Select sixth language",
-                    key=f'{self.key_prefix}lang6'
+                    key=f'{self.key_prefix}lang6_{dataset_safe}'
                 )
 
             # Always show Lang-7 to Lang-9 dropdowns
@@ -233,7 +236,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[6],
                     help="Select seventh language",
-                    key=f'{self.key_prefix}lang7'
+                    key=f'{self.key_prefix}lang7_{dataset_safe}'
                 )
 
             with col_lang8:
@@ -242,7 +245,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[7],
                     help="Select eighth language",
-                    key=f'{self.key_prefix}lang8'
+                    key=f'{self.key_prefix}lang8_{dataset_safe}'
                 )
 
             with col_lang9:
@@ -251,7 +254,7 @@ class MultilingualEnterTextDataWidget:
                     options=lang_options,
                     index=safe_defaults[8],
                     help="Select ninth language",
-                    key=f'{self.key_prefix}lang9'
+                    key=f'{self.key_prefix}lang9_{dataset_safe}'
                 )
 
             # Extended language codes
@@ -291,7 +294,7 @@ class MultilingualEnterTextDataWidget:
             # Handle load text button
             if btn_load_txt and visualizer and input_name_selected:
                 st.session_state[f'{self.key_prefix}show_extended_langs'] = True
-                self._handle_load_text(input_name_selected, all_lang_codes, visualizer)
+                self._handle_load_text(input_name_selected, all_lang_codes, visualizer, dataset_safe)
 
             # Text input areas
             # st.markdown("---")
@@ -309,7 +312,7 @@ class MultilingualEnterTextDataWidget:
             for col, lang_name, lang_code, position in primary_configs:
                 with col:
                     default_value = (
-                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area_{position}', '') or
+                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}', '') or
                         self.default_texts.get(lang_code, "")
                     )
 
@@ -317,18 +320,18 @@ class MultilingualEnterTextDataWidget:
                         f"{lang_name} ({lang_code}):",
                         value=default_value,
                         height=200,
-                        key=f'{self.key_prefix}{lang_code}_text_area_{position}'
+                        key=f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}'
                     )
                     text_content = (text_content or "").strip()
 
                     is_selected = st.checkbox(
                         "Include",
                         value=(len(text_content) > 0),
-                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}'
+                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}_{dataset_safe}'
                     )
 
                     # Word count display (only shown after Load Text is clicked)
-                    if st.session_state.get(f'{self.key_prefix}text_loaded', False) and text_content:
+                    if st.session_state.get(f'{self.key_prefix}text_loaded_{dataset_safe}', False) and text_content:
                         word_count = len([word.strip() for word in text_content.split('\n') if word.strip()])
                         st.caption(f"**Words:** {word_count}")
 
@@ -345,7 +348,7 @@ class MultilingualEnterTextDataWidget:
             for col, lang_name, lang_code, position in extended_configs_1:
                 with col:
                     default_value = (
-                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area_{position}', '') or
+                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}', '') or
                         self.default_texts.get(lang_code, "")
                     )
 
@@ -353,18 +356,18 @@ class MultilingualEnterTextDataWidget:
                         f"{lang_name} ({lang_code}):",
                         value=default_value,
                         height=200,
-                        key=f'{self.key_prefix}{lang_code}_text_area_{position}'
+                        key=f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}'
                     )
                     text_content = (text_content or "").strip()
 
                     is_selected = st.checkbox(
                         "Include",
                         value=(len(text_content) > 0),
-                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}'
+                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}_{dataset_safe}'
                     )
 
                     # Word count display (only shown after Load Text is clicked)
-                    if st.session_state.get(f'{self.key_prefix}text_loaded', False) and text_content:
+                    if st.session_state.get(f'{self.key_prefix}text_loaded_{dataset_safe}', False) and text_content:
                         word_count = len([word.strip() for word in text_content.split('\n') if word.strip()])
                         st.caption(f"**Words:** {word_count}")
 
@@ -381,7 +384,7 @@ class MultilingualEnterTextDataWidget:
             for col, lang_name, lang_code, position in extended_configs_2:
                 with col:
                     default_value = (
-                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area_{position}', '') or
+                        st.session_state.get(f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}', '') or
                         self.default_texts.get(lang_code, "")
                     )
 
@@ -389,18 +392,18 @@ class MultilingualEnterTextDataWidget:
                         f"{lang_name} ({lang_code}):",
                         value=default_value,
                         height=200,
-                        key=f'{self.key_prefix}{lang_code}_text_area_{position}'
+                        key=f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}'
                     )
                     text_content = (text_content or "").strip()
 
                     is_selected = st.checkbox(
                         "Include",
                         value=(len(text_content) > 0),
-                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}'
+                        key=f'{self.key_prefix}{lang_code}_include_checkbox_{position}_{dataset_safe}'
                     )
 
                     # Word count display (only shown after Load Text is clicked)
-                    if st.session_state.get(f'{self.key_prefix}text_loaded', False) and text_content:
+                    if st.session_state.get(f'{self.key_prefix}text_loaded_{dataset_safe}', False) and text_content:
                         word_count = len([word.strip() for word in text_content.split('\n') if word.strip()])
                         st.caption(f"**Words:** {word_count}")
 
@@ -413,7 +416,7 @@ class MultilingualEnterTextDataWidget:
                 'expanded_view': True  # Always in 9-language mode
             }
 
-    def _handle_load_text(self, input_name_selected: str, lang_codes: List[str], visualizer):
+    def _handle_load_text(self, input_name_selected: str, lang_codes: List[str], visualizer, dataset_safe: str):
         """Handle the Load Text button functionality for all languages"""
         missing_files = []
         positions = ["pos1", "pos2", "pos3", "pos4", "pos5", "pos6", "pos7", "pos8", "pos9"]
@@ -427,8 +430,8 @@ class MultilingualEnterTextDataWidget:
                     filtered_words = [word for word in words if not word.strip().startswith('#')]
                     # Convert back to text format for text area display
                     loaded_text = '\n'.join(filtered_words)
-                    # Store in session state
-                    st.session_state[f'{self.key_prefix}{lang_code}_text_area_{position}'] = loaded_text
+                    # Store in session state with dataset-specific key
+                    st.session_state[f'{self.key_prefix}{lang_code}_text_area_{position}_{dataset_safe}'] = loaded_text
                     # Store semantic colors as dictionary for later use
                     session_key = f"{lang_code}_semantic_colors"
                     st.session_state[session_key] = word_color_map
@@ -438,7 +441,7 @@ class MultilingualEnterTextDataWidget:
         if missing_files:
             st.warning("No text files found: " + " ; ".join(missing_files))
         else:
-            # Set flag to show word counts
-            st.session_state[f'{self.key_prefix}text_loaded'] = True
+            # Set flag to show word counts (dataset-specific)
+            st.session_state[f'{self.key_prefix}text_loaded_{dataset_safe}'] = True
             # Force rerun to update text areas with extended view
             st.rerun()

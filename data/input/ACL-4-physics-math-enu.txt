@@ -1,0 +1,263 @@
+word,domain,type,note
++,operations,symbol,addition operator
+-,operations,symbol,subtraction operator
+*,operations,symbol,multiplication operator
+/,operations,symbol,division operator
+=,operations,symbol,equality operator
+<,operations,symbol,less than
+>,operations,symbol,greater than
+≤,operations,symbol,less than or equal
+≥,operations,symbol,greater than or equal
+≠,operations,symbol,not equal
+±,operations,symbol,plus or minus
+∞,symbols,symbol,infinity symbol
+∑,symbols,symbol,summation
+∏,symbols,symbol,product
+∫,symbols,symbol,integral
+∂,symbols,symbol,partial derivative
+∇,symbols,symbol,nabla operator
+√,symbols,symbol,square root
+^,operations,symbol,exponentiation
+!,operations,symbol,factorial
+%,operations,symbol,modulo
+π,constants,constant,pi constant
+e,constants,constant,Euler's number
+i,constants,constant,imaginary unit
+φ,constants,constant,golden ratio
+0,numbers,number,zero digit
+1,numbers,number,one digit
+2,numbers,number,two digit
+3,numbers,number,three digit
+4,numbers,number,four digit
+5,numbers,number,five digit
+6,numbers,number,six digit
+7,numbers,number,seven digit
+8,numbers,number,eight digit
+9,numbers,number,nine digit
+10,numbers,number,ten
+100,numbers,number,hundred
+1000,numbers,number,thousand
+million,numbers,number,large number
+billion,numbers,number,large number
+infinity,numbers,concept,infinite quantity
+zero,numbers,word,zero as word
+one,numbers,word,one as word
+two,numbers,word,two as word
+three,numbers,word,three as word
+four,numbers,word,four as word
+five,numbers,word,five as word
+prime,numbers,concept,prime number
+even,numbers,concept,even number
+odd,numbers,concept,odd number
+rational,numbers,concept,rational number
+irrational,numbers,concept,irrational number
+real,numbers,concept,real number
+complex,numbers,concept,complex number
+imaginary,numbers,concept,imaginary number
+x,algebra,variable,common variable
+y,algebra,variable,common variable
+z,algebra,variable,common variable
+a,algebra,variable,common variable
+b,algebra,variable,common variable
+c,algebra,variable,common variable
+n,algebra,variable,common variable
+variable,algebra,concept,mathematical variable
+constant,algebra,concept,mathematical constant
+coefficient,algebra,concept,numerical coefficient
+equation,algebra,concept,mathematical equation
+function,algebra,concept,mathematical function
+polynomial,algebra,concept,polynomial function
+linear,algebra,concept,linear relationship
+quadratic,algebra,concept,quadratic function
+cubic,algebra,concept,cubic function
+exponential,algebra,concept,exponential function
+logarithm,algebra,concept,logarithmic function
+derivative,calculus,concept,rate of change
+integral,calculus,concept,area under curve
+limit,calculus,concept,limiting behavior
+series,calculus,concept,infinite series
+sequence,algebra,concept,ordered sequence
+matrix,algebra,concept,mathematical matrix
+vector,algebra,concept,mathematical vector
+determinant,algebra,concept,matrix determinant
+eigenvalue,algebra,concept,matrix eigenvalue
+eigenvector,algebra,concept,matrix eigenvector
+point,geometry,concept,geometric point
+line,geometry,concept,geometric line
+plane,geometry,concept,geometric plane
+angle,geometry,concept,geometric angle
+triangle,geometry,shape,three-sided polygon
+square,geometry,shape,four-sided rectangle
+circle,geometry,shape,round shape
+sphere,geometry,shape,3D ball
+cylinder,geometry,shape,3D cylinder
+cone,geometry,shape,3D cone
+polygon,geometry,concept,many-sided shape
+diameter,geometry,measure,circle diameter
+radius,geometry,measure,circle radius
+circumference,geometry,measure,circle perimeter
+area,geometry,measure,2D measurement
+volume,geometry,measure,3D measurement
+sine,geometry,function,trigonometric function
+cosine,geometry,function,trigonometric function
+tangent,geometry,function,trigonometric function
+hypotenuse,geometry,concept,triangle longest side
+perpendicular,geometry,concept,90 degree angle
+parallel,geometry,concept,same direction
+congruent,geometry,concept,same shape size
+similar,geometry,concept,same shape
+symmetry,geometry,concept,balanced proportion
+transformation,geometry,concept,geometric change
+calculus,calculus,field,mathematical analysis
+differentiation,calculus,operation,finding derivatives
+integration,calculus,operation,finding integrals
+chain rule,calculus,rule,derivative rule
+product rule,calculus,rule,derivative rule
+quotient rule,calculus,rule,derivative rule
+fundamental theorem,calculus,theorem,calculus main theorem
+continuity,calculus,concept,continuous function
+differentiable,calculus,concept,has derivative
+monotonic,calculus,concept,always increasing/decreasing
+concave,calculus,concept,curve shape
+convex,calculus,concept,curve shape
+minimum,calculus,concept,lowest point
+maximum,calculus,concept,highest point
+optimization,calculus,concept,finding extrema
+Taylor series,calculus,concept,function approximation
+Fourier series,calculus,concept,frequency analysis
+probability,statistics,concept,likelihood measure
+statistics,statistics,field,data analysis
+mean,statistics,measure,average value
+median,statistics,measure,middle value
+mode,statistics,measure,most frequent
+variance,statistics,measure,data spread
+deviation,statistics,measure,data variation
+normal,statistics,concept,bell curve
+distribution,statistics,concept,data pattern
+correlation,statistics,concept,relationship measure
+regression,statistics,concept,predictive modeling
+hypothesis,statistics,concept,testable statement
+significance,statistics,concept,statistical importance
+confidence,statistics,concept,certainty level
+random,statistics,concept,unpredictable
+sample,statistics,concept,data subset
+population,statistics,concept,complete dataset
+force,mechanics,concept,push or pull
+mass,mechanics,property,matter quantity
+acceleration,mechanics,concept,velocity change
+velocity,mechanics,concept,speed with direction
+speed,mechanics,concept,distance per time
+momentum,mechanics,concept,mass times velocity
+energy,mechanics,concept,capacity for work
+kinetic,mechanics,concept,motion energy
+potential,mechanics,concept,stored energy
+work,mechanics,concept,force times distance
+power,mechanics,concept,energy per time
+pressure,mechanics,concept,force per area
+density,mechanics,property,mass per volume
+friction,mechanics,force,resistance force
+gravity,mechanics,force,attractive force
+newton,mechanics,unit,force unit
+joule,mechanics,unit,energy unit
+watt,mechanics,unit,power unit
+heat,thermodynamics,concept,thermal energy
+temperature,thermodynamics,property,thermal state
+entropy,thermodynamics,concept,disorder measure
+enthalpy,thermodynamics,concept,heat content
+thermal,thermodynamics,concept,relating to heat
+specific heat,thermodynamics,property,heat capacity
+conductivity,thermodynamics,property,heat transfer
+radiation,thermodynamics,process,energy emission
+convection,thermodynamics,process,heat transfer
+conduction,thermodynamics,process,heat transfer
+gas law,thermodynamics,law,gas behavior
+ideal gas,thermodynamics,concept,theoretical gas
+absolute zero,thermodynamics,temperature,lowest temperature
+kelvin,thermodynamics,unit,temperature unit
+celsius,thermodynamics,unit,temperature unit
+fahrenheit,thermodynamics,unit,temperature unit
+charge,electromagnetism,property,electric property
+current,electromagnetism,concept,charge flow
+voltage,electromagnetism,concept,electric potential
+resistance,electromagnetism,property,current opposition
+capacitance,electromagnetism,property,charge storage
+inductance,electromagnetism,property,magnetic storage
+electric field,electromagnetism,concept,electric force field
+magnetic field,electromagnetism,concept,magnetic force field
+electromagnetic,electromagnetism,concept,electric and magnetic
+electron,electromagnetism,particle,negative particle
+proton,electromagnetism,particle,positive particle
+neutron,electromagnetism,particle,neutral particle
+ion,electromagnetism,particle,charged atom
+conductor,electromagnetism,material,current flows
+insulator,electromagnetism,material,blocks current
+semiconductor,electromagnetism,material,controlled conduction
+wave,waves,concept,energy propagation
+frequency,waves,property,oscillation rate
+wavelength,waves,property,wave length
+amplitude,waves,property,wave height
+phase,waves,property,wave position
+interference,waves,phenomenon,wave interaction
+diffraction,waves,phenomenon,wave bending
+refraction,waves,phenomenon,wave direction change
+reflection,waves,phenomenon,wave bouncing
+light,waves,phenomenon,electromagnetic radiation
+photon,waves,particle,light particle
+electromagnetic spectrum,waves,concept,all EM radiation
+visible light,waves,concept,light we see
+infrared,waves,concept,heat radiation
+ultraviolet,waves,concept,UV radiation
+laser,waves,device,coherent light
+optical,waves,concept,relating to light
+quantum,quantum,concept,energy packets
+relativity,relativity,theory,Einstein's theory
+spacetime,relativity,concept,space and time
+mass-energy,relativity,concept,E=mc²
+uncertainty principle,quantum,principle,Heisenberg principle
+wave-particle duality,quantum,concept,dual nature
+atom,quantum,particle,basic matter unit
+nucleus,nuclear,structure,atom center
+radioactive,nuclear,property,unstable decay
+decay,nuclear,process,radioactive breakdown
+fusion,nuclear,process,nuclei combining
+fission,nuclear,process,nucleus splitting
+particle,quantum,concept,basic matter unit
+antimatter,quantum,concept,opposite matter
+black hole,relativity,object,collapsed star
+big bang,relativity,theory,universe origin
+c,constants,constant,speed of light
+h,constants,constant,Planck constant
+G,constants,constant,gravitational constant
+k,constants,constant,Boltzmann constant
+R,constants,constant,gas constant
+NA,constants,constant,Avogadro number
+me,constants,constant,electron mass
+mp,constants,constant,proton mass
+elementary charge,constants,constant,fundamental charge
+Planck constant,constants,constant,quantum constant
+speed of light,constants,constant,universal speed limit
+gravitational constant,constants,constant,gravity strength
+Boltzmann constant,constants,constant,thermal constant
+gas constant,constants,constant,ideal gas constant
+Avogadro number,constants,constant,particle count
+pi,constants,constant,circle ratio
+euler,constants,constant,natural base
+golden ratio,constants,constant,aesthetic ratio
+natural logarithm,constants,function,ln function
+square root of 2,constants,constant,diagonal ratio
+fibonacci,constants,sequence,famous sequence
+theory,scientific_method,concept,explanatory framework
+hypothesis,scientific_method,concept,testable prediction
+experiment,scientific_method,process,controlled test
+observation,measurement,process,data collection
+measurement,measurement,process,quantifying
+data,measurement,concept,collected information
+analysis,scientific_method,process,data interpretation
+conclusion,scientific_method,result,final determination
+proof,logic,concept,logical demonstration
+theorem,logic,statement,proven statement
+lemma,logic,statement,helper theorem
+axiom,logic,statement,assumed truth
+postulate,logic,statement,geometric assumption
+scientific method,scientific_method,process,systematic investigation
+peer review,scientific_method,process,expert evaluation

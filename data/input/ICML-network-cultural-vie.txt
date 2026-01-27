@@ -1,0 +1,85 @@
+word,domain,type,network_root,cultural_context
+# Morphological networks for Vietnamese - showing Latin adaptation with cultural preservation
+# ICML-2026: Dimensionality of Meaning framework
+
+# học-network (learning - Vietnamese educational adaptation)
+học tập,actions_verbs,study,học,vietnamese_education
+trường học,places,school,học,vietnamese_education
+học sinh,people,student,học,vietnamese_education
+đại học,places,university,học,vietnamese_education
+trung học,places,middle_school,học,vietnamese_education
+tiểu học,places,elementary_school,học,vietnamese_education
+khoa học,science,science,học,vietnamese_education
+triết học,philosophy,philosophy,học,vietnamese_education
+
+# người-network (person - Vietnamese social concepts)
+người,people,person,người,vietnamese_social
+cá nhân,people,individual,người,vietnamese_social
+chủ nhân,people,owner,người,vietnamese_social
+khách,people,guest,người,vietnamese_social
+người lớn,people,adult,người,vietnamese_social
+trẻ em,people,children,người,vietnamese_social
+người Việt,people,vietnamese_nationality,người,vietnamese_identity
+người nước ngoài,people,foreigner,người,vietnamese_identity
+
+# tâm-network (heart/mind - Vietnamese emotional concepts with Latin tones)
+tâm,emotions,heart_mind,tâm,vietnamese_emotion
+trung tâm,spatial_directional,center,tâm,vietnamese_concept
+quan tâm,emotions,care,tâm,vietnamese_emotion
+lo lắng,emotions,worry,tâm,vietnamese_emotion
+vui mừng,emotions,joy,tâm,vietnamese_emotion
+buồn bã,emotions,sadness,tâm,vietnamese_emotion
+yêu thương,emotions,love,tâm,vietnamese_emotion
+bình an,emotions,peace,tâm,vietnamese_emotion
+
+# nước-network (water/country dual meaning - Vietnamese cultural adaptation)
+nước sông,nature_elements,river_water,nước,vietnamese_nature
+nước biển,nature_elements,sea_water,nước,vietnamese_nature
+nước mưa,nature_elements,rain_water,nước,vietnamese_nature
+nước mắt,body_parts,tears,nước,vietnamese_body
+thuốc nước,medicine,liquid_medicine,nước,vietnamese_practical
+nước uống,food,drinking_water,nước,vietnamese_food
+nước Việt Nam,places,vietnam_country,nước,vietnamese_patriotism
+nước ngoài,places,foreign_country,nước,vietnamese_patriotism
+
+# trời-network (sky/heaven - Vietnamese cosmic concepts)
+trời,nature_elements,sky,trời,vietnamese_nature
+thời tiết,nature_elements,weather,trời,vietnamese_nature
+hôm qua,time_temporal,yesterday,trời,vietnamese_time
+hôm nay,time_temporal,today,trời,vietnamese_time
+ngày mai,time_temporal,tomorrow,trời,vietnamese_time
+mùa xuân,time_temporal,spring,trời,vietnamese_seasonal
+mùa hè,time_temporal,summer,trời,vietnamese_seasonal
+mùa đông,time_temporal,winter,trời,vietnamese_seasonal
+
+# nhà-network (house/home - Vietnamese domestic concepts)
+nhà,places,house,nhà,vietnamese_domestic
+gia đình,people,family,nhà,vietnamese_domestic
+gia đình,people,household,nhà,vietnamese_domestic
+trong nhà,places,inside_house,nhà,vietnamese_domestic
+ra khỏi nhà,actions_verbs,leaving_home,nhà,vietnamese_domestic
+về nhà,actions_verbs,returning_home,nhà,vietnamese_domestic
+chủ nhà,people,house_owner,nhà,vietnamese_domestic
+người thuê,people,tenant,nhà,vietnamese_domestic
+
+# việc-network (work/affairs - Vietnamese work culture)
+việc,actions_verbs,work_affairs,việc,vietnamese_work_culture
+nghề nghiệp,actions_verbs,occupation,việc,vietnamese_work_culture
+công ty,places,company,việc,vietnamese_work_culture
+văn phòng,places,office,việc,vietnamese_work_culture
+làm việc,actions_verbs,working,việc,vietnamese_work_culture
+nghỉ ngơi,actions_verbs,rest,việc,vietnamese_work_culture
+thành công,abstract_qualities,success,việc,vietnamese_work_culture
+thất bại,abstract_qualities,failure,việc,vietnamese_work_culture
+
+# Vietnamese tone systematic networks (showing diacritical adaptation)
+má,body_parts,cheek,má,vietnamese_tones
+mà,conjunctions,but,mà,vietnamese_tones
+mả,places,grave,mả,vietnamese_tones
+mã,animals,horse,mã,vietnamese_tones
+mạ,plants,rice_seedling,mạ,vietnamese_tones
+ba,numbers,three,ba,vietnamese_tones
+bà,family_kinship,grandmother,bà,vietnamese_tones
+bá,titles,count,bá,vietnamese_tones
+bả,pronouns,she,bả,vietnamese_tones
+bạ,emotions,random,bạ,vietnamese_tones

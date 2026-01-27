@@ -1,0 +1,66 @@
+word,domain,type,note
+i,SUBSTANTIVES,noun,entity
+you,SUBSTANTIVES,noun,entity
+someone,SUBSTANTIVES,noun,entity
+something,SUBSTANTIVES,verb,entity
+people,SUBSTANTIVES,noun,entity
+body,SUBSTANTIVES,noun,entity
+kind,RELATIONAL_SUBSTANTIVES,noun,relation
+part,RELATIONAL_SUBSTANTIVES,noun,relation
+this,DETERMINERS,determiner,reference
+the same,DETERMINERS,determiner,reference
+other,DETERMINERS,determiner,reference
+one,QUANTIFIERS,determiner,quantity
+two,QUANTIFIERS,determiner,quantity
+some,QUANTIFIERS,determiner,quantity
+all,QUANTIFIERS,determiner,quantity
+much many,QUANTIFIERS,determiner,quantity
+little few,QUANTIFIERS,determiner,quantity
+good,EVALUATORS,adjective,evaluation
+bad,EVALUATORS,adjective,evaluation
+big,DESCRIPTORS,adjective,property
+small,DESCRIPTORS,adjective,property
+think,MENTAL_PREDICATES,verb,cognition
+know,MENTAL_PREDICATES,verb,cognition
+want,MENTAL_PREDICATES,verb,cognition
+dont want,MENTAL_PREDICATES,verb,cognition
+feel,MENTAL_PREDICATES,verb,cognition
+see,MENTAL_PREDICATES,verb,cognition
+hear,MENTAL_PREDICATES,verb,cognition
+say,SPEECH,verb,communication
+words,SPEECH,verb,communication
+true,SPEECH,verb,communication
+do,ACTIONS_EVENTS_MOVEMENT,verb,action
+happen,ACTIONS_EVENTS_MOVEMENT,verb,action
+move,ACTIONS_EVENTS_MOVEMENT,verb,action
+be somewhere,LOCATION_EXISTENCE,other,existence
+there is,LOCATION_EXISTENCE,other,existence
+be something,LOCATION_EXISTENCE,verb,existence
+be mine,LOCATION_EXISTENCE,other,existence
+live,LIFE_DEATH,adjective,life
+die,LIFE_DEATH,verb,life
+when,TIME,other,temporal
+now,TIME,other,temporal
+before,TIME,other,temporal
+after,TIME,other,temporal
+a long time,TIME,other,temporal
+a short time,TIME,other,temporal
+for some time,TIME,other,temporal
+moment,TIME,other,temporal
+where,SPACE,other,spatial
+here,SPACE,other,spatial
+above,SPACE,other,spatial
+below,SPACE,other,spatial
+far,SPACE,other,spatial
+near,SPACE,other,spatial
+side,SPACE,other,spatial
+inside,SPACE,other,spatial
+touch,SPACE,other,spatial
+not,LOGICAL_CONCEPTS,conjunction,logic
+maybe,LOGICAL_CONCEPTS,conjunction,logic
+can,LOGICAL_CONCEPTS,conjunction,logic
+because,LOGICAL_CONCEPTS,conjunction,logic
+if,LOGICAL_CONCEPTS,conjunction,logic
+very,INTENSIFIER_AUGMENTOR,adverb,degree
+more,INTENSIFIER_AUGMENTOR,adverb,degree
+like,SIMILARITY,other,comparison

@@ -1,0 +1,19 @@
+lang_cd,lang_name,lang_family,writing_system,script_type,dataset_file,domain_color,sub_atomic_candidates,description,note
+enu,English,Indo-European,Latin,Alphabetic,ACL-Alphabets-enu.txt,latin_uppercase,none,Standard Latin alphabet letters A-Z,Basic alphabetic system - atomic level units
+ara,Arabic,Semitic,Arabic,Abjad,ACL-Alphabets-ara.txt,arabic_letters,trilateral_roots,Arabic letters with consonantal framework,Candidate sub-atomic: trilateral root patterns (ك-ت-ب)
+chn,Chinese,Sino-Tibetan,Hanzi,Logographic,ACL-Alphabets-chn.txt,radicals_1d,pure_radicals,Chinese character radicals and components,CONFIRMED sub-atomic: pure structural radicals
+heb,Hebrew,Semitic,Hebrew,Abjad,ACL-Alphabets-heb.txt,hebrew_letters,consonantal_roots,Hebrew alphabet letters,Candidate sub-atomic: consonantal root structures
+hin,Hindi,Indo-European,Devanagari,Abugida,ACL-Alphabets-hin.txt,hindi_letters,dhatu_roots,Devanagari script characters,Candidate sub-atomic: Sanskrit dhatu roots
+kor,Korean,Koreanic,Hangul,Featural,ACL-Alphabets-kor.txt,korean_letters,jamo_components,Korean Hangul jamo (consonants/vowels),Candidate sub-atomic: individual jamo within syllable blocks
+jpn,Japanese,Japonic,Hiragana,Syllabic,ACL-Alphabets-jpn.txt,hiragana_letters,radical_components,Japanese hiragana syllabary,Mixed system - potential radical analysis in kanji
+tha,Thai,Tai-Kadai,Thai,Abugida,ACL-Alphabets-tha.txt,thai_letters,tone_markers,Thai script characters,Tonal language with potential structural markers
+rus,Russian,Indo-European,Cyrillic,Alphabetic,ACL-Alphabets-rus.txt,russian_letters,none,Russian Cyrillic alphabet,Slavic alphabetic system - atomic level units
+fra,French,Indo-European,Latin,Alphabetic,ACL-Alphabets-fra.txt,french_uppercase,none,French Latin alphabet with diacritics,Extended Latin with diacritical marks
+spa,Spanish,Indo-European,Latin,Alphabetic,ACL-Alphabets-spa.txt,spanish_uppercase,none,Spanish Latin alphabet,Standard Latin with ñ and diacritics
+deu,German,Indo-European,Latin,Alphabetic,ACL-Alphabets-deu.txt,german_uppercase,none,German Latin alphabet with umlauts,Extended Latin with ä ö ü ß
+grk,Greek,Indo-European,Greek,Alphabetic,ACL-Alphabets-grk.txt,greek_uppercase,none,Classical Greek alphabet letters Α-Ω,Ancient alphabet for comparative baseline
+fas,Persian,Indo-European,Arabic,Abjad,ACL-Alphabets-fas.txt,persian_letters,trilateral_adaptation,Persian letters using Arabic script,Arabic script variant with Indo-European phonology
+tur,Turkish,Turkic,Latin,Alphabetic,ACL-Alphabets-tur.txt,turkish_uppercase,special_letters,Turkish Latin alphabet with special letters,Extended Latin with Turkish-specific modifications
+kat,Georgian,Kartvelian,Georgian,Alphabetic,ACL-Alphabets-kat.txt,georgian_letters,none,Georgian script letters ა-ჰ,Unique writing system isolated from other families
+hye,Armenian,Indo-European,Armenian,Alphabetic,ACL-Alphabets-hye.txt,armenian_uppercase,none,Armenian script letters Ա-Ֆ,Ancient Indo-European script independent development
+vie,Vietnamese,Austro-Asiatic,Latin,Alphabetic,ACL-Alphabets-vie.txt,vietnamese_letters,tonal_diacritics,Vietnamese Latin alphabet with extensive tone markers,Complex diacritical system for tonal language

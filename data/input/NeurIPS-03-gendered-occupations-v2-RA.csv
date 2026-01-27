@@ -1,0 +1,51 @@
+relation_id,category,word1_en,word2_en,word1_zh,word2_zh,word1_es,word2_es,relation_type,verified,notes
+NeurIPS-RA-036,occupation,actor,actress,演员,女演员,actor,actriz,gendered_pair,pending,
+NeurIPS-RA-037,occupation,waiter,waitress,服务员,女服务员,camarero,camarera,gendered_pair,pending,
+NeurIPS-RA-038,occupation,host,hostess,主持人,女主持人,anfitrión,anfitriona,gendered_pair,pending,
+NeurIPS-RA-039,occupation,steward,stewardess,空乘,空姐,azafato,azafata,gendered_pair,pending,
+NeurIPS-RA-040,occupation,hero,heroine,英雄,女英雄,héroe,heroína,gendered_pair,pending,
+NeurIPS-RA-041,occupation,author,authoress,作家,女作家,autor,autora,gendered_pair,pending,
+NeurIPS-RA-042,occupation,poet,poetess,诗人,女诗人,poeta,poetisa,gendered_pair,pending,
+NeurIPS-RA-043,occupation,hunter,huntress,猎人,女猎人,cazador,cazadora,gendered_pair,pending,
+NeurIPS-RA-044,occupation,priest,priestess,祭司,女祭司,sacerdote,sacerdotisa,gendered_pair,pending,
+NeurIPS-RA-045,occupation,chairman,chairwoman,主席,女主席,presidente,presidenta,gendered_pair,pending,
+NeurIPS-RA-046,occupation,policeman,policewoman,警察,女警察,policía,policía,gendered_pair,pending,note: same form in Spanish
+NeurIPS-RA-047,occupation,spokesman,spokeswoman,发言人,女发言人,portavoz,portavoz,gendered_pair,pending,note: same form in Spanish
+NeurIPS-RA-048,occupation,fireman,firewoman,消防员,女消防员,bombero,bombera,gendered_pair,pending,
+NeurIPS-RA-049,occupation,businessman,businesswoman,商人,女商人,empresario,empresaria,gendered_pair,pending,
+NeurIPS-RA-050,occupation,salesman,saleswoman,销售员,女销售员,vendedor,vendedora,gendered_pair,pending,
+NeurIPS-RA-051,occupation,mailman,mailwoman,邮递员,女邮递员,cartero,cartera,gendered_pair,pending,
+NeurIPS-RA-052,occupation,congressman,congresswoman,国会议员,女国会议员,congresista,congresista,gendered_pair,pending,note: same form in Spanish
+NeurIPS-RA-053,occupation,headmaster,headmistress,校长,女校长,director,directora,gendered_pair,pending,
+NeurIPS-RA-054,occupation,shepherd,shepherdess,牧羊人,女牧羊人,pastor,pastora,gendered_pair,pending,
+NeurIPS-RA-055,occupation,sorcerer,sorceress,巫师,女巫,hechicero,hechicera,gendered_pair,pending,
+NeurIPS-RA-071,occupation,comedian,comedienne,喜剧演员,女喜剧演员,cómico,cómica,gendered_pair,pending,"'comedienne' is dated but attested"
+NeurIPS-RA-072,occupation,aviator,aviatrix,飞行员,女飞行员,aviador,aviadora,gendered_pair,pending,"'aviatrix' is historical; Spanish uses 'aviadora'"
+NeurIPS-RA-073,occupation,usher,usherette,引座员,女引座员,acompañante,acompañante,gendered_pair,pending,"Spanish uses same term; 'usherette' is dated"
+NeurIPS-RA-074,occupation,barman,barmaid,酒吧侍者,女酒吧侍者,barman,barmaid,gendered_pair,pending,"Spanish often uses 'camarero/a de bar'"
+NeurIPS-RA-075,occupation,conductor,conductress,指挥,女指挥,conductor,conductora,gendered_pair,pending,"'conductress' rare in English; common in Spanish"
+NeurIPS-RA-076,occupation,emperor,empress,皇帝,女皇,emperador,emperatriz,gendered_pair,pending,
+NeurIPS-RA-077,occupation,king,queen,国王,女王,rey,reina,gendered_pair,pending,
+NeurIPS-RA-078,occupation,prince,princess,王子,公主,príncipe,princesa,gendered_pair,pending,
+NeurIPS-RA-079,occupation,duke,duchess,公爵,女公爵,duque,duquesa,gendered_pair,pending,
+NeurIPS-RA-080,occupation,abbot,abbess,男修道院院长,女修道院院长,abade,abadesa,gendered_pair,pending,
+NeurIPS-RA-081,occupation,monk,nun,僧侣,修女,monje,monja,gendered_pair,pending,
+NeurIPS-RA-082,occupation,god,goddess,神,女神,dios,diosa,gendered_pair,pending,
+NeurIPS-RA-083,occupation,gentleman,lady,绅士,女士,caballero,dama,gendered_pair,pending,"broad social roles, sometimes occupational"
+NeurIPS-RA-084,occupation,scribe,scrivener,抄写员,女抄写员,escriba,escribana,gendered_pair,pending,"Spanish has 'escribana'; English rarely genders"
+NeurIPS-RA-085,occupation,magician,sorceress,魔术师,女巫师,mago,hechicera,gendered_pair,pending,"overlap with 'sorcerer'; see RA-055"
+NeurIPS-RA-086,occupation,usher,usheress,引宾员,女引宾员,usher,usheres,gendered_pair,pending,"'usheress' rare; Spanish uses 'acompañante'"
+NeurIPS-RA-087,occupation,baker,bakeress,面包师,女面包师,panadero,panadera,gendered_pair,pending,"'bakeress' archaic; Spanish has clear gender"
+NeurIPS-RA-088,occupation,tailor,seamstress,裁缝,女裁缝,sastre,modista,gendered_pair,pending,"Note: 'seamstress' ≠ male 'tailor'; Spanish: 'modista' often female"
+NeurIPS-RA-089,occupation,weaver,weavress,织工,女织工,tejedor,tejedora,gendered_pair,pending,"'weavress' very rare; Spanish uses 'tejedora'"
+NeurIPS-RA-090,occupation,farmer,farmerette,农民,女农民,granjero,granjera,gendered_pair,pending,"'farmerette' is nonce word; Spanish has gendered form"
+NeurIPS-RA-091,occupation,teacher,teacheress,教师,女教师,maestro,maestra,gendered_pair,pending,"'teacheress' obsolete; Spanish/Chinese gender clearly"
+NeurIPS-RA-092,occupation,singer,songstress,歌手,女歌手,cantante,cantante,gendered_pair,pending,"English: 'songstress' poetic; Spanish same form"
+NeurIPS-RA-093,occupation,dancer,danstress,舞者,女舞者,bailarín,bailarina,gendered_pair,pending,"'danstress' rare; Spanish has clear pair"
+NeurIPS-RA-094,occupation,writer,authoress,作者,女作者,escritor,escritora,gendered_pair,pending,"duplicate concept from RA-041; included for completeness with 'writer'"
+NeurIPS-RA-095,occupation,sculptor,sculptress,雕塑家,女雕塑家,escultor,escultora,gendered_pair,pending,
+NeurIPS-RA-096,occupation,painter,paintress,画家,女画家,pintor,pintora,gendered_pair,pending,"'paintress' archaic; Spanish uses 'pintora'"
+NeurIPS-RA-097,occupation,professor,professoress,教授,女教授,profesor,profesora,gendered_pair,pending,"'professoress' rare; Spanish/Chinese gendered"
+NeurIPS-RA-098,occupation,doctor,doctress,医生,女医生,médico,médica,gendered_pair,pending,"'doctress' outdated; Spanish uses 'médica'"
+NeurIPS-RA-099,occupation,engineer,engineeress,工程师,女工程师,ingeniero,ingeniera,gendered_pair,pending,"'engineeress' rare; Spanish has 'ingeniera'"
+NeurIPS-RA-100,occupation,scientist,scientistess,科学家,女科学家,científico,científica,gendered_pair,pending,"'scientistess' not standard; Spanish uses 'científica'"

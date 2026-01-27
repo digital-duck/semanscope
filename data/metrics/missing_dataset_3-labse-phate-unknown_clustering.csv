@@ -1,0 +1,5 @@
+davies_bouldin_score,density_std,hull_areas,hull_perimeters,inertia,input_name,language_separation_scores,max_density,mean_density,mean_hull_area,mean_language_coherence,method_name,metric_type,min_density,model_name,num_clusters,silhouette_score,timestamp,total_hull_area
+0.5449,,,,0.0354,MISSING_DATASET_3,,,,,,PHATE,basic_clustering,,LaBSE,5,0.5496,20260126_200449,
+,28.014702515861842,,,,MISSING_DATASET_3,,101,84.24778761061947,,,PHATE,density_analysis,10,LaBSE,,,20260126_200449,
+,,0.00046752080561048525;0.0001248998487143057;0.0014270992908564488;0.000794700024254502;0.0015568980297505685,0.08507586431892626;0.14905303344961965;0.1440656985214481;0.11650048241008946;0.2268377252696262,,MISSING_DATASET_3,,,,0.000874223599837262,,PHATE,boundary_analysis,,LaBSE,,,20260126_200449,0.00437111799918631
+,,,,,MISSING_DATASET_3,,,,,0,PHATE,language_coherence,,LaBSE,,,20260126_200449,

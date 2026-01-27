@@ -1,0 +1,5 @@
+relation_id,category,word1_en,word2_en,word1_zh,word2_zh,word1_es,word2_es,relation_type,verified,notes
+NeurIPS-RA-056,animal,bull,cow,公牛,母牛,toro,vaca,gendered_pair,pending,
+NeurIPS-RA-057,animal,rooster,hen,公鸡,母鸡,gallo,gallina,gendered_pair,pending,
+NeurIPS-RA-058,animal,stallion,mare,公马,母马,semental,yegua,gendered_pair,pending,
+NeurIPS-RA-059,animal,ram,ewe,公羊,母羊,carnero,oveja,gendered_pair,pending,

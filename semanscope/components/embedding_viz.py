@@ -1007,12 +1007,13 @@ class EmbeddingVisualizer:
                             else:
                                 # Word not found in mapping, use fallback
                                 color_key = lang_color_map.get(lang_code, "english")
-                                fallback_color = COLOR_MAP[color_key]
+                                fallback_color = COLOR_MAP.get(color_key, COLOR_MAP.get("english", "#1f77b4"))
                                 all_colors.append(fallback_color)
                     else:
                         # Fallback to language-based coloring
                         color_key = lang_color_map.get(lang_code, "english")
-                        all_colors.extend([COLOR_MAP[color_key]] * len(data['words']))
+                        actual_color = COLOR_MAP.get(color_key, COLOR_MAP.get("english", "#1f77b4"))
+                        all_colors.extend([actual_color] * len(data['words']))
 
             # ========================================
             # RETURN VALUE

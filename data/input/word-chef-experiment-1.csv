@@ -1,0 +1,16 @@
+sentence_id,sentence,validity,semantic_pattern,notes
+1,I eat 2 apples daily at home because fruits are good for health,valid,entity+action+quantifier+entity+temporal+spatial+causality+entity+relation+qualifier,Original valid sentence
+2,Apples eat I daily at moon because numbers are bad for health,invalid,entity+action+entity+temporal+spatial+causality+entity+relation+qualifier,Subject-object reversal + impossible location
+3,You drink 3 oranges sometimes at work because vegetables are healthy for body,questionable,entity+action+quantifier+entity+temporal+spatial+causality+entity+relation+qualifier,Category confusion (oranges vs vegetables)
+4,People see many colors always here because beauty is good for mind,valid,entity+action+quantifier+entity+temporal+spatial+causality+entity+relation+qualifier,Philosophically coherent
+5,Health eats 2 homes daily at fruits because good are apples,invalid,entity+action+quantifier+entity+temporal+spatial+causality+qualifier+relation+entity,Abstract eating concrete + scrambled syntax
+6,I think 1 thought now inside because knowing is very nice,questionable,entity+action+quantifier+entity+temporal+spatial+causality+entity+relation+qualifier,Recursive/meta-cognitive
+7,Fruits touch this food sometimes below because touching feels good,questionable,entity+action+identity+entity+temporal+spatial+causality+action+relation+qualifier,Odd spatial relationship
+8,We move 5 steps yesterday above because movement is healthy,questionable,entity+action+quantifier+entity+temporal+spatial+causality+entity+relation+qualifier,Temporal mismatch (yesterday + above)
+9,Something knows all things always everywhere because knowledge lives here,valid,entity+action+quantifier+entity+temporal+spatial+causality+entity+action+spatial,Abstract but coherent
+10,2 eat I apples because daily home good at,invalid,quantifier+action+entity+entity+causality+temporal+spatial+qualifier+spatial,Completely scrambled structure
+11,You are 1 person today at heart because being is beautiful,valid,entity+relation+quantifier+entity+temporal+spatial+causality+action+relation+qualifier,Metaphorical but valid
+12,Bad eats very good never nowhere because not not not,invalid,qualifier+action+qualifier+qualifier+temporal+spatial+causality+causality+causality+causality,Nonsensical negation cascade
+13,I touch 2 ideas sometimes inside mind because thoughts feel soft,questionable,entity+action+quantifier+entity+temporal+spatial+entity+causality+entity+relation+qualifier,Synesthetic mixing
+14,Time moves all people daily through space because motion is natural,valid,entity+action+quantifier+entity+temporal+spatial+spatial+causality+entity+relation+qualifier,Physics-like abstraction
+15,Apple I 2 eat home daily because health good fruits,questionable,entity+entity+quantifier+action+spatial+temporal+causality+entity+qualifier+entity,Telegraphic/pidgin structure

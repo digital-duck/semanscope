@@ -1,0 +1,8 @@
+east
+south
+west
+north
+spring
+summer
+autumn
+winter

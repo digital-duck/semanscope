@@ -1,0 +1,66 @@
+word,domain,type,note
+나,SUBSTANTIVES,noun,entity
+너,SUBSTANTIVES,noun,entity
+누군가,SUBSTANTIVES,noun,entity
+무언가,SUBSTANTIVES,verb,entity
+사람들,SUBSTANTIVES,noun,entity
+몸,SUBSTANTIVES,noun,entity
+종류,RELATIONAL_SUBSTANTIVES,noun,relation
+부분,RELATIONAL_SUBSTANTIVES,noun,relation
+이,DETERMINERS,determiner,reference
+같은,DETERMINERS,determiner,reference
+다른,DETERMINERS,determiner,reference
+하나,QUANTIFIERS,determiner,quantity
+둘,QUANTIFIERS,determiner,quantity
+어떤,QUANTIFIERS,determiner,quantity
+모든,QUANTIFIERS,determiner,quantity
+많은,QUANTIFIERS,determiner,quantity
+적은 수,QUANTIFIERS,determiner,quantity
+좋은,EVALUATORS,adjective,evaluation
+나쁜,EVALUATORS,adjective,evaluation
+큰,DESCRIPTORS,adjective,property
+작은,DESCRIPTORS,adjective,property
+생각하다,MENTAL_PREDICATES,verb,cognition
+알다,MENTAL_PREDICATES,verb,cognition
+원하다,MENTAL_PREDICATES,verb,cognition
+원하지 않다,MENTAL_PREDICATES,verb,cognition
+느끼다,MENTAL_PREDICATES,verb,cognition
+보다,MENTAL_PREDICATES,verb,cognition
+듣다,MENTAL_PREDICATES,verb,cognition
+말하다,SPEECH,verb,communication
+단어,SPEECH,verb,communication
+진실,SPEECH,verb,communication
+하다,ACTIONS_EVENTS_MOVEMENT,verb,action
+일어나다,ACTIONS_EVENTS_MOVEMENT,verb,action
+움직이다,ACTIONS_EVENTS_MOVEMENT,verb,action
+어딘가에 있다,LOCATION_EXISTENCE,other,existence
+있다,LOCATION_EXISTENCE,other,existence
+무언가이다,LOCATION_EXISTENCE,verb,existence
+내 것이다,LOCATION_EXISTENCE,other,existence
+살다,LIFE_DEATH,adjective,life
+죽다,LIFE_DEATH,verb,life
+언제,TIME,other,temporal
+지금,TIME,other,temporal
+이전,TIME,other,temporal
+이후,TIME,other,temporal
+긴 시간,TIME,other,temporal
+짧은 시간,TIME,other,temporal
+얼마간,TIME,other,temporal
+순간,TIME,other,temporal
+어디,SPACE,other,spatial
+여기,SPACE,other,spatial
+위,SPACE,other,spatial
+아래,SPACE,other,spatial
+멀리,SPACE,other,spatial
+가까이,SPACE,other,spatial
+옆,SPACE,other,spatial
+안,SPACE,other,spatial
+만지다,SPACE,other,spatial
+아니다,LOGICAL_CONCEPTS,conjunction,logic
+아마도,LOGICAL_CONCEPTS,conjunction,logic
+할 수 있다,LOGICAL_CONCEPTS,conjunction,logic
+왜냐하면,LOGICAL_CONCEPTS,conjunction,logic
+만약,LOGICAL_CONCEPTS,conjunction,logic
+매우,INTENSIFIER_AUGMENTOR,adverb,degree
+더,INTENSIFIER_AUGMENTOR,adverb,degree
+같은,SIMILARITY,other,comparison

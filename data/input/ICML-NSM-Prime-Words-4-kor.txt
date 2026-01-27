@@ -1,0 +1,11 @@
+word,domain,type,note
+명상,CONTROL_WORD,other,control
+맛있는,CONTROL_WORD,other,control
+장엄한,CONTROL_WORD,other,control
+사색,CONTROL_WORD,other,control
+숙고,CONTROL_WORD,other,control
+정교한,CONTROL_WORD,other,control
+엄청난,CONTROL_WORD,other,control
+미세한,CONTROL_WORD,other,control
+거대한,CONTROL_WORD,other,control
+확인,CONTROL_WORD,other,control

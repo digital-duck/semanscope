@@ -1,0 +1,11 @@
+mv NeurIPS-01-family-relations-v1-RA.csv NeurIPS-01-family-relations-RA-v1.csv
+mv NeurIPS-02-royalty-hierarchy-v1-RA.csv NeurIPS-02-royalty-hierarchy-RA-v1.csv
+mv NeurIPS-03-gendered-occupations-v1-RA.csv NeurIPS-03-gendered-occupations-RA-v1.csv
+mv NeurIPS-04-comparative-superlative-v1-RA.csv NeurIPS-04-comparative-superlative-RA-v1.csv
+mv NeurIPS-05-opposite-relations-v1-RA.csv NeurIPS-05-opposite-relations-RA-v1.csv
+mv NeurIPS-06-animal-gender-v1-RA.csv NeurIPS-06-animal-gender-RA-v1.csv
+mv NeurIPS-07-sequential-mathematical-v1-RA.csv NeurIPS-07-sequential-mathematical-RA-v1.csv
+mv NeurIPS-08-hierarchical-relations-v1-RA.csv NeurIPS-08-hierarchical-relations-RA-v1.csv
+mv NeurIPS-09-part-whole-v1-RA.csv NeurIPS-09-part-whole-RA-v1.csv
+mv NeurIPS-10-size-scale-v1-RA.csv NeurIPS-10-size-scale-RA-v1.csv
+mv NeurIPS-11-cause-effect-v1-RA.csv NeurIPS-11-cause-effect-RA-v1.csv

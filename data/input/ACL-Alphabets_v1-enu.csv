@@ -1,0 +1,101 @@
+word,domain,type,note
+A,latin_uppercase,letter,first letter of alphabet
+B,latin_uppercase,letter,second letter of alphabet
+C,latin_uppercase,letter,third letter of alphabet
+D,latin_uppercase,letter,fourth letter of alphabet
+E,latin_uppercase,letter,fifth letter of alphabet
+F,latin_uppercase,letter,sixth letter of alphabet
+G,latin_uppercase,letter,seventh letter of alphabet
+H,latin_uppercase,letter,eighth letter of alphabet
+I,latin_uppercase,letter,ninth letter of alphabet
+J,latin_uppercase,letter,tenth letter of alphabet
+K,latin_uppercase,letter,eleventh letter of alphabet
+L,latin_uppercase,letter,twelfth letter of alphabet
+M,latin_uppercase,letter,thirteenth letter of alphabet
+N,latin_uppercase,letter,fourteenth letter of alphabet
+O,latin_uppercase,letter,fifteenth letter of alphabet
+P,latin_uppercase,letter,sixteenth letter of alphabet
+Q,latin_uppercase,letter,seventeenth letter of alphabet
+R,latin_uppercase,letter,eighteenth letter of alphabet
+S,latin_uppercase,letter,nineteenth letter of alphabet
+T,latin_uppercase,letter,twentieth letter of alphabet
+U,latin_uppercase,letter,twenty-first letter of alphabet
+V,latin_uppercase,letter,twenty-second letter of alphabet
+W,latin_uppercase,letter,twenty-third letter of alphabet
+X,latin_uppercase,letter,twenty-fourth letter of alphabet
+Y,latin_uppercase,letter,twenty-fifth letter of alphabet
+Z,latin_uppercase,letter,twenty-sixth letter of alphabet
+a,latin_lowercase,letter,first letter lowercase
+b,latin_lowercase,letter,second letter lowercase
+c,latin_lowercase,letter,third letter lowercase
+d,latin_lowercase,letter,fourth letter lowercase
+e,latin_lowercase,letter,fifth letter lowercase
+f,latin_lowercase,letter,sixth letter lowercase
+g,latin_lowercase,letter,seventh letter lowercase
+h,latin_lowercase,letter,eighth letter lowercase
+i,latin_lowercase,letter,ninth letter lowercase
+j,latin_lowercase,letter,tenth letter lowercase
+k,latin_lowercase,letter,eleventh letter lowercase
+l,latin_lowercase,letter,twelfth letter lowercase
+m,latin_lowercase,letter,thirteenth letter lowercase
+n,latin_lowercase,letter,fourteenth letter lowercase
+o,latin_lowercase,letter,fifteenth letter lowercase
+p,latin_lowercase,letter,sixteenth letter lowercase
+q,latin_lowercase,letter,seventeenth letter lowercase
+r,latin_lowercase,letter,eighteenth letter lowercase
+s,latin_lowercase,letter,nineteenth letter lowercase
+t,latin_lowercase,letter,twentieth letter lowercase
+u,latin_lowercase,letter,twenty-first letter lowercase
+v,latin_lowercase,letter,twenty-second letter lowercase
+w,latin_lowercase,letter,twenty-third letter lowercase
+x,latin_lowercase,letter,twenty-fourth letter lowercase
+y,latin_lowercase,letter,twenty-fifth letter lowercase
+z,latin_lowercase,letter,twenty-sixth letter lowercase
+Α,greek_uppercase,letter,alpha uppercase
+Β,greek_uppercase,letter,beta uppercase
+Γ,greek_uppercase,letter,gamma uppercase
+Δ,greek_uppercase,letter,delta uppercase
+Ε,greek_uppercase,letter,epsilon uppercase
+Ζ,greek_uppercase,letter,zeta uppercase
+Η,greek_uppercase,letter,eta uppercase
+Θ,greek_uppercase,letter,theta uppercase
+Ι,greek_uppercase,letter,iota uppercase
+Κ,greek_uppercase,letter,kappa uppercase
+Λ,greek_uppercase,letter,lambda uppercase
+Μ,greek_uppercase,letter,mu uppercase
+Ν,greek_uppercase,letter,nu uppercase
+Ξ,greek_uppercase,letter,xi uppercase
+Ο,greek_uppercase,letter,omicron uppercase
+Π,greek_uppercase,letter,pi uppercase
+Ρ,greek_uppercase,letter,rho uppercase
+Σ,greek_uppercase,letter,sigma uppercase
+Τ,greek_uppercase,letter,tau uppercase
+Υ,greek_uppercase,letter,upsilon uppercase
+Φ,greek_uppercase,letter,phi uppercase
+Χ,greek_uppercase,letter,chi uppercase
+Ψ,greek_uppercase,letter,psi uppercase
+Ω,greek_uppercase,letter,omega uppercase
+α,greek_lowercase,letter,alpha lowercase
+β,greek_lowercase,letter,beta lowercase
+γ,greek_lowercase,letter,gamma lowercase
+δ,greek_lowercase,letter,delta lowercase
+ε,greek_lowercase,letter,epsilon lowercase
+ζ,greek_lowercase,letter,zeta lowercase
+η,greek_lowercase,letter,eta lowercase
+θ,greek_lowercase,letter,theta lowercase
+ι,greek_lowercase,letter,iota lowercase
+κ,greek_lowercase,letter,kappa lowercase
+λ,greek_lowercase,letter,lambda lowercase
+μ,greek_lowercase,letter,mu lowercase
+ν,greek_lowercase,letter,nu lowercase
+ξ,greek_lowercase,letter,xi lowercase
+ο,greek_lowercase,letter,omicron lowercase
+π,greek_lowercase,letter,pi lowercase
+ρ,greek_lowercase,letter,rho lowercase
+σ,greek_lowercase,letter,sigma lowercase
+τ,greek_lowercase,letter,tau lowercase
+υ,greek_lowercase,letter,upsilon lowercase
+φ,greek_lowercase,letter,phi lowercase
+χ,greek_lowercase,letter,chi lowercase
+ψ,greek_lowercase,letter,psi lowercase
+ω,greek_lowercase,letter,omega lowercase

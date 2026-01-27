@@ -1,0 +1,6 @@
+relation_id,category,word1_en,word2_en,word1_zh,word2_zh,word1_es,word2_es,relation_type,verified,notes
+NeurIPS-RA-106,sequential,one,two,一,二,uno,dos,numeric_sequence,pending,
+NeurIPS-RA-107,sequential,two,three,二,三,dos,tres,numeric_sequence,pending,
+NeurIPS-RA-108,sequential,three,four,三,四,tres,cuatro,numeric_sequence,pending,
+NeurIPS-RA-109,sequential,four,five,四,五,cuatro,cinco,numeric_sequence,pending,
+NeurIPS-RA-110,sequential,five,six,五,六,cinco,seis,numeric_sequence,pending,

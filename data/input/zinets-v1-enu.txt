@@ -1,0 +1,669 @@
+qi-breath
+sun
+moon
+heaven
+earth
+human
+gold
+wood
+water
+fire
+earth-soil
+east
+south
+west
+north
+spring
+summer
+autumn
+winter
+
+life
+mouse
+ox
+tiger
+rabbit
+dragon
+snake
+horse
+sheep
+monkey
+rooster
+dog 
+pig
+insect
+bird
+
+dog
+pig
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+hundred
+thousand
+ten-thousand
+hundred-million
+zero
+
+second
+minute
+hour
+inch
+meter
+mile
+
+heart
+heart-radical
+head
+head-first
+face
+mouth
+eye
+eyebrow
+nose
+ear
+tongue
+tooth
+teeth
+hand
+hand-radical
+again
+foot
+blood
+meat
+body
+corpse-radical
+bone
+skin
+hair
+hair-radical
+speech
+speech-radical
+see
+hear
+think
+food
+food-radical
+walk
+walk-radical
+stand
+male
+female
+child
+self
+oneself
+
+
+sun
+sun moon bright
+sun correct is
+know sun wisdom
+sun sun sun crystal
+door sun between
+sun inch time
+sun life star
+slash sun white
+sun one dawn
+nine sun rising-sun
+sun ten early
+sun dry drought
+
+
+yu-monkey
+person yu-monkey even
+roof yu-monkey residence
+walk yu-monkey encounter
+yu-monkey heart foolish
+mound yu-monkey corner
+plow yu-monkey couple
+
+
+zha-sudden
+person zha-sudden make
+sun zha-sudden yesterday
+zha-sudden heart how
+fire zha-sudden explode
+speech zha-sudden deceive
+mouth zha-sudden what
+wine zha-sudden vinegar
+bamboo zha-sudden press
+cave zha-sudden narrow
+
+
+
+
+child
+children
+grandchildren
+student
+disciple
+master
+confucius
+laozi
+mozi
+foreign-devil
+russian
+japanese-devil
+photon
+quantum
+atom
+electron
+particle
+molecule
+boson
+fermion
+spore
+seed
+factor
+coefficient
+chopsticks
+ladder
+box
+bottle
+table
+stool
+days
+midnight-hour
+
+### Composite
+
+
+sun
+sun plus moon equals bright
+sun plus correct equals is
+know plus sun equals wisdom
+sun plus sun plus sun equals crystal
+door plus sun equals between
+sun plus inch equals time
+sun plus life equals star
+slash plus sun equals white
+sun plus one equals dawn
+nine plus sun equals rising-sun
+sun plus ten equals early
+sun plus dry equals drought
+
+
+
+yu-monkey
+person plus yu-monkey equals even
+roof plus yu-monkey equals residence
+walk plus yu-monkey equals encounter
+yu-monkey plus heart equals foolish
+mound plus yu-monkey equals corner
+plow plus yu-monkey equals couple
+
+
+
+zha-sudden
+person plus zha-sudden equals make
+sun plus zha-sudden equals yesterday
+zha-sudden plus heart equals how
+fire plus zha-sudden equals explode
+speech plus zha-sudden equals deceive
+mouth plus zha-sudden equals what
+wine plus zha-sudden equals vinegar
+bamboo plus zha-sudden equals press
+cave plus zha-sudden equals narrow
+
+
+#### List of Elemental-Characters
+
+# - (1 stroke) one-horizontal vertical-hook turning dot slash left-turn right-turn second turtle-hook vertical-turn
+# - (2 strokes) two top person person-radical child enter eight dots frame speech-radical cover ice table container knife-cut curved-knife knife this strength ding le cross dragon-claw wrap dagger box hiding-place ten nine seven divination seal factory private again water-drop water-side
+# - (3 strokes) water-radical prominent village already dog-radical silk grass walk mound door gate flying food-radical horse three pill slope talent practice ladle blade fork beg thousand ten-thousand down up perish deficit long zhang at mouth also reach enclosure individual of earth with righteousness scholar go slow walk evening big woman child roof inch small small-radical exception corpse sprout mountain river river work self towel dry tiny broad extend both dart bow pig-snout pig-head tiny hair step heart-radical hand-radical sacrifice
+# - (4 strokes) hair clan qi-breath water fire fire-radical claw top-claw father lines wooden-bed slice tooth ox ox-radical dog-radical dog king tile ritual-radical track net old-person moon see shell vehicle long leather wind scold cloud heaven hill well abundant husband warehouse hook public district friend uniform origin six five now middle inside noon minute ugly few not huge must not-do rise too for ruler match crow high-pitched introduce station ba especially expert with open handle do-not compare heart spear door door hand support script script script text fight jin direction without dog-radical nothing sun speak tree-horizontal wood lack stop bad lance
+# - (5 strokes) compare water-black dark jade melon sweet life use field equal cloth-radical sickness-radical climb white skin dish eye spear arrow stone show grain cave stand net clothes-radical metal huge bird dragon moreover dawn electricity base brother head cloth happy order platform wrap technique profession market strike four ancient central north east winter from exit lose stretch correct half peaceful flat not-yet shallow end only hill occupy sentence must can go suddenly together it armor third ni straw at orchid scold flat card another match mother
+# - (6 strokes) bamboo-radical bamboo rice silk pot net sheep sheep-radical sheep-variant feather and plow ear brush meat minister self reach mortar tongue boat mountain-stop color tiger-head insect blood walk clothes west together and west page together oppose together bend village toward exchange lucky each combine yao brain-cover lu style temple
+# - (7 strokes) slope contra horn speech valley bean pig badger red walk foot body spicy morning town wine pick inside brine wheat turtle member good fu belly trust all evening gua change ancient ancient
+# - (8 strokes) east gold mound slave short-tailed-bird rain blue not fish turtle teeth easy that still offer and responsibility dragon
+# - (9 strokes) face leather leek sound food head fragrant bone ghost blessing salty simple fear
+
+# 1
+
+one-horizontal
+vertical
+turning
+dot
+slash
+left-turn
+right-turn
+second
+turtle-hook
+vertical-turn
+
+# 2
+
+two
+top
+person
+person-radical
+child
+enter
+eight
+dots
+frame
+speech-radical
+cover
+ice
+table
+container
+knife-cut
+curved-knife
+knife
+this
+strength
+ding
+le
+cross
+dragon-claw
+wrap
+dagger
+box
+hiding-place
+ten
+nine
+seven
+divination
+seal
+factory
+private
+again
+water-drop
+water-side
+
+# 3
+
+water-radical
+prominent
+village
+already
+dog-radical
+silk
+grass
+walk
+mound
+door
+gate
+flying
+food-radical
+horse
+three
+pill
+slope
+talent
+practice
+ladle
+blade
+fork
+beg
+thousand
+ten-thousand
+down
+up
+perish
+deficit
+long
+zhang
+at
+mouth
+also
+reach
+enclosure
+individual
+of
+earth
+with
+righteousness
+scholar
+go
+slow
+walk
+evening
+big
+woman
+child
+roof
+inch
+small
+small-radical
+exception
+corpse
+sprout
+mountain
+river
+river-curved
+work
+self
+towel
+dry
+tiny
+broad
+extend
+both
+dart
+bow
+pig-snout
+pig-head
+tiny-mark
+hair
+step
+heart-radical
+hand-radical
+sacrifice
+
+# 4
+
+hair
+clan
+qi-breath
+water
+fire
+fire-radical
+claw
+top-claw
+father
+lines
+wooden-bed
+slice
+tooth
+ox
+ox-radical
+dog-part
+dog
+king
+tile
+ritual-radical
+track
+net
+old-person
+moon
+see
+shell
+vehicle
+long
+leather
+wind
+scold
+cloud
+heaven
+hill
+well
+abundant
+husband
+warehouse
+hook
+public
+district
+friend
+uniform
+origin
+six
+five
+now
+middle
+inside
+noon
+minute
+ugly
+few
+not
+huge
+must
+not-do
+rise
+too
+for
+ruler
+match
+crow
+high-pitched
+introduce
+station
+ba
+especially
+expert
+with
+open
+handle
+do-not
+compare-radical
+heart
+spear
+door
+door-traditional
+hand
+support
+script
+script-variant
+text
+fight
+jin
+direction
+without
+dog-radical
+nothing
+sun
+speak
+tree-horizontal
+wood
+lack
+stop
+bad
+lance
+
+
+# 5
+compare
+water-black
+dark
+jade
+melon
+sweet
+life
+use
+field
+equal
+variant-cloth
+sickness-radical
+climb
+white
+skin
+dish
+eye
+spear
+arrow
+stone
+show
+grain
+cave
+stand
+net
+clothes-radical
+metal
+huge
+bird
+dragon
+moreover
+dawn
+electricity
+base
+brother
+head
+cloth
+happy
+order
+platform
+wrap
+technique
+profession
+market
+strike
+four
+ancient
+central
+north
+east
+winter
+from
+exit
+lose
+stretch
+correct
+half
+peaceful
+flat
+not-yet
+shallow
+end
+only
+hill
+occupy
+sentence
+must
+can
+go
+suddenly
+together
+it
+armor
+third
+ni
+straw
+at
+orchid
+scold
+flat-radical
+card
+another
+match
+mother
+
+# 6
+
+bamboo-radical
+bamboo
+rice
+silk
+pot
+net
+sheep
+sheep-radical
+sheep-variant
+feather
+and
+plow
+ear
+brush
+meat
+minister
+self
+reach
+mortar
+tongue
+boat
+mountain-stop
+color
+tiger-head
+insect
+blood
+walk
+clothes
+west-cover
+together
+and-traditional
+west
+page
+together-qi
+oppose
+together-curved
+bend
+village
+toward
+exchange
+lucky
+each
+combine
+yao
+brain-cover
+lu
+style
+temple
+
+# 7
+
+slope
+contra
+horn
+speech
+valley
+bean
+pig
+badger
+red
+walk
+foot
+body
+spicy
+morning
+town
+wine
+pick
+inside
+brine
+wheat
+turtle
+member
+good
+fu
+belly
+trust
+all
+evening
+gua
+change
+ancient-flow
+ancient-variant
+
+# 8
+
+east
+gold
+mound
+slave
+short-tailed-bird
+rain
+blue
+not
+fish
+turtle
+teeth
+easy
+that
+still
+offer
+and-flat
+responsibility
+dragon-ancient
+
+# 9
+
+face
+leather
+leek
+sound
+food
+head
+fragrant
+bone
+ghost
+blessing
+salty
+simple
+fear

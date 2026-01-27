@@ -1,0 +1,120 @@
+word,domain,type,notes,cultural_context
+# Core semantic domains for cultural comparison across CHN/JPN/KOR/VIE
+# ICML-2026: Dimensionality of Meaning framework - Korean cultural independence
+
+# Numbers (Hangul/Hanja mix demonstrating Korean independence)
+하나,numbers,abstract,cultural_universal,one
+둘,numbers,abstract,cultural_universal,two
+셋,numbers,abstract,cultural_universal,three
+넷,numbers,abstract,cultural_universal,four
+다섯,numbers,abstract,cultural_universal,five
+여섯,numbers,abstract,cultural_universal,six
+일곱,numbers,abstract,cultural_universal,seven
+여덟,numbers,abstract,cultural_universal,eight
+아홉,numbers,abstract,cultural_universal,nine
+열,numbers,abstract,cultural_universal,ten
+
+# Family hierarchy (Korean adaptation with independence)
+아버지,family_kinship,content,korean_independence,father
+어머니,family_kinship,content,korean_independence,mother
+아들,family_kinship,content,korean_independence,son
+딸,family_kinship,content,korean_independence,daughter
+할아버지,family_kinship,content,korean_independence,grandfather
+할머니,family_kinship,content,korean_independence,grandmother
+형제,family_kinship,content,korean_independence,brother
+자매,family_kinship,content,korean_independence,sister
+
+# Traditional wisdom (Korean cultural values)
+지혜,abstract_qualities,abstract,cultural_wisdom,wisdom
+용기,abstract_qualities,abstract,cultural_wisdom,courage
+정직,abstract_qualities,abstract,cultural_wisdom,honesty
+겸손,abstract_qualities,abstract,cultural_wisdom,humility
+존경,abstract_qualities,abstract,cultural_wisdom,respect
+조화,abstract_qualities,abstract,cultural_wisdom,harmony
+평화,abstract_qualities,abstract,cultural_wisdom,peace
+정의,abstract_qualities,abstract,cultural_wisdom,justice
+
+# Nature elements (Korean natural concepts)
+금,nature_elements,content,five_elements,metal
+나무,nature_elements,content,five_elements,wood
+물,nature_elements,content,five_elements,water
+불,nature_elements,content,five_elements,fire
+흙,nature_elements,content,five_elements,earth
+해,nature_elements,content,cultural_universal,sun
+달,nature_elements,content,cultural_universal,moon
+별,nature_elements,content,cultural_universal,star
+산,nature_elements,content,cultural_universal,mountain
+강,nature_elements,content,cultural_universal,river
+
+# Body parts (universal concepts in pure Korean)
+머리,body_parts,content,cultural_universal,head
+눈,body_parts,content,cultural_universal,eye
+코,body_parts,content,cultural_universal,nose
+입,body_parts,content,cultural_universal,mouth
+손,body_parts,content,cultural_universal,hand
+발,body_parts,content,cultural_universal,foot
+마음,body_parts,content,cultural_universal,heart
+
+# Animals (Korean cultural significance)
+용,animals,content,cultural_symbol,dragon
+봉황,animals,content,cultural_symbol,phoenix
+호랑이,animals,content,cultural_symbol,tiger
+사자,animals,content,cultural_symbol,lion
+고양이,animals,content,cultural_universal,cat
+개,animals,content,cultural_universal,dog
+새,animals,content,cultural_universal,bird
+물고기,animals,content,cultural_universal,fish
+
+# Colors (Korean color concepts)
+빨간색,colors,abstract,cultural_symbol,red
+노란색,colors,abstract,cultural_symbol,yellow
+파란색,colors,abstract,cultural_universal,blue
+초록색,colors,abstract,cultural_universal,green
+흰색,colors,abstract,cultural_symbol,white
+검은색,colors,abstract,cultural_symbol,black
+금색,colors,abstract,cultural_symbol,gold
+
+# Emotions (universal in Korean expression)
+기쁜,emotions,content,cultural_universal,happy
+슬픈,emotions,content,cultural_universal,sad
+화난,emotions,content,cultural_universal,angry
+무서운,emotions,content,cultural_universal,fear
+사랑,emotions,content,cultural_universal,love
+즐거운,emotions,content,cultural_universal,joy
+
+# Time concepts (Korean temporal system)
+년,time_temporal,content,cultural_universal,year
+달,time_temporal,content,cultural_universal,month
+날,time_temporal,content,cultural_universal,day
+봄,time_temporal,content,cultural_universal,spring
+여름,time_temporal,content,cultural_universal,summer
+가을,time_temporal,content,cultural_universal,autumn
+겨울,time_temporal,content,cultural_universal,winter
+
+# Food (Korean cuisine)
+밥,food,content,cultural_staple,rice
+김치,food,content,cultural_dish,kimchi
+불고기,food,content,cultural_dish,bulgogi
+차,food,content,cultural_beverage,tea
+술,food,content,cultural_beverage,alcohol
+두부,food,content,cultural_ingredient,tofu
+
+# Actions (universal with Korean linguistic independence)
+걷다,actions_verbs,content,cultural_universal,walk
+뛰다,actions_verbs,content,cultural_universal,run
+먹다,actions_verbs,content,cultural_universal,eat
+마시다,actions_verbs,content,cultural_universal,drink
+자다,actions_verbs,content,cultural_universal,sleep
+공부하다,actions_verbs,content,cultural_value,study
+일하다,actions_verbs,content,cultural_universal,work
+
+# Spatial concepts (Korean directional independence)
+위,spatial_directional,abstract,cultural_universal,up
+아래,spatial_directional,abstract,cultural_universal,down
+왼쪽,spatial_directional,abstract,cultural_universal,left
+오른쪽,spatial_directional,abstract,cultural_universal,right
+중심,spatial_directional,abstract,cultural_concept,center
+동,spatial_directional,abstract,cultural_universal,east
+서,spatial_directional,abstract,cultural_universal,west
+남,spatial_directional,abstract,cultural_universal,south
+북,spatial_directional,abstract,cultural_universal,north

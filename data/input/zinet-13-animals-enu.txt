@@ -1,0 +1,15 @@
+life
+mouse
+ox
+tiger
+rabbit
+dragon
+snake
+horse
+sheep
+monkey
+rooster
+dog 
+pig
+insect
+bird

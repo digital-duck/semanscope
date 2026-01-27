@@ -72,7 +72,7 @@ OPTIMIZATION_STRATEGIES = {
 DEFAULT_INSTRUCTION_MSG_1 = "👈 Configure Input Dataset and Languages in the sidebar and click **Visualize** to start Manifold analysis"
 
 # Cache Settings
-DEFAULT_TTL = 8  # Default cache TTL in hours
+DEFAULT_TTL = 128  # Default cache TTL in hours
 
 # Enhanced Error Handling Settings
 ENABLE_CHINESE_TEXT_PREPROCESSING = True  # Enable preprocessing for Chinese radicals

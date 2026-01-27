@@ -1,0 +1,142 @@
+word,domain,type,note
+𓈖,numbers,hieroglyph,wavy line - one
+𓈗,numbers,hieroglyph,two strokes - two
+𓈘,numbers,hieroglyph,three strokes - three
+𓈙,numbers,hieroglyph,four strokes - four
+𓈚,numbers,hieroglyph,five strokes - five
+𓂭,numbers,hieroglyph,hobble rope - ten
+𓍢,numbers,hieroglyph,coil rope - hundred
+𓆼,numbers,hieroglyph,lotus flower - thousand
+𓁹,body,hieroglyph,eye of horus - vision
+𓂋,body,hieroglyph,mouth - speech
+𓂝,body,hieroglyph,arm with hand - action
+𓃀,body,hieroglyph,human leg - walking
+𓄿,body,hieroglyph,human head - thought
+𓊪,body,hieroglyph,heart - emotion
+𓅃,animals,hieroglyph,ibis bird - wisdom
+𓃭,animals,hieroglyph,lion - strength
+𓆓,animals,hieroglyph,snake - protection
+𓊃,animals,hieroglyph,bull - power
+𓃰,animals,hieroglyph,cat - grace
+𓆣,animals,hieroglyph,crocodile - danger
+𓇳,nature,hieroglyph,sun disk - ra deity
+𓇹,nature,hieroglyph,crescent moon - thoth
+𓇽,nature,hieroglyph,star - celestial
+𓈗,nature,hieroglyph,water ripples - nun
+𓊮,nature,hieroglyph,fire brazier - sacred
+𓇾,nature,hieroglyph,sand hill - earth
+𓅐,family,hieroglyph,woman figure - mother
+𓀀,family,hieroglyph,man figure - father
+𓀕,family,hieroglyph,child figure - offspring
+𓊨,family,hieroglyph,ancestors - lineage
+𓊩,family,hieroglyph,dynasty - royal line
+𓊫,family,hieroglyph,household - family unit
+𓋹,emotions,hieroglyph,heart-good - love
+𓋺,emotions,hieroglyph,heart-bad - fear
+𓋻,emotions,hieroglyph,dancing figure - joy
+𓋼,emotions,hieroglyph,striking arm - anger
+𓋽,emotions,hieroglyph,weeping eye - sadness
+𓋾,emotions,hieroglyph,feather - peace
+𓎛,food,hieroglyph,bread loaf - sustenance
+𓎜,food,hieroglyph,beer jar - nourishment
+𓎝,food,hieroglyph,fish - protein
+𓎞,food,hieroglyph,meat piece - flesh
+𓎟,food,hieroglyph,vegetable - plant food
+𓎠,food,hieroglyph,fruit - sweet food
+𓇶,time,hieroglyph,sun above horizon - day
+𓇷,time,hieroglyph,sun below horizon - night
+𓇸,time,hieroglyph,seasonal flood - inundation
+𓇺,time,hieroglyph,year marker - annual
+𓇻,time,hieroglyph,calendar stone - time
+𓇼,time,hieroglyph,infinity symbol - eternity
+𓌙,spatial,hieroglyph,reed - north
+𓌚,spatial,hieroglyph,cliff - south  
+𓌛,spatial,hieroglyph,horizon - east
+𓌜,spatial,hieroglyph,mountain - west
+𓌝,spatial,hieroglyph,crossroads - center
+𓌞,spatial,hieroglyph,sky - above
+𓏢,abstract,hieroglyph,scribe palette - wisdom
+𓏣,abstract,hieroglyph,was scepter - power
+𓏤,abstract,hieroglyph,lotus - beauty
+𓏥,abstract,hieroglyph,feather maat - truth
+𓏦,abstract,hieroglyph,gold sign - honor
+𓏧,abstract,hieroglyph,lion heart - courage
+𓈶,actions,hieroglyph,walking legs - walk
+𓈷,actions,hieroglyph,running legs - run
+𓈸,actions,hieroglyph,mouth with lines - speak
+𓈹,actions,hieroglyph,eye with rays - see
+𓈺,actions,hieroglyph,ear - hear
+𓈻,actions,hieroglyph,head with thought - think
+𓀁,function,determinative,person marker - human
+𓀂,function,determinative,deity marker - divine
+𓀃,function,phonetic,n consonant - phonetic
+𓀄,function,phonetic,r consonant - phonetic
+𓀅,function,phonetic,t consonant - phonetic
+𓀆,function,phonetic,m consonant - phonetic
+واحد,numbers,arabic,one - numeral
+اثنان,numbers,arabic,two - numeral
+ثلاثة,numbers,arabic,three - numeral
+أربعة,numbers,arabic,four - numeral
+خمسة,numbers,arabic,five - numeral
+عشرة,numbers,arabic,ten - numeral
+مائة,numbers,arabic,hundred - numeral
+عين,body,arabic,eye - vision organ
+فم,body,arabic,mouth - speech organ
+يد,body,arabic,hand - manipulation
+قدم,body,arabic,foot - locomotion
+رأس,body,arabic,head - cranium
+قلب,body,arabic,heart - emotion center
+طائر,animals,arabic,bird - avian
+أسد,animals,arabic,lion - strength
+ثعبان,animals,arabic,snake - serpent
+ثور,animals,arabic,bull - power
+قطة,animals,arabic,cat - grace
+تمساح,animals,arabic,crocodile - danger
+شمس,nature,arabic,sun - solar
+قمر,nature,arabic,moon - lunar
+نجمة,nature,arabic,star - celestial
+ماء,nature,arabic,water - element
+نار,nature,arabic,fire - element
+أرض,nature,arabic,earth - element
+أم,family,arabic,mother - maternal
+أب,family,arabic,father - paternal
+طفل,family,arabic,child - offspring
+أجداد,family,arabic,ancestors - lineage
+عائلة,family,arabic,family - kinship
+عشيرة,family,arabic,clan - tribal unit
+حب,emotions,arabic,love - affection
+خوف,emotions,arabic,fear - anxiety
+فرح,emotions,arabic,joy - happiness
+غضب,emotions,arabic,anger - wrath
+حزن,emotions,arabic,sadness - grief
+سلام,emotions,arabic,peace - tranquility
+خبز,food,arabic,bread - sustenance
+شراب,food,arabic,drink - liquid
+سمك,food,arabic,fish - protein
+لحم,food,arabic,meat - flesh
+خضار,food,arabic,vegetables - plants
+فاكهة,food,arabic,fruit - sweet food
+يوم,time,arabic,day - solar period
+ليل,time,arabic,night - lunar period
+موسم,time,arabic,season - cycle
+سنة,time,arabic,year - annual
+تقويم,time,arabic,calendar - time system
+أبدية,time,arabic,eternity - infinite
+شمال,spatial,arabic,north - direction
+جنوب,spatial,arabic,south - direction
+شرق,spatial,arabic,east - direction
+غرب,spatial,arabic,west - direction
+وسط,spatial,arabic,center - middle
+فوق,spatial,arabic,above - upper
+حكمة,abstract,arabic,wisdom - knowledge
+قوة,abstract,arabic,power - authority
+جمال,abstract,arabic,beauty - aesthetic
+حقيقة,abstract,arabic,truth - veracity
+شرف,abstract,arabic,honor - respect
+شجاعة,abstract,arabic,courage - bravery
+مشي,actions,arabic,walk - movement
+جري,actions,arabic,run - motion
+كلام,actions,arabic,speak - communication
+رؤية,actions,arabic,see - observation
+سمع,actions,arabic,hear - audition
+تفكير,actions,arabic,think - cognition

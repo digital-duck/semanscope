@@ -1,0 +1,59 @@
+word,domain,type,note
+A,turkish_uppercase,letter,A - first letter
+B,turkish_uppercase,letter,B - second letter
+C,turkish_uppercase,letter,C - third letter
+Ç,turkish_special,letter,Ç - Turkish-specific letter with cedilla
+D,turkish_uppercase,letter,D - fifth letter
+E,turkish_uppercase,letter,E - sixth letter
+F,turkish_uppercase,letter,F - seventh letter
+G,turkish_uppercase,letter,G - eighth letter
+Ğ,turkish_special,letter,Ğ - Turkish-specific soft G
+H,turkish_uppercase,letter,H - tenth letter
+I,turkish_special,letter,I - Turkish dotless I
+İ,turkish_special,letter,İ - Turkish dotted I
+J,turkish_uppercase,letter,J - thirteenth letter
+K,turkish_uppercase,letter,K - fourteenth letter
+L,turkish_uppercase,letter,L - fifteenth letter
+M,turkish_uppercase,letter,M - sixteenth letter
+N,turkish_uppercase,letter,N - seventeenth letter
+O,turkish_uppercase,letter,O - eighteenth letter
+Ö,turkish_special,letter,Ö - Turkish-specific O with umlaut
+P,turkish_uppercase,letter,P - twentieth letter
+R,turkish_uppercase,letter,R - twenty-first letter
+S,turkish_uppercase,letter,S - twenty-second letter
+Ş,turkish_special,letter,Ş - Turkish-specific S with cedilla
+T,turkish_uppercase,letter,T - twenty-fourth letter
+U,turkish_uppercase,letter,U - twenty-fifth letter
+Ü,turkish_special,letter,Ü - Turkish-specific U with umlaut
+V,turkish_uppercase,letter,V - twenty-seventh letter
+Y,turkish_uppercase,letter,Y - twenty-eighth letter
+Z,turkish_uppercase,letter,Z - twenty-ninth letter
+a,turkish_lowercase,letter,a - first letter lowercase
+b,turkish_lowercase,letter,b - second letter lowercase
+c,turkish_lowercase,letter,c - third letter lowercase
+ç,turkish_special,letter,ç - Turkish-specific letter with cedilla
+d,turkish_lowercase,letter,d - fifth letter lowercase
+e,turkish_lowercase,letter,e - sixth letter lowercase
+f,turkish_lowercase,letter,f - seventh letter lowercase
+g,turkish_lowercase,letter,g - eighth letter lowercase
+ğ,turkish_special,letter,ğ - Turkish-specific soft g
+h,turkish_lowercase,letter,h - tenth letter lowercase
+ı,turkish_special,letter,ı - Turkish dotless i
+i,turkish_special,letter,i - Turkish dotted i
+j,turkish_lowercase,letter,j - thirteenth letter lowercase
+k,turkish_lowercase,letter,k - fourteenth letter lowercase
+l,turkish_lowercase,letter,l - fifteenth letter lowercase
+m,turkish_lowercase,letter,m - sixteenth letter lowercase
+n,turkish_lowercase,letter,n - seventeenth letter lowercase
+o,turkish_lowercase,letter,o - eighteenth letter lowercase
+ö,turkish_special,letter,ö - Turkish-specific o with umlaut
+p,turkish_lowercase,letter,p - twentieth letter lowercase
+r,turkish_lowercase,letter,r - twenty-first letter lowercase
+s,turkish_lowercase,letter,s - twenty-second letter lowercase
+ş,turkish_special,letter,ş - Turkish-specific s with cedilla
+t,turkish_lowercase,letter,t - twenty-fourth letter lowercase
+u,turkish_lowercase,letter,u - twenty-fifth letter lowercase
+ü,turkish_special,letter,ü - Turkish-specific u with umlaut
+v,turkish_lowercase,letter,v - twenty-seventh letter lowercase
+y,turkish_lowercase,letter,y - twenty-eighth letter lowercase
+z,turkish_lowercase,letter,z - twenty-ninth letter lowercase

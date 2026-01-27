@@ -1,0 +1,67 @@
+word,domain,type,note,nsm_domain
+i,entity,noun,entity,SUBSTANTIVES
+you,entity,noun,entity,SUBSTANTIVES
+someone,entity,noun,entity,SUBSTANTIVES
+something,entity,verb,entity,SUBSTANTIVES
+people,entity,noun,entity,SUBSTANTIVES
+body,entity,noun,entity,SUBSTANTIVES
+kind,identity,noun,relation,RELATIONAL_SUBSTANTIVES
+part,identity,noun,relation,RELATIONAL_SUBSTANTIVES
+this,identity,determiner,reference,DETERMINERS
+the same,identity,determiner,reference,DETERMINERS
+other,identity,determiner,reference,DETERMINERS
+one,quantifier,determiner,quantity,QUANTIFIERS
+two,quantifier,determiner,quantity,QUANTIFIERS
+some,quantifier,determiner,quantity,QUANTIFIERS
+all,quantifier,determiner,quantity,QUANTIFIERS
+much,quantifier,determiner,quantity,QUANTIFIERS
+many,quantifier,determiner,quantity,QUANTIFIERS
+little,quantifier,determiner,quantity,QUANTIFIERS
+few,quantifier,determiner,quantity,QUANTIFIERS
+good,qualifier,adjective,evaluation,EVALUATORS
+bad,qualifier,adjective,evaluation,EVALUATORS
+big,qualifier,adjective,property,DESCRIPTORS
+small,qualifier,adjective,property,DESCRIPTORS
+think,action,verb,cognition,MENTAL_PREDICATES
+know,action,verb,cognition,MENTAL_PREDICATES
+want,action,verb,cognition,MENTAL_PREDICATES
+feel,action,verb,cognition,MENTAL_PREDICATES
+see,action,verb,cognition,MENTAL_PREDICATES
+hear,action,verb,cognition,MENTAL_PREDICATES
+say,action,verb,communication,SPEECH
+word,identity,verb,communication,SPEECH
+true,qualifier,verb,communication,SPEECH
+do,action,verb,action,ACTIONS_EVENTS_MOVEMENT
+happen,action,verb,action,ACTIONS_EVENTS_MOVEMENT
+move,action,verb,action,ACTIONS_EVENTS_MOVEMENT
+be somewhere,relation,other,existence,LOCATION_EXISTENCE
+there is,relation,other,existence,LOCATION_EXISTENCE
+be something,relation,verb,existence,LOCATION_EXISTENCE
+be mine,relation,other,existence,LOCATION_EXISTENCE
+live,action,adjective,life,LIFE_DEATH
+die,action,verb,life,LIFE_DEATH
+when,temporal,other,temporal,TIME
+now,temporal,other,temporal,TIME
+before,temporal,other,temporal,TIME
+after,temporal,other,temporal,TIME
+a long time,temporal,other,temporal,TIME
+a short time,temporal,other,temporal,TIME
+for some time,temporal,other,temporal,TIME
+moment,temporal,other,temporal,TIME
+where,spatial,other,spatial,SPACE
+here,spatial,other,spatial,SPACE
+above,spatial,other,spatial,SPACE
+below,spatial,other,spatial,SPACE
+far,spatial,other,spatial,SPACE
+near,spatial,other,spatial,SPACE
+side,spatial,other,spatial,SPACE
+inside,spatial,other,spatial,SPACE
+touch,spatial,other,spatial,SPACE
+not,causality,conjunction,logic,LOGICAL_CONCEPTS
+maybe,causality,conjunction,logic,LOGICAL_CONCEPTS
+can,causality,conjunction,logic,LOGICAL_CONCEPTS
+because,causality,conjunction,logic,LOGICAL_CONCEPTS
+if,causality,conjunction,logic,LOGICAL_CONCEPTS
+very,qualifier,adverb,degree,INTENSIFIER_AUGMENTOR
+more,quantifier,adverb,degree,INTENSIFIER_AUGMENTOR
+like,relation,other,comparison,SIMILARITY

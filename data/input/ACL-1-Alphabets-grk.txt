@@ -1,0 +1,49 @@
+word,domain,type,note
+Α,greek_uppercase,letter,Alpha - first letter
+Β,greek_uppercase,letter,Beta - second letter
+Γ,greek_uppercase,letter,Gamma - third letter
+Δ,greek_uppercase,letter,Delta - fourth letter
+Ε,greek_uppercase,letter,Epsilon - fifth letter
+Ζ,greek_uppercase,letter,Zeta - sixth letter
+Η,greek_uppercase,letter,Eta - seventh letter
+Θ,greek_uppercase,letter,Theta - eighth letter
+Ι,greek_uppercase,letter,Iota - ninth letter
+Κ,greek_uppercase,letter,Kappa - tenth letter
+Λ,greek_uppercase,letter,Lambda - eleventh letter
+Μ,greek_uppercase,letter,Mu - twelfth letter
+Ν,greek_uppercase,letter,Nu - thirteenth letter
+Ξ,greek_uppercase,letter,Xi - fourteenth letter
+Ο,greek_uppercase,letter,Omicron - fifteenth letter
+Π,greek_uppercase,letter,Pi - sixteenth letter
+Ρ,greek_uppercase,letter,Rho - seventeenth letter
+Σ,greek_uppercase,letter,Sigma - eighteenth letter
+Τ,greek_uppercase,letter,Tau - nineteenth letter
+Υ,greek_uppercase,letter,Upsilon - twentieth letter
+Φ,greek_uppercase,letter,Phi - twenty-first letter
+Χ,greek_uppercase,letter,Chi - twenty-second letter
+Ψ,greek_uppercase,letter,Psi - twenty-third letter
+Ω,greek_uppercase,letter,Omega - twenty-fourth letter
+α,greek_lowercase,letter,alpha - first letter lowercase
+β,greek_lowercase,letter,beta - second letter lowercase
+γ,greek_lowercase,letter,gamma - third letter lowercase
+δ,greek_lowercase,letter,delta - fourth letter lowercase
+ε,greek_lowercase,letter,epsilon - fifth letter lowercase
+ζ,greek_lowercase,letter,zeta - sixth letter lowercase
+η,greek_lowercase,letter,eta - seventh letter lowercase
+θ,greek_lowercase,letter,theta - eighth letter lowercase
+ι,greek_lowercase,letter,iota - ninth letter lowercase
+κ,greek_lowercase,letter,kappa - tenth letter lowercase
+λ,greek_lowercase,letter,lambda - eleventh letter lowercase
+μ,greek_lowercase,letter,mu - twelfth letter lowercase
+ν,greek_lowercase,letter,nu - thirteenth letter lowercase
+ξ,greek_lowercase,letter,xi - fourteenth letter lowercase
+ο,greek_lowercase,letter,omicron - fifteenth letter lowercase
+π,greek_lowercase,letter,pi - sixteenth letter lowercase
+ρ,greek_lowercase,letter,rho - seventeenth letter lowercase
+σ,greek_lowercase,letter,sigma - eighteenth letter lowercase
+τ,greek_lowercase,letter,tau - nineteenth letter lowercase
+υ,greek_lowercase,letter,upsilon - twentieth letter lowercase
+φ,greek_lowercase,letter,phi - twenty-first letter lowercase
+χ,greek_lowercase,letter,chi - twenty-second letter lowercase
+ψ,greek_lowercase,letter,psi - twenty-third letter lowercase
+ω,greek_lowercase,letter,omega - twenty-fourth letter lowercase

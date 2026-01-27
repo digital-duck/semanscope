@@ -1,0 +1,125 @@
+word,domain,type,note
+!,punctuation,exclamation,Exclamation mark
+"""",punctuation,quotation,Quotation mark
+',punctuation,apostrophe,Apostrophe
+#,symbols,hash,Hash/pound symbol
+$,symbols,currency,Dollar sign
+%,symbols,percent,Percent symbol
+&,symbols,ampersand,Ampersand symbol
+(,punctuation,parenthesis,Left parenthesis
+),punctuation,parenthesis,Right parenthesis
+*,symbols,asterisk,Asterisk symbol
++,symbols,arithmetic,Plus sign
+",",punctuation,comma,Comma
+-,symbols,arithmetic,Minus/hyphen
+.,punctuation,period,Period/full stop
+/,symbols,arithmetic,Forward slash
+0,numbers,digit,Zero
+1,numbers,digit,One
+2,numbers,digit,Two
+3,numbers,digit,Three
+4,numbers,digit,Four
+5,numbers,digit,Five
+6,numbers,digit,Six
+7,numbers,digit,Seven
+8,numbers,digit,Eight
+9,numbers,digit,Nine
+:,punctuation,colon,Colon
+;,punctuation,semicolon,Semicolon
+<,symbols,comparison,Less than
+=,symbols,comparison,Equals
+>,symbols,comparison,Greater than
+?,punctuation,question,Question mark
+@,symbols,at,At symbol
+A,latin_uppercase,letter,Letter A
+B,latin_uppercase,letter,Letter B
+C,latin_uppercase,letter,Letter C
+D,latin_uppercase,letter,Letter D
+E,latin_uppercase,letter,Letter E
+F,latin_uppercase,letter,Letter F
+G,latin_uppercase,letter,Letter G
+H,latin_uppercase,letter,Letter H
+I,latin_uppercase,letter,Letter I
+J,latin_uppercase,letter,Letter J
+K,latin_uppercase,letter,Letter K
+L,latin_uppercase,letter,Letter L
+M,latin_uppercase,letter,Letter M
+N,latin_uppercase,letter,Letter N
+O,latin_uppercase,letter,Letter O
+P,latin_uppercase,letter,Letter P
+Q,latin_uppercase,letter,Letter Q
+R,latin_uppercase,letter,Letter R
+S,latin_uppercase,letter,Letter S
+T,latin_uppercase,letter,Letter T
+U,latin_uppercase,letter,Letter U
+V,latin_uppercase,letter,Letter V
+W,latin_uppercase,letter,Letter W
+X,latin_uppercase,letter,Letter X
+Y,latin_uppercase,letter,Letter Y
+Z,latin_uppercase,letter,Letter Z
+[,punctuation,bracket,Left square bracket
+\,symbols,backslash,Backslash
+],punctuation,bracket,Right square bracket
+^,symbols,caret,Caret symbol
+_,symbols,underscore,Underscore
+`,symbols,backtick,Backtick
+a,latin_lowercase,letter,Letter a
+b,latin_lowercase,letter,Letter b
+c,latin_lowercase,letter,Letter c
+d,latin_lowercase,letter,Letter d
+e,latin_lowercase,letter,Letter e
+f,latin_lowercase,letter,Letter f
+g,latin_lowercase,letter,Letter g
+h,latin_lowercase,letter,Letter h
+i,latin_lowercase,letter,Letter i
+j,latin_lowercase,letter,Letter j
+k,latin_lowercase,letter,Letter k
+l,latin_lowercase,letter,Letter l
+m,latin_lowercase,letter,Letter m
+n,latin_lowercase,letter,Letter n
+o,latin_lowercase,letter,Letter o
+p,latin_lowercase,letter,Letter p
+q,latin_lowercase,letter,Letter q
+r,latin_lowercase,letter,Letter r
+s,latin_lowercase,letter,Letter s
+t,latin_lowercase,letter,Letter t
+u,latin_lowercase,letter,Letter u
+v,latin_lowercase,letter,Letter v
+w,latin_lowercase,letter,Letter w
+x,latin_lowercase,letter,Letter x
+y,latin_lowercase,letter,Letter y
+z,latin_lowercase,letter,Letter z
+{,punctuation,brace,Left curly brace
+|,symbols,pipe,Pipe symbol
+},punctuation,brace,Right curly brace
+~,symbols,tilde,Tilde symbol
+#water,nature_elements,element,Natural element - water
+#fire,nature_elements,element,Natural element - fire
+#earth,nature_elements,element,Natural element - earth
+#wind,nature_elements,element,Natural element - wind
+#love,emotions,positive,Positive emotion
+#hate,emotions,negative,Negative emotion
+#happy,emotions,positive,Positive emotion
+#sad,emotions,negative,Negative emotion
+#dog,animals,mammal,Domestic animal
+#cat,animals,mammal,Domestic animal
+#bird,animals,bird,Flying animal
+#fish,animals,aquatic,Water animal
+#house,objects,dwelling,Human dwelling
+#tree,nature_elements,plant,Living plant
+#mountain,places,geographic,Geographic feature
+#river,places,geographic,Water body
+#sun,nature_elements,celestial,Celestial body
+#moon,nature_elements,celestial,Celestial body
+#star,nature_elements,celestial,Celestial body
+#cloud,nature_elements,weather,Weather element
+#mother,family_kinship,parent,Female parent
+#father,family_kinship,parent,Male parent
+#and,conjunctions,coordinating,Coordinating conjunction
+#but,conjunctions,contrasting,Contrasting conjunction
+#not,conjunctions,negation,Negation word
+#or,conjunctions,alternative,Alternative conjunction
+#the,articles_determiners,definite,Definite article
+#a,articles_determiners,indefinite,Indefinite article
+#of,prepositions,possession,Possessive preposition
+#in,prepositions,location,Locative preposition

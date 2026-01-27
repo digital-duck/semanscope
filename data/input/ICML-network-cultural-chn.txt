@@ -1,0 +1,70 @@
+word,domain,type,network_root,cultural_context
+# Morphological networks for Chinese - showing character composition patterns
+# ICML-2026: Dimensionality of Meaning framework
+
+# 子-network (expanded from ACL dataset)
+孔子,people,ancient_philosopher,子,confucian_tradition
+老子,people,ancient_philosopher,子,confucian_tradition
+庄子,people,ancient_philosopher,子,confucian_tradition
+孟子,people,ancient_philosopher,子,confucian_tradition
+孙子,people,military_strategist,子,confucian_tradition
+君子,people,hierarchical_moral,子,confucian_hierarchy
+弟子,people,hierarchical_academic,子,confucian_hierarchy
+孩子,people,hierarchical_familial,子,confucian_hierarchy
+儿子,people,hierarchical_familial,子,confucian_hierarchy
+女子,people,hierarchical_social,子,confucian_hierarchy
+男子,people,hierarchical_social,子,confucian_hierarchy
+原子,science,physics_concept,子,modern_adaptation
+电子,science,physics_concept,子,modern_adaptation
+分子,science,chemistry_concept,子,modern_adaptation
+粒子,science,physics_concept,子,modern_adaptation
+
+# 心-network (heart/mind concept)
+心脏,body_parts,organ,心,body_concept
+中心,spatial_directional,location,心,spatial_concept
+核心,abstract_qualities,essence,心,abstract_concept
+用心,actions_verbs,mental_activity,心,mental_concept
+放心,emotions,feeling,心,emotional_concept
+关心,emotions,caring,心,emotional_concept
+开心,emotions,happiness,心,emotional_concept
+伤心,emotions,sadness,心,emotional_concept
+
+# 水-network (water element)
+河水,nature_elements,water_body,水,natural_element
+海水,nature_elements,water_body,水,natural_element
+雨水,nature_elements,precipitation,水,natural_element
+泪水,body_parts,bodily_fluid,水,body_concept
+药水,medicine,liquid_medicine,水,practical_use
+汽水,food,beverage,水,food_concept
+水果,food,fruit,水,food_concept
+水饺,food,dumpling,水,food_concept
+
+# 人-network (person/human concept)
+人类,people,species,人,human_category
+个人,people,individual,人,social_concept
+主人,people,host_owner,人,social_role
+客人,people,guest,人,social_role
+老人,people,elderly,人,age_category
+年轻人,people,youth,人,age_category
+中国人,people,nationality,人,cultural_identity
+外国人,people,foreigner,人,cultural_identity
+
+# 天-network (heaven/sky concept)
+天空,nature_elements,sky,天,natural_phenomenon
+天气,nature_elements,weather,天,natural_phenomenon
+昨天,time_temporal,yesterday,天,time_concept
+今天,time_temporal,today,天,time_concept
+明天,time_temporal,tomorrow,天,time_concept
+春天,time_temporal,spring,天,seasonal_concept
+夏天,time_temporal,summer,天,seasonal_concept
+冬天,time_temporal,winter,天,seasonal_concept
+
+# 学-network (learning/study concept)
+学习,actions_verbs,study,学,education_concept
+学校,places,institution,学,education_system
+学生,people,student,学,education_role
+大学,places,university,学,education_level
+中学,places,middle_school,学,education_level
+小学,places,elementary_school,学,education_level
+科学,science,knowledge,学,knowledge_domain
+哲学,philosophy,wisdom,学,knowledge_domain

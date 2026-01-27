@@ -1,0 +1,120 @@
+word,domain,type,notes,cultural_context
+# Core semantic domains for cultural comparison across CHN/JPN/KOR/VIE
+# ICML-2026: Dimensionality of Meaning framework - Vietnamese cultural resilience
+
+# Numbers (Vietnamese with tone marks showing systematic adaptation)
+một,numbers,abstract,cultural_universal,one
+hai,numbers,abstract,cultural_universal,two
+ba,numbers,abstract,cultural_universal,three
+bốn,numbers,abstract,cultural_universal,four
+năm,numbers,abstract,cultural_universal,five
+sáu,numbers,abstract,cultural_universal,six
+bảy,numbers,abstract,cultural_universal,seven
+tám,numbers,abstract,cultural_universal,eight
+chín,numbers,abstract,cultural_universal,nine
+mười,numbers,abstract,cultural_universal,ten
+
+# Family hierarchy (Vietnamese family system with cultural preservation)
+cha,family_kinship,content,vietnamese_adaptation,father
+mẹ,family_kinship,content,vietnamese_adaptation,mother
+con trai,family_kinship,content,vietnamese_adaptation,son
+con gái,family_kinship,content,vietnamese_adaptation,daughter
+ông,family_kinship,content,vietnamese_adaptation,grandfather
+bà,family_kinship,content,vietnamese_adaptation,grandmother
+anh em,family_kinship,content,vietnamese_adaptation,brother
+chị em,family_kinship,content,vietnamese_adaptation,sister
+
+# Traditional wisdom (Vietnamese cultural values with French colonial influence)
+khôn ngoan,abstract_qualities,abstract,cultural_wisdom,wisdom
+dũng cảm,abstract_qualities,abstract,cultural_wisdom,courage
+trung thực,abstract_qualities,abstract,cultural_wisdom,honesty
+khiêm tốn,abstract_qualities,abstract,cultural_wisdom,humility
+tôn trọng,abstract_qualities,abstract,cultural_wisdom,respect
+hòa hợp,abstract_qualities,abstract,cultural_wisdom,harmony
+hòa bình,abstract_qualities,abstract,cultural_wisdom,peace
+công lý,abstract_qualities,abstract,cultural_wisdom,justice
+
+# Nature elements (Vietnamese natural environment)
+kim loại,nature_elements,content,five_elements,metal
+gỗ,nature_elements,content,five_elements,wood
+nước,nature_elements,content,five_elements,water
+lửa,nature_elements,content,five_elements,fire
+đất,nature_elements,content,five_elements,earth
+mặt trời,nature_elements,content,cultural_universal,sun
+mặt trăng,nature_elements,content,cultural_universal,moon
+ngôi sao,nature_elements,content,cultural_universal,star
+núi,nature_elements,content,cultural_universal,mountain
+sông,nature_elements,content,cultural_universal,river
+
+# Body parts (universal concepts with Vietnamese tones)
+đầu,body_parts,content,cultural_universal,head
+mắt,body_parts,content,cultural_universal,eye
+mũi,body_parts,content,cultural_universal,nose
+miệng,body_parts,content,cultural_universal,mouth
+tay,body_parts,content,cultural_universal,hand
+chân,body_parts,content,cultural_universal,foot
+tim,body_parts,content,cultural_universal,heart
+
+# Animals (Vietnamese cultural significance)
+rồng,animals,content,cultural_symbol,dragon
+phượng,animals,content,cultural_symbol,phoenix
+hổ,animals,content,cultural_symbol,tiger
+sư tử,animals,content,cultural_symbol,lion
+mèo,animals,content,cultural_universal,cat
+chó,animals,content,cultural_universal,dog
+chim,animals,content,cultural_universal,bird
+cá,animals,content,cultural_universal,fish
+
+# Colors (Vietnamese color system with tonal distinctions)
+màu đỏ,colors,abstract,cultural_symbol,red
+màu vàng,colors,abstract,cultural_symbol,yellow
+màu xanh,colors,abstract,cultural_universal,blue
+màu xanh lá,colors,abstract,cultural_universal,green
+màu trắng,colors,abstract,cultural_symbol,white
+màu đen,colors,abstract,cultural_symbol,black
+màu vàng kim,colors,abstract,cultural_symbol,gold
+
+# Emotions (universal with Vietnamese tonal expression)
+vui,emotions,content,cultural_universal,happy
+buồn,emotions,content,cultural_universal,sad
+giận,emotions,content,cultural_universal,angry
+sợ,emotions,content,cultural_universal,fear
+yêu,emotions,content,cultural_universal,love
+vui mừng,emotions,content,cultural_universal,joy
+
+# Time concepts (Vietnamese temporal system)
+năm,time_temporal,content,cultural_universal,year
+tháng,time_temporal,content,cultural_universal,month
+ngày,time_temporal,content,cultural_universal,day
+mùa xuân,time_temporal,content,cultural_universal,spring
+mùa hè,time_temporal,content,cultural_universal,summer
+mùa thu,time_temporal,content,cultural_universal,autumn
+mùa đông,time_temporal,content,cultural_universal,winter
+
+# Food (Vietnamese cuisine showing cultural adaptation)
+cơm,food,content,cultural_staple,rice
+phở,food,content,cultural_dish,pho
+bánh mì,food,content,cultural_adaptation,sandwich
+trà,food,content,cultural_beverage,tea
+rượu,food,content,cultural_beverage,alcohol
+đậu phụ,food,content,cultural_ingredient,tofu
+
+# Actions (universal with Vietnamese linguistic structure)
+đi bộ,actions_verbs,content,cultural_universal,walk
+chạy,actions_verbs,content,cultural_universal,run
+ăn,actions_verbs,content,cultural_universal,eat
+uống,actions_verbs,content,cultural_universal,drink
+ngủ,actions_verbs,content,cultural_universal,sleep
+học,actions_verbs,content,cultural_value,study
+làm việc,actions_verbs,content,cultural_universal,work
+
+# Spatial concepts (Vietnamese directional system with Latin script)
+trên,spatial_directional,abstract,cultural_universal,up
+dưới,spatial_directional,abstract,cultural_universal,down
+trái,spatial_directional,abstract,cultural_universal,left
+phải,spatial_directional,abstract,cultural_universal,right
+trung tâm,spatial_directional,abstract,cultural_concept,center
+đông,spatial_directional,abstract,cultural_universal,east
+tây,spatial_directional,abstract,cultural_universal,west
+nam,spatial_directional,abstract,cultural_universal,south
+bắc,spatial_directional,abstract,cultural_universal,north

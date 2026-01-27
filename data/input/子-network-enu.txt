@@ -1,0 +1,123 @@
+Laozi
+Confucius
+Mozi
+Zhuangzi
+Mencius
+Sun Tzu
+Han Feizi
+Master Zhu (Zhu Xi)
+Disciple
+Junzi (Noble Person)
+Kid
+Son of Heaven (Emperor)
+Prince
+Crown Prince
+Imperial Concubine
+Official (subject of a ruler)
+Wife (archaic/regional)
+Man
+Blind person
+Deaf person
+Lame person
+Fat person
+Thin person
+Child
+Children (sons and daughters)
+Descendants
+Father and son
+Mother and child
+Man
+Woman
+Atom
+Molecule
+Phonon
+Ion
+Proton
+Neutron
+Electron
+Quantum
+Photon
+Particle
+Gluon
+Quark (less common)
+Boson
+Fermion
+Spore
+Seed
+Sperm
+Egg (Ovum)
+Nose
+Brain (colloquial)
+Stomach / Belly
+Neck
+Beard / Mustache
+Throat / Voice
+Kidney (colloquial)
+Pupil (of the eye)
+scar
+Lion
+Rabbit
+Mosquito
+Insect / Bug
+Pigeon / Dove
+Monkey
+Swallow (bird)
+Scorpion
+sunflower seeds
+persimmons
+peach
+tangerines
+eggplant
+beans
+chestnuts
+Room
+House
+Table
+Chair
+Stool
+Box / Trunk
+Box / Case
+Plate
+Cup / Glass
+Bottle
+Lid / Cover
+Brush
+Knife
+Spoon
+net/network
+silk
+Chopsticks
+Ladder
+Fan
+Whip
+Wheel
+Day / Date / Life
+Zi hour (11pm-1am)
+First year of the 60-year cycle
+Lifetime
+Temperament / Nature
+Face (social prestige)
+Circle / Social Circle
+Tune / Tone
+Subset
+Subgroup
+Subspace
+Subsequence
+Subroutine
+Factor
+Chess piece
+Dice
+Shuttlecock
+Flute
+Tune / Musical piece
+Swindler
+Fool
+Idiot
+Madman
+Ruffian / Hooligan
+Bitch
+Devil (derogatory for invaders)
+Foreign Devil
+Japanese Devil
+Derogatory term for Russians
+illegitimate son; unfilial son

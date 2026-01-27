@@ -1,0 +1,75 @@
+word,domain,type,network_root,cultural_context
+# Morphological networks for Japanese - showing kanji adaptation + hiragana innovation
+# ICML-2026: Dimensionality of Meaning framework
+
+# 子-network (Japanese adaptation of Chinese concept)
+孔子,people,ancient_philosopher,子,confucian_adaptation
+老子,people,ancient_philosopher,子,confucian_adaptation
+君子,people,hierarchical_moral,子,confucian_adaptation
+弟子,people,hierarchical_academic,子,confucian_adaptation
+子供,people,hierarchical_familial,子,japanese_innovation
+息子,people,hierarchical_familial,子,japanese_adaptation
+原子,science,physics_concept,子,modern_adaptation
+電子,science,physics_concept,子,modern_adaptation
+分子,science,chemistry_concept,子,modern_adaptation
+粒子,science,physics_concept,子,modern_adaptation
+
+# 心-network (heart/mind in Japanese context)
+心臓,body_parts,organ,心,body_concept
+中心,spatial_directional,location,心,spatial_concept
+核心,abstract_qualities,essence,心,abstract_concept
+安心,emotions,peace_of_mind,心,emotional_concept
+心配,emotions,worry,心,emotional_concept
+関心,emotions,interest,心,emotional_concept
+決心,emotions,determination,心,emotional_concept
+真心,emotions,sincerity,心,emotional_concept
+
+# 水-network (water element in Japanese)
+河水,nature_elements,water_body,水,natural_element
+海水,nature_elements,water_body,水,natural_element
+雨水,nature_elements,precipitation,水,natural_element
+涙,body_parts,tears,水,body_concept
+薬水,medicine,liquid_medicine,水,practical_use
+炭酸水,food,carbonated_water,水,food_concept
+水果,food,fruit,水,food_concept
+水餃子,food,dumpling,水,food_concept
+
+# 人-network (person in Japanese social context)
+人間,people,human_being,人,philosophical_concept
+個人,people,individual,人,social_concept
+主人,people,master_owner,人,social_role
+客人,people,guest,人,social_role
+老人,people,elderly,人,age_category
+若者,people,youth,人,age_category
+日本人,people,nationality,人,cultural_identity
+外国人,people,foreigner,人,cultural_identity
+
+# 天-network (heaven/sky in Japanese understanding)
+天空,nature_elements,sky,天,natural_phenomenon
+天気,nature_elements,weather,天,natural_phenomenon
+昨日,time_temporal,yesterday,天,time_concept
+今日,time_temporal,today,天,time_concept
+明日,time_temporal,tomorrow,天,time_concept
+春,time_temporal,spring,天,seasonal_concept
+夏,time_temporal,summer,天,seasonal_concept
+冬,time_temporal,winter,天,seasonal_concept
+
+# 学-network (learning in Japanese education system)
+勉強,actions_verbs,study,学,education_concept
+学校,places,institution,学,education_system
+学生,people,student,学,education_role
+大学,places,university,学,education_level
+中学,places,middle_school,学,education_level
+小学校,places,elementary_school,学,education_level
+科学,science,knowledge,学,knowledge_domain
+哲学,philosophy,wisdom,学,knowledge_domain
+
+# ひらがな innovation networks (pure Japanese concepts)
+あした,time_temporal,tomorrow,あ,hiragana_innovation
+あたま,body_parts,head,あ,hiragana_innovation
+あかい,colors,red,あ,hiragana_innovation
+あおい,colors,blue,あ,hiragana_innovation
+いく,actions_verbs,go,い,hiragana_innovation
+いえ,places,house,い,hiragana_innovation
+うみ,nature_elements,sea,う,hiragana_innovation
+うた,culture,song,う,hiragana_innovation

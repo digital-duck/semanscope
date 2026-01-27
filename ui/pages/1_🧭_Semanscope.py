@@ -128,7 +128,8 @@ def generate_visualization(visualizer, reducer, source_words, target_words_dict,
                                          "jpn": "japanese", "kor": "korean", "rus": "russian", "tha": "thai",
                                          "vie": "vietnamese"}
                         color_key = lang_color_map.get(lang_code, "english")
-                        dataset_colors = [COLOR_MAP[color_key]] * len(dataset_info['words'])
+                        actual_color = COLOR_MAP.get(color_key, COLOR_MAP.get("english", "#1f77b4"))
+                        dataset_colors = [actual_color] * len(dataset_info['words'])
                     
                     deduplicated_colors.extend(dataset_colors)
                 else:

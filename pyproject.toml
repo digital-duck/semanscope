@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = "MIT"
 authors = [
-    {name = "Wen Gong", email = "wen.gong.research@gmail.com"},
+    {name = "Digital Duck", email = "p2p2learn@outlook.com"},
 ]
 keywords = ["embeddings", "multilingual", "visualization", "NLP", "semantics", "semantic-affinity", "relational-affinity"]
 classifiers = [

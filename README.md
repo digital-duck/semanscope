@@ -251,13 +251,28 @@ GOOGLE_API_KEY=your_key_here
 If you use Semanscope in your research, please cite:
 
 ```bibtex
-@software{semanscope2026,
-  title={Semanscope: Multilingual Semantic Embedding Visualization Toolkit},
-  author={Semanscope Contributors},
-  year={2026},
-  url={https://github.com/semanscope/semanscope}
+@article{gong2025geometric,
+  title={Geometric Patterns of Meaning: A PHATE Manifold Analysis of Multi-lingual Embeddings},
+  author={Gong, Wen G.},
+  journal={arXiv preprint arXiv:2601.09731},
+  year={2025},
+  doi={10.48550/arXiv.2601.09731},
+  url={https://arxiv.org/abs/2601.09731}
+}
+
+@article{gong2025benchmarking,
+  title={Benchmarking Cross-Lingual Semantic Alignment in Multilingual Embeddings},
+  author={Gong, Wen G.},
+  journal={arXiv preprint arXiv:2601.09732},
+  year={2025},
+  doi={10.48550/arXiv.2601.09732},
+  url={https://arxiv.org/abs/2601.09732}
 }
 ```
+
+**Related Papers:**
+- [arXiv:2601.09731](https://arxiv.org/abs/2601.09731) - Geometric Patterns of Meaning: A PHATE Manifold Analysis of Multi-lingual Embeddings
+- [arXiv:2601.09732](https://arxiv.org/abs/2601.09732) - Benchmarking Cross-Lingual Semantic Alignment in Multilingual Embeddings
 
 ## License
 
